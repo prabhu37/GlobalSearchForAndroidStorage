@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Navigera hem"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Navigera uppåt"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Fler alternativ"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Klar"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Visa alla"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Välj en app"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"AV"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"PÅ"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt + "</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl + "</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"retur"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Funktion + "</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta + "</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Skift + "</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"blanksteg"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Symbol + "</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Meny + "</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Sök …"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Ta bort frågan"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Sökfråga"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Sök"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Skicka fråga"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Röstsökning"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Dela med"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Dela med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Komprimera"</string>
+    <string name="about_translators">Launchpad Contributions:
+  Carl Fredrik Sima https://launchpad.net/~cf-sima
+  OpenIntents devs https://launchpad.net/~openintents-devs
+  Rikard Edgren https://launchpad.net/~rikard-edgren</string>
+    <string name="oi_distribution_about">Om</string>
+    <string name="oi_distribution_aboutapp">OI About</string>
+    <string name="oi_distribution_aboutapp_get">Hämta OI About</string>
+    <string name="oi_distribution_aboutapp_not_available">Inget kompatibelt tillägg tillgängligt för visning av all info (kontakt, erkännande, licens)</string>
+    <string name="oi_distribution_app_name">OI Distributionsbibliotek</string>
+    <string name="oi_distribution_barcodescanner">Streckkod OI Plugin</string>
+    <string name="oi_distribution_barcodescanner_not_available">Ingen kompatibel streckkodsscanner tillgänglig.</string>
+    <string name="oi_distribution_download_market">Ladda hem från Android Market</string>
+    <string name="oi_distribution_download_market_message">Ladda hem %s från Android Market eller OpenIntents webbsida.</string>
+    <string name="oi_distribution_download_message">Ladda hem %s från OpenIntents webbsida.</string>
+    <string name="oi_distribution_download_title">Ladda ner %s</string>
+    <string name="oi_distribution_download_web">Webbnerladdning</string>
+    <string name="oi_distribution_eula_accept">Acceptera</string>
+    <string name="oi_distribution_eula_message">Var god läs och acceptera följande Slutanvändaravtal (EULA) för %s.</string>
+    <string name="oi_distribution_eula_refuse">Avbryt</string>
+    <string name="oi_distribution_eula_title">%s Slutanvändaravtal</string>
+    <string name="oi_distribution_filemanager">OI File Manager</string>
+    <string name="oi_distribution_filemanager_not_available">Inget kompatibelt filhanteringsprogram tillgängligt.</string>
+    <string name="oi_distribution_info_activity_text">%s kan användas tillsammans med följande applikationer:</string>
+    <string name="oi_distribution_info_instructions">Instruktioner</string>
+    <string name="oi_distribution_info_launch">Starta %s</string>
+    <string name="oi_distribution_info_not_available">%1$s behöver %2$s version %3$s eller högre.</string>
+    <string name="oi_distribution_launch_error">Applikationen kunde inte startas</string>
+    <string name="oi_distribution_menu_update">Kontrollera efter updateringar</string>
+    <string name="oi_distribution_name_and_version">%1$s %2$s</string>
+    <string name="oi_distribution_newversion_continue">Fortsätt</string>
+    <string name="oi_distribution_newversion_message">Välkommen till en ny version av %s.</string>
+    <string name="oi_distribution_newversion_recent_changes">Senaste ändringar:</string>
+    <string name="oi_distribution_safe">OI Safe</string>
+    <string name="oi_distribution_safe_not_available">Inget kompatibelt krypteringsprogram tillgängligt.</string>
+    <string name="oi_distribution_safe_not_available_decrypt">Inget kompatibelt program för dekryptering tillgängligt.\n\nNotera: Du behöver återställa huvudnyckeln från en säkerhetskopia för att få åtkomst till tidigare krypterad data.</string>
+    <string name="oi_distribution_support">Support</string>
+    <string name="oi_distribution_supportapp">OI Support</string>
+    <string name="oi_distribution_supportapp_get">Get OI Support</string>
+    <string name="oi_distribution_supportapp_not_available">No compatible extension available to display full info (Help/FAQ, Contact Developers, Feature request, Donations).</string>
+    <string name="oi_distribution_update_app">OI Update</string>
+    <string name="oi_distribution_update_box_text">Kontrollera manuellt efter updateringar eller installera OI Update för automatiska meddelanden.</string>
+    <string name="oi_distribution_update_check_now">Kontrollera nu</string>
+    <string name="oi_distribution_update_error">Nerladdningsapplikationen ej tillgänglig.</string>
+    <string name="oi_distribution_update_get_updater">Hämta OI Updater</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Sök"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

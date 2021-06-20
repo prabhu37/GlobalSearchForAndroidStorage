@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManager/build/intermediates/incremental/mergeFossDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManager/src/main/res/values-v11/themes.xml",
+                    "from": {
+                        "startLines": "26,35,40,2,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1353,1916,2188,17,752",
+                        "endLines": "32,37,45,13,23",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "1809,2157,2553,746,1214"
+                    },
+                    "to": {
+                        "startLines": "2,9,12,18,30",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,516,762,1132,1866",
+                        "endLines": "8,11,17,29,38",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "511,757,1127,1861,2328"
+                    }
+                }
+            ]
+        }
+    ]
+}

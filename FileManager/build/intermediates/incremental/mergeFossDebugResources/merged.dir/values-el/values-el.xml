@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="preference_sortby_names">
+        <item>Όνομα</item>
+        <item>Μέγεθος</item>
+        <item>Τελευταία τροποποίηση</item>
+        <item>File extension</item>
+    </string-array>
+    <plurals name="clipboard_info_items_to_copy">
+        <item quantity="one">%1$d item to copy</item>
+        <item quantity="other">%1$d items to copy</item>
+    </plurals>
+    <plurals name="clipboard_info_items_to_move">
+        <item quantity="one">%1$d item to move</item>
+        <item quantity="other">%1$d items to move</item>
+    </plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Πλοήγηση στην αρχική σελίδα"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Πλοήγηση προς τα επάνω"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Περισσότερες επιλογές"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Τέλος"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Εμφάνιση όλων"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Επιλέξτε μια εφαρμογή"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"ΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"διάστημα"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Αναζήτηση…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Διαγραφή ερωτήματος"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Ερώτημα αναζήτησης"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Αναζήτηση"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Υποβολή ερωτήματος"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Φωνητική αναζήτηση"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Κοινοποίηση σε"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Κοινοποίηση στην εφαρμογή <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Σύμπτυξη"</string>
+    <string name="about_comments">Διαχείριση αρχείων στην κάρτα SD με το OI Διαχειριστής Αρχείων.</string>
+    <string name="about_translators">Launchpad Contributions:
+  Giannis Konstantinidis https://launchpad.net/~giankonstantinidis
+  Nikos Aggelis https://launchpad.net/~nikosaggelis
+  OpenIntents devs https://launchpad.net/~openintents-devs</string>
+    <string name="app_name">OI Διαχείριση αρχείων</string>
+    <string name="application_not_available">Η εφαρμογή δεν είναι διαθέσιμη</string>
+    <string name="bookmark_added">Ο σελιδοδείκτης προστέθηκε</string>
+    <string name="bookmark_already_exists">Αυτό το αρχείο έχει ήδη προστεθεί στους σελιδοδείκτες</string>
+    <string name="bookmark_empty">Δεν προστέθηκαν σελιδοδείκτες</string>
+    <string name="bookmarks">Σελιδοδείκτες</string>
+    <string name="choose_filename">File name can\'t be empty!</string>
+    <string name="clipboard_dismiss">Dismiss</string>
+    <string name="clipboard_undo">Undo</string>
+    <string name="compressed_file_name">Όνομα αρχείου zip</string>
+    <string name="compressing">Γίνεται συμπίεση...</string>
+    <string name="compressing_error">Αδυναμία συμπίεσης του αντικειμένου</string>
+    <string name="compressing_success">Το αντικείμενο συμπιέστηκε με επιτυχία</string>
+    <string name="copied">Αντιγράφηκε επιτυχώς</string>
+    <string name="copied_file_name">Αντιγραφή του %s</string>
+    <string name="copied_file_name_2">Αντιγραφή %1$d από %2$s</string>
+    <string msgid="3209159573327985035" name="copy">"Αντιγραφή"</string>
+    <string name="copy_error">Μερικά ή όλα τα αντικείμενα δεν μπόρεσαν να αντιγραφούν!</string>
+    <string name="copying">Γίνεται αντιγραφή...</string>
+    <string name="create_dir_failure">Δεν ήταν δυνατή η δημιουργία καταλόγου</string>
+    <string name="create_dir_success">Ο κατάλογος δημιουργήθηκε επιτυχώς</string>
+    <string name="create_new_folder">Δημιουργία νέου φακέλου</string>
+    <string name="delete_failure">Μερικά αρχεία δεν διαγράφηκαν</string>
+    <string name="delete_success">Διεγράφη επιτυχώς</string>
+    <string name="deleting">Γίνεται διαγραφή...</string>
+    <string name="details_hidden">Κρυφό</string>
+    <string name="details_lastmodified">Τελευταία τροποποίηση</string>
+    <string name="details_no">Όχι</string>
+    <string name="details_permissions">Δικαιώματα</string>
+    <string name="details_size">Μέγεθος</string>
+    <string name="details_type">Τύπος</string>
+    <string name="details_type_file">Αρχείο</string>
+    <string name="details_type_folder">Φάκελος</string>
+    <string name="details_type_other">Άλλο</string>
+    <string name="details_yes">Ναι</string>
+    <string name="directory_pick">Επιλογή αυτού του καταλόγου</string>
+    <string name="error_generic">Προέκυψε ένα σφάλμα:</string>
+    <string name="error_media_scan">Αδυναμία αλλαγής των ρυθμίσεων της σάρωσης μέσων.</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Σύνθετες"</string>
+    <string name="extracting">Γίνεται αποσυμπίεση...</string>
+    <string name="extracting_error">Αδυναμία αποσυμπίεσης του αντικειμένου</string>
+    <string name="extracting_success">Το αντικείμενο αποσυμπιέστηκε με επιτυχία</string>
+    <string name="file_exists">Το αρχείο υπάρχει</string>
+    <string name="filename_hint">File name</string>
+    <string name="folder_name">Όνομα φακέλου</string>
+    <string name="item_icon">Εικονίδιο αντικειμένου</string>
+    <string name="loading">Γίνεται φόρτωση...</string>
+    <string name="media_scan_excluded">Αυτός ο φάκελος θα εξαιρεθεί από την επόμενη σάρωση μέσων.</string>
+    <string name="media_scan_included">Αυτός ο φάκελος θα συμπεριληφθεί στην επόμενη σάρωση μέσων.</string>
+    <string name="menu_bookmark">Σελιδοδείκτης</string>
+    <string name="menu_bookmarks">Σελιδοδείκτες</string>
+    <string name="menu_check_all">Επιλογή όλων</string>
+    <string name="menu_compress">Συμπίεση (ZIP)</string>
+    <string name="menu_copy">Αντιγραφή</string>
+    <string name="menu_create_folder">Δημιουργία φακέλου</string>
+    <string name="menu_create_shortcut">Δημιουργία συντόμευσης</string>
+    <string name="menu_delete">Διαγραφή</string>
+    <string name="menu_details">Λεπτομέρειες</string>
+    <string name="menu_donate">Donate</string>
+    <string name="menu_exclude_from_media_scan">Εξαίρεση από τη σάρωση μέσων</string>
+    <string name="menu_extract">Αποσυμπίεση (ZIP)</string>
+    <string name="menu_include_in_media_scan">Συμπερίληψη στη σάρωση μέσων</string>
+    <string name="menu_more">Περισσότερα</string>
+    <string name="menu_move">Αποκοπή</string>
+    <string name="menu_multiselect">Πολλαπλή επιλογή</string>
+    <string name="menu_open">Άνοιγμα</string>
+    <string name="menu_paste">Επικόλληση</string>
+    <string name="menu_rename">Μετονομασία</string>
+    <string name="menu_search">Αναζήτηση</string>
+    <string name="menu_send">Αποστολή</string>
+    <string name="menu_settings">Ρυθμίσεις</string>
+    <string name="menu_uncheck_all">Αποεπιλογή όλων</string>
+    <string name="move_error">Μερικά ή όλα τα αντικείμενα δεν μπόρεσαν να μετακινηθούν!</string>
+    <string name="moved">Μετακινήθηκε επιτυχώς</string>
+    <string name="moving">Γίνεται μετακίνηση...</string>
+    <string name="multiselect_title">Επιλογή πολλαπλών αρχείων</string>
+    <string name="no_selection">Δεν επιλέχτηκαν αντικείμενα</string>
+    <string msgid="478774118347071097" name="not_set">"Δεν έχει οριστεί"</string>
+    <string name="nothing_to_paste">Τίποτα για επικόλληση. Κάντε αντιγραφή ή αποκοπή αρχείων πρώτα.</string>
+    <string name="oi_distribution_about">Σχετικά</string>
+    <string name="oi_distribution_aboutapp">OI Σχετικά</string>
+    <string name="oi_distribution_aboutapp_get">Λήψη του OI Σχετικά</string>
+    <string name="oi_distribution_aboutapp_not_available">Δεν υπάρχει διαθέσιμο κάποιο συμβατό πρόσθετο για την εμφάνιση των πλήρων πληροφοριών (επικοινωνία, συντελεστές, άδεια).</string>
+    <string name="oi_distribution_app_name">OI Βιβλιοθήκη Διανομής</string>
+    <string name="oi_distribution_barcodescanner">OI Πρόσθετο Γραμμωτού Κώδικα</string>
+    <string name="oi_distribution_barcodescanner_not_available">Κανένας συμβατός  σαρωτής γραμμωτού κώδικα δεν είναι διαθέσιμος.</string>
+    <string name="oi_distribution_download_market">Λήψη από Market</string>
+    <string name="oi_distribution_download_market_message">Παρακαλούμε κάνετε λήψη το %s από το Market ή από την ιστοσελίδα του OpenIntents.</string>
+    <string name="oi_distribution_download_message">Παρακαλούμε κάνετε λήψη το %s από την ιστοσελίδα του OpenIntents.</string>
+    <string name="oi_distribution_download_title">Λήψη του %s</string>
+    <string name="oi_distribution_download_web">Λήψη από τον Ιστό</string>
+    <string name="oi_distribution_eula_accept">Αποδοχή</string>
+    <string name="oi_distribution_eula_message">Παρακαλώ διαβάστε και αποδεχτείτε την παρακάτω Άδεια Χρήσης Τελικού Χρήστη (EULA) για το %s.</string>
+    <string name="oi_distribution_eula_refuse">Ακύρωση</string>
+    <string name="oi_distribution_eula_title">%s EULA</string>
+    <string name="oi_distribution_filemanager">OI Διαχειριστής Αρχείων</string>
+    <string name="oi_distribution_filemanager_not_available">Κανένας συμβατός διαχειριστής αρχείων δεν είναι διαθέσιμος.</string>
+    <string name="oi_distribution_info_activity_text">Το %s μπορεί να χρησιμοποιηθεί με τις παρακάτω εφαρμογές:</string>
+    <string name="oi_distribution_info_instructions">Οδηγίες</string>
+    <string name="oi_distribution_info_launch">Εκκίνηση του %s</string>
+    <string name="oi_distribution_info_not_available">To %1$s απαιτεί το %2$s %3$s ή παραπάνω.</string>
+    <string name="oi_distribution_launch_error">Αδυναμία εκτέλεσης της εφαρμογής</string>
+    <string name="oi_distribution_menu_update">Έλεγχος ενημερώσεων</string>
+    <string name="oi_distribution_name_and_version">%1$s %2$s</string>
+    <string name="oi_distribution_newversion_continue">Συνέχεια</string>
+    <string name="oi_distribution_newversion_message">Καλωσορίσατε σε αυτή τη νέα έκδοση του %s.</string>
+    <string name="oi_distribution_newversion_recent_changes">Πρόσφατες αλλαγές:</string>
+    <string name="oi_distribution_safe">OI Κιβώτιο</string>
+    <string name="oi_distribution_safe_not_available">Καμία συμβατή εφαρμογή για κρυπτογράφηση δεν είναι διαθέσιμη.</string>
+    <string name="oi_distribution_safe_not_available_decrypt">Δεν υπάρχει κάποια συμβατή εφαρμογή για αποκρυπτογράφηση.\n\nΣημείωση: Πρέπει να επαναφέρετε το κύριο κλειδί από ένα αρχείο αντιγράφου ασφαλείας για να αποκτήσετε πρόσβαση σε προηγουμένως κρυπτογραφημένα δεδομένα.</string>
+    <string name="oi_distribution_support">Support</string>
+    <string name="oi_distribution_supportapp">OI Support</string>
+    <string name="oi_distribution_supportapp_get">Get OI Support</string>
+    <string name="oi_distribution_supportapp_not_available">No compatible extension available to display full info (Help/FAQ, Contact Developers, Feature request, Donations).</string>
+    <string name="oi_distribution_update_app">OI Αναβάθμιση</string>
+    <string name="oi_distribution_update_box_text">Ελέγξτε χειροκίνητα για ενημερώσεις ή εγκαταστήστε το OI Αναβάθμιση για αυτόματες ειδοποιήσεις.</string>
+    <string name="oi_distribution_update_check_now">Έλεγχος τώρα</string>
+    <string name="oi_distribution_update_error">Η λήψη της εφαρμογής δεν είναι διαθέσιμη.</string>
+    <string name="oi_distribution_update_get_updater">Λήψη του OI Αναβάθμιση</string>
+    <string name="overwrite_question">Αντικατάσταση παλαιού αρχείου;</string>
+    <string name="pick_button_default">Pick file</string>
+    <string name="pick_title">Επιλογέας αρχείου</string>
+    <string name="preference_advanced_features">Προηγμένα χαρακτηριστικά</string>
+    <string msgid="7961817945132860002" name="preference_copied">"Το \"<ns1:g id="SUMMARY">%1$s</ns1:g>\" αντιγράφηκε στο πρόχειρο."</string>
+    <string name="preference_displayhiddenfiles_summary_off">Απόκρυψη κρυφών αρχείων</string>
+    <string name="preference_displayhiddenfiles_summary_on">Εμφάνιση κρυφών αρχείων</string>
+    <string name="preference_displayhiddenfiles_title">Εμφάνιση κρυφών αρχείων</string>
+    <string name="preference_mediascan_summary_off">Απόκρυψη στοιχείου του μενού για την εξαίρεση φακέλων από τη σάρωση μέσων.</string>
+    <string name="preference_mediascan_summary_on">Εμφάνιση στοιχείου του μενού για την εξαίρεση φακέλων από τη σάρωση μέσων.</string>
+    <string name="preference_mediascan_title">Εξαίρεση από τη σάρωση μέσων</string>
+    <string name="preference_search_category">Αναζήτηση</string>
+    <string name="preference_search_dialog_message">Εκκαθάριση ιστορικού αναζήτησης;</string>
+    <string name="preference_search_title">Εκκαθάριση ιστορικού</string>
+    <string name="preference_showallwarning_summary_off">Καταστολή των προειδοποιητικών μηνυμάτων</string>
+    <string name="preference_showallwarning_summary_on">Εμφάνιση όλων των μηνυμάτων προειδοποίησης</string>
+    <string name="preference_showallwarning_title">Εφάνιση όλων των προειδοποιήσεων</string>
+    <string name="preference_sort_settings">Ρυθμίσεις ταξινόμησης</string>
+    <string name="preference_sortby">Ταξινόμηση κατά</string>
+    <string name="preference_sortby_ascending">Κατά αύξουσα σειρά</string>
+    <string name="preference_sortby_ascending_summary_off">Ταξινόμηση κατά φθίνουσα σειρά</string>
+    <string name="preference_sortby_ascending_summary_on">Ταξινόμηση κατά αύξουσα σειρά</string>
+    <string name="preference_usebestmatch_summary_off">use most recently installed app</string>
+    <string name="preference_usebestmatch_summary_on">use most suitable app</string>
+    <string name="preference_usebestmatch_title">Use best app for icons</string>
+    <string name="preference_usedarktheme_summary_off">Light theme selected</string>
+    <string name="preference_usedarktheme_summary_on">Dark theme selected</string>
+    <string name="preference_usedarktheme_title">Use dark theme (Requires restart of app)</string>
+    <string name="query_error">Σφάλμα ερωτήματος</string>
+    <string name="really_delete">Θέλετε σίγουρα να διαγράψετε το %s;</string>
+    <string name="really_delete_multiselect">Θέλετε σίγουρα να διαγράψετε %d αρχεία;</string>
+    <string name="rename_failure">Δεν ήταν δυνατή η μετονομασία</string>
+    <string name="rename_success">Μετονομάστηκε επιτυχώς</string>
+    <string name="saveas_error">Προέκυψε ένα σφάλμα.</string>
+    <string name="saveas_file_saved">Το αρχείο αποθηκεύτηκε επιτυχώς!</string>
+    <string name="saveas_no_file_picked">Δεν έχετε επιλεξει κάποιο αρχείο.</string>
+    <string name="scanning">Γίνεται σάρωση...</string>
+    <string name="search_hint">Αναζήτηση αρχείων</string>
+    <string name="search_history_cleared">Το ιστορικό αναζήτησης έχει εκκαθαριστεί</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Αναζήτηση"</string>
+    <string name="search_settings_descr">Αρχεία και φάκελοι στο μέσο</string>
+    <string name="selected">επιλεγμένα</string>
+    <string name="send_chooser_title">Αποστολή με:</string>
+    <string name="send_not_available">Καμία διαθέσιμη εφαρμογή για αποστολή.</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="show_warning_again">Επανεμφάνιση της προειδοποίησης</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="this_folder_is_empty">Αυτός ο φάκελος είναι κενός.</string>
+    <string name="title_warning_some_may_not_work">Προειδοποίηση</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"ΑΝΕΝΕΡΓΗ"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ΕΝΕΡΓΗ"</string>
+    <string name="warning_some_may_not_work">Μερικές από τις παρακάτω επιλογές μπορεί να μην λειτουργούν.</string>
+</resources>

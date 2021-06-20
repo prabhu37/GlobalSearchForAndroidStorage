@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="preference_sortby_names">
+        <item>Ім\'я</item>
+        <item>Розмір</item>
+        <item>Дата зміни</item>
+        <item>File extension</item>
+    </string-array>
+    <plurals name="clipboard_info_items_to_copy">
+        <item quantity="one">%1$d item to copy</item>
+        <item quantity="few">%1$d items to copy</item>
+        <item quantity="many">%1$d items to copy</item>
+        <item quantity="other">%1$d items to copy</item>
+    </plurals>
+    <plurals name="clipboard_info_items_to_move">
+        <item quantity="one">%1$d item to move</item>
+        <item quantity="few">%1$d item to move</item>
+        <item quantity="many">%1$d item to move</item>
+        <item quantity="other">%1$d items to move</item>
+    </plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Перейти на головну"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Перейти вгору"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Більше опцій"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Показати всі"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Вибрати програму"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"ЗНИЖКА"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"УВІМК."</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"пробіл"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Введіть пошуковий запит…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Очистити запит"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Пошуковий запит"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Пошук"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Наіслати запит"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Голосовий пошук"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Поділитися:"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Поділитися через додаток <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Згорнути"</string>
+    <string name="about_comments">Управляйте файлами на карті пам\'яті з Менеджером файлів OI File.</string>
+    <string name="about_translators">Launchpad Contributions:
+  Андрій Бандура https://launchpad.net/~andriykopanytsia</string>
+    <string name="app_name">Менеджер файлів OI</string>
+    <string name="application_not_available">Програма не доступна</string>
+    <string name="bookmark_added">Закладку додано</string>
+    <string name="bookmark_already_exists">Цей файл вже закладено</string>
+    <string name="bookmark_empty">Жодної закладки не додано.</string>
+    <string name="bookmarks">Закладки</string>
+    <string name="choose_filename">File name can\'t be empty!</string>
+    <string name="clipboard_dismiss">Dismiss</string>
+    <string name="clipboard_undo">Undo</string>
+    <string name="compressed_file_name">ім\'я файлу ZIP</string>
+    <string name="compressing">Стискається</string>
+    <string name="compressing_error">Не стиснуто елемент</string>
+    <string name="compressing_success">Елемент стиснуто успішно</string>
+    <string name="copied">Успішно скопійовано</string>
+    <string name="copied_file_name">Копія %s</string>
+    <string name="copied_file_name_2">Копія %1$d з %2$s</string>
+    <string msgid="3209159573327985035" name="copy">"Скопіювати"</string>
+    <string name="copy_error">Деякі чи всі елементи не можуть бути скопійовані!</string>
+    <string name="copying">Копіюється…</string>
+    <string name="create_dir_failure">Не вдалося створити каталог</string>
+    <string name="create_dir_success">Успішно створено каталог</string>
+    <string name="create_new_folder">Створити нову теку</string>
+    <string name="delete_failure">Деякі файли не видалені</string>
+    <string name="delete_success">Успішно видалено</string>
+    <string name="deleting">Вилучається…</string>
+    <string name="details_hidden">Прихований</string>
+    <string name="details_lastmodified">Дата зміни</string>
+    <string name="details_no">Ні</string>
+    <string name="details_permissions">Права</string>
+    <string name="details_size">Розмір</string>
+    <string name="details_type">Тип</string>
+    <string name="details_type_file">Файл</string>
+    <string name="details_type_folder">Тека</string>
+    <string name="details_type_other">Інше</string>
+    <string name="details_yes">Так</string>
+    <string name="directory_pick">Вибрати поточний каталог</string>
+    <string name="error_generic">Трапилася помилка:</string>
+    <string name="error_media_scan">Не можливо змінити параметри сканування медіа.</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Додатково"</string>
+    <string name="extracting">Видобувається…</string>
+    <string name="extracting_error">Не видобуто елемент</string>
+    <string name="extracting_success">Елемент видобути успішно</string>
+    <string name="file_exists">Файл існує</string>
+    <string name="filename_hint">File name</string>
+    <string name="folder_name">Ім\'я теки</string>
+    <string name="item_icon">Піктограма елементу</string>
+    <string name="loading">Завантаження...</string>
+    <string name="media_scan_excluded">Ця тека буде виключена з наступного сканування медіа.</string>
+    <string name="media_scan_included">Ця тека буде включена у наступне сканування медіа.</string>
+    <string name="menu_bookmark">Закладка</string>
+    <string name="menu_bookmarks">Закладки</string>
+    <string name="menu_check_all">Помітити все</string>
+    <string name="menu_compress">Стиснути (ZIP)</string>
+    <string name="menu_copy">Копіювати</string>
+    <string name="menu_create_folder">Створити теку</string>
+    <string name="menu_create_shortcut">Створити ярлик</string>
+    <string name="menu_delete">Видалити</string>
+    <string name="menu_details">Подробиці</string>
+    <string name="menu_donate">Donate</string>
+    <string name="menu_exclude_from_media_scan">Виключити із сканування медіа</string>
+    <string name="menu_extract">Видобути (ZIP)</string>
+    <string name="menu_include_in_media_scan">Включити у сканування медіа</string>
+    <string name="menu_more">Більше</string>
+    <string name="menu_move">Вирізати</string>
+    <string name="menu_multiselect">Множинний вибір</string>
+    <string name="menu_open">Відкрити</string>
+    <string name="menu_paste">Вставка</string>
+    <string name="menu_rename">Перейменувати</string>
+    <string name="menu_search">Пошук</string>
+    <string name="menu_send">Надіслати</string>
+    <string name="menu_settings">Параметри</string>
+    <string name="menu_uncheck_all">Зняти все</string>
+    <string name="move_error">Деякі чи всі елементи не можуть бути переміщені!</string>
+    <string name="moved">Успішно переміщено</string>
+    <string name="moving">Переміщується…</string>
+    <string name="multiselect_title">Вибрати декілька файлів</string>
+    <string name="no_selection">Жодний елемент не позначений</string>
+    <string msgid="478774118347071097" name="not_set">"Не налаштовано"</string>
+    <string name="nothing_to_paste">Нічого не вставлено. Скопіюйте або виріжуть спершу файл.</string>
+    <string name="oi_distribution_about">Про програму</string>
+    <string name="oi_distribution_aboutapp">Про OI</string>
+    <string name="oi_distribution_aboutapp_get">Отримати про OI</string>
+    <string name="oi_distribution_aboutapp_not_available">Нема доступного сумісного розширення для відображення повної інформації (контакти, подяки, ліцензії).</string>
+    <string name="oi_distribution_app_name">Бібліотека OI Distribution</string>
+    <string name="oi_distribution_barcodescanner">Модуль штрих-коду OI</string>
+    <string name="oi_distribution_barcodescanner_not_available">Нема доступного сумісного сканера штрих-коду</string>
+    <string name="oi_distribution_download_market">Завантажте з Маркету</string>
+    <string name="oi_distribution_download_market_message">Будь ласка,  завантажте %s з Маркету або OpenIntents сайту.</string>
+    <string name="oi_distribution_download_message">Будь ласка,  завантажте %s з OpenIntents сайту.</string>
+    <string name="oi_distribution_download_title">Завантажити %s</string>
+    <string name="oi_distribution_download_web">Завантаження з інтернету</string>
+    <string name="oi_distribution_eula_accept">Прийняти</string>
+    <string name="oi_distribution_eula_message">Будь ласка, прочитайте і прийміть таку ліцензійну угоду кінцевого користувача (EULA) для %s.</string>
+    <string name="oi_distribution_eula_refuse">Відміна</string>
+    <string name="oi_distribution_eula_title">%s EULA</string>
+    <string name="oi_distribution_filemanager">Менеджер файлів OI</string>
+    <string name="oi_distribution_filemanager_not_available">Нема доступного сумісного менеджера файлів.</string>
+    <string name="oi_distribution_info_activity_text">%s можна використовувати з наступними програмами:</string>
+    <string name="oi_distribution_info_instructions">Вказівки</string>
+    <string name="oi_distribution_info_launch">Запустити %s</string>
+    <string name="oi_distribution_info_not_available">%1$s потребує %2$s %3$s або вище.</string>
+    <string name="oi_distribution_launch_error">Програма не може запуститися</string>
+    <string name="oi_distribution_menu_update">Перевірити оновлення</string>
+    <string name="oi_distribution_name_and_version">%1$s %2$s</string>
+    <string name="oi_distribution_newversion_continue">Продовжити</string>
+    <string name="oi_distribution_newversion_message">Ласкаво просимо до цієї нової версії %s.</string>
+    <string name="oi_distribution_newversion_recent_changes">Поточні зміни:</string>
+    <string name="oi_distribution_safe">Безпека OI</string>
+    <string name="oi_distribution_safe_not_available">Нема доступної сумісної програми шифрування</string>
+    <string name="oi_distribution_safe_not_available_decrypt">Нема доступної сумісної програми шифрування. \n\nПримітка: Ви повинні відновити головний ключ з файлу резервної копії для того, щоб отримати доступ до раніше зашифрованих даних.</string>
+    <string name="oi_distribution_support">Support</string>
+    <string name="oi_distribution_supportapp">OI Support</string>
+    <string name="oi_distribution_supportapp_get">Get OI Support</string>
+    <string name="oi_distribution_supportapp_not_available">No compatible extension available to display full info (Help/FAQ, Contact Developers, Feature request, Donations).</string>
+    <string name="oi_distribution_update_app">Оновлення OI</string>
+    <string name="oi_distribution_update_box_text">Перевірити вручну оновлення або встановити OI Update для автоматичних сповіщень.</string>
+    <string name="oi_distribution_update_check_now">Перевірити зараз</string>
+    <string name="oi_distribution_update_error">Завантаження програми не доступне.</string>
+    <string name="oi_distribution_update_get_updater">Отримати OI Updater</string>
+    <string name="overwrite_question">Переписати старий файл?</string>
+    <string name="pick_button_default">Pick file</string>
+    <string name="pick_title">В</string>
+    <string name="preference_advanced_features">Додаткові можливості</string>
+    <string msgid="7961817945132860002" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\": скопійовано в буфер обміну."</string>
+    <string name="preference_displayhiddenfiles_summary_off">Сховати приховані файли</string>
+    <string name="preference_displayhiddenfiles_summary_on">Відображати приховані файли</string>
+    <string name="preference_displayhiddenfiles_title">Відображати приховані файли</string>
+    <string name="preference_mediascan_summary_off">Сховати пункт меню, щоб виключити теки із сканування медіа.</string>
+    <string name="preference_mediascan_summary_on">Показати пункт меню, щоб виключити теки із сканування медіа.</string>
+    <string name="preference_mediascan_title">Виключити із сканування медіа</string>
+    <string name="preference_search_category">Пошук</string>
+    <string name="preference_search_dialog_message">Очистити історію пошуку?</string>
+    <string name="preference_search_title">Спорожнити журнал</string>
+    <string name="preference_showallwarning_summary_off">Пригнічувати попередження</string>
+    <string name="preference_showallwarning_summary_on">Показувати всі повідомлення попередження</string>
+    <string name="preference_showallwarning_title">Показувати усі попередження</string>
+    <string name="preference_sort_settings">Параметри сортування</string>
+    <string name="preference_sortby">Сортувати за</string>
+    <string name="preference_sortby_ascending">зростанням</string>
+    <string name="preference_sortby_ascending_summary_off">Сортувати за спаданням</string>
+    <string name="preference_sortby_ascending_summary_on">Сортувати за зростанням</string>
+    <string name="preference_usebestmatch_summary_off">use most recently installed app</string>
+    <string name="preference_usebestmatch_summary_on">use most suitable app</string>
+    <string name="preference_usebestmatch_title">Use best app for icons</string>
+    <string name="preference_usedarktheme_summary_off">Light theme selected</string>
+    <string name="preference_usedarktheme_summary_on">Dark theme selected</string>
+    <string name="preference_usedarktheme_title">Use dark theme (Requires restart of app)</string>
+    <string name="query_error">Помилка запиту</string>
+    <string name="really_delete">Ви дійсно хочете видалити %s?</string>
+    <string name="really_delete_multiselect">Ви справді хочете видалити %d файлів?</string>
+    <string name="rename_failure">Не вдається перейменувати</string>
+    <string name="rename_success">Успішно перейменовано</string>
+    <string name="saveas_error">Виникла помилка.</string>
+    <string name="saveas_file_saved">Файл успішно збережено.</string>
+    <string name="saveas_no_file_picked">Ви не вибрали жодного файлу.</string>
+    <string name="scanning">Сканування…</string>
+    <string name="search_hint">Шукати файли</string>
+    <string name="search_history_cleared">Очищено історію пошуку</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Пошук"</string>
+    <string name="search_settings_descr">Файли і теки на носії</string>
+    <string name="selected">позначені</string>
+    <string name="send_chooser_title">Надіслати використовуючи:</string>
+    <string name="send_not_available">Програма недоступна для надсилання.</string>
+    <string name="settings">Параметри</string>
+    <string name="show_warning_again">Показувати попередження знову</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="this_folder_is_empty">Ця тека є порожньою.</string>
+    <string name="title_warning_some_may_not_work">Застереження</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"ВИМКНЕНО"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"УВІМКНЕНО"</string>
+    <string name="warning_some_may_not_work">Деякі з наступних параметрів можуть не працювати.</string>
+</resources>

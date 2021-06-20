@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="preference_sortby_names">
+        <item>Nume</item>
+        <item>Dimensiune</item>
+        <item>Modificat ultima dată</item>
+        <item>File extension</item>
+    </string-array>
+    <plurals name="clipboard_info_items_to_copy">
+        <item quantity="one">%1$d item to copy</item>
+        <item quantity="other">%1$d items to copy</item>
+    </plurals>
+    <plurals name="clipboard_info_items_to_move">
+        <item quantity="one">%1$d item to move</item>
+        <item quantity="other">%1$d items to move</item>
+    </plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Navigați la ecranul de pornire"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Navigați în sus"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Mai multe opțiuni"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Gata"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Afișați tot"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Alegeți o aplicație"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"DEZACTIVAT"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"ACTIVAT"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Meniu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Căutați…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Ștergeți interogarea"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Termen de căutare"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Căutați"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Trimiteți interogarea"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Căutare vocală"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Trimiteți la"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Trimiteți folosind <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Restrângeți"</string>
+    <string name="about_comments">Gestionează fișierele de pe cardul SD cu Gestionar de fișiere OI.</string>
+    <string name="about_translators">Launchpad Contributions:
+  Emrys Nurmi https://launchpad.net/~emrys-nurmi
+  OpenIntents devs https://launchpad.net/~openintents-devs
+  Peli https://launchpad.net/~peli0101
+  Robert https://launchpad.net/~usamird
+  Stelescu Raul https://launchpad.net/~stelescuraul
+  iulargsb https://launchpad.net/~iulargsb</string>
+    <string name="app_name">OI File Manager</string>
+    <string name="application_not_available">Aplicație indisponibilă</string>
+    <string name="bookmark_added">Semn de carte adăugat</string>
+    <string name="bookmark_already_exists">Acest fișier este deja semn de carte.</string>
+    <string name="bookmark_empty">Niciun favorit adăugat.</string>
+    <string name="bookmarks">Semne de carte</string>
+    <string name="choose_filename">File name can\'t be empty!</string>
+    <string name="clipboard_dismiss">Dismiss</string>
+    <string name="clipboard_undo">Undo</string>
+    <string name="compressed_file_name">Nume fișier zip</string>
+    <string name="compressing">Comprimare...</string>
+    <string name="compressing_error">Nu s-a putut comprima elementul</string>
+    <string name="compressing_success">Element comprimat cu succes</string>
+    <string name="copied">Copiat cu succes</string>
+    <string name="copied_file_name">Copie a %s</string>
+    <string name="copied_file_name_2">Copiază %1$d din %2$s</string>
+    <string msgid="3209159573327985035" name="copy">"Copiați"</string>
+    <string name="copy_error">Câteva sau toate elementele nu s-au putut muta!</string>
+    <string name="copying">Copiere...</string>
+    <string name="create_dir_failure">Nu s-a putut crea directorul</string>
+    <string name="create_dir_success">Dosar creat cu succes</string>
+    <string name="create_new_folder">Crează un dosar nou</string>
+    <string name="delete_failure">Unele fișiere nu au fost șterse</string>
+    <string name="delete_success">Șters cu succes</string>
+    <string name="deleting">Ștergere...</string>
+    <string name="details_hidden">Ascuns</string>
+    <string name="details_lastmodified">Ultimul Modificat</string>
+    <string name="details_no">Nu</string>
+    <string name="details_permissions">Permisiuni</string>
+    <string name="details_size">Dimensiune</string>
+    <string name="details_type">Tip</string>
+    <string name="details_type_file">Fișier</string>
+    <string name="details_type_folder">Dosar</string>
+    <string name="details_type_other">Alte</string>
+    <string name="details_yes">Da</string>
+    <string name="directory_pick">Selectare dosar curent</string>
+    <string name="error_generic">A apărut o eroare:</string>
+    <string name="error_media_scan">Nu s-au putut schimba configurările scanării media.</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Avansat"</string>
+    <string name="extracting">Extragere...</string>
+    <string name="extracting_error">Nu s-a putut extrage elementul</string>
+    <string name="extracting_success">Element extras cu succes</string>
+    <string name="file_exists">Fișierul există</string>
+    <string name="filename_hint">File name</string>
+    <string name="folder_name">Numele dosarului</string>
+    <string name="item_icon">Pictogramă element</string>
+    <string name="loading">Încărcare...</string>
+    <string name="media_scan_excluded">Acest dosar va fi exclus în timpul următoarei scanări media.</string>
+    <string name="media_scan_included">Acest dosar va fi inclus în următoarea scanare media.</string>
+    <string name="menu_bookmark">Favorit</string>
+    <string name="menu_bookmarks">Semne de carte</string>
+    <string name="menu_check_all">Bifează toate</string>
+    <string name="menu_compress">Comprimă (ZIP)</string>
+    <string name="menu_copy">Copiază</string>
+    <string name="menu_create_folder">Crează dosar</string>
+    <string name="menu_create_shortcut">Creează scurtătură</string>
+    <string name="menu_delete">Șterge</string>
+    <string name="menu_details">Detalii</string>
+    <string name="menu_donate">Donate</string>
+    <string name="menu_exclude_from_media_scan">Exclude din scanare media</string>
+    <string name="menu_extract">Extrage (ZIP)</string>
+    <string name="menu_include_in_media_scan">Include în scanare media</string>
+    <string name="menu_more">Mai mult</string>
+    <string name="menu_move">Tăiere</string>
+    <string name="menu_multiselect">Selectează multiplu</string>
+    <string name="menu_open">Deschide</string>
+    <string name="menu_paste">Lipește</string>
+    <string name="menu_rename">Redenumește</string>
+    <string name="menu_search">Căutare</string>
+    <string name="menu_send">Trimite</string>
+    <string name="menu_settings">Configurări</string>
+    <string name="menu_uncheck_all">Debifează toate</string>
+    <string name="move_error">Câteva sau toate elementele nu s-au putut muta!</string>
+    <string name="moved">Mutat cu succes</string>
+    <string name="moving">Mutare...</string>
+    <string name="multiselect_title">Selectează fișiere multiple</string>
+    <string name="no_selection">Niciun element bifat</string>
+    <string msgid="478774118347071097" name="not_set">"Nesetată"</string>
+    <string name="nothing_to_paste">Nimic de lipit. Copiați sau tăiați fișiere mai întâi.</string>
+    <string name="oi_distribution_about">Despre</string>
+    <string name="oi_distribution_aboutapp">Despre OI</string>
+    <string name="oi_distribution_aboutapp_get">Obține Despre OI</string>
+    <string name="oi_distribution_aboutapp_not_available">Nu este disponibilă nicio extensie compatibilă pentru a afișa informațiile complete (contact, autori, licență).</string>
+    <string name="oi_distribution_app_name">Bibliotecă de distribuție OI</string>
+    <string name="oi_distribution_barcodescanner">Modul Cod de bare OI</string>
+    <string name="oi_distribution_barcodescanner_not_available">Nu există un scanner pentru cod de bare disponibil.</string>
+    <string name="oi_distribution_download_market">Descărcare Market</string>
+    <string name="oi_distribution_download_market_message">Descărcați %s de la Market sau de pe pagina principală OpenIntents.</string>
+    <string name="oi_distribution_download_message">Descărcați %s de la pagina principală OpenIntents.</string>
+    <string name="oi_distribution_download_title">Descarcă %s</string>
+    <string name="oi_distribution_download_web">Descărcare web</string>
+    <string name="oi_distribution_eula_accept">Acceptă</string>
+    <string name="oi_distribution_eula_message">Citiți și acceptați următorul Acord de Licențiere pentru Utilizatorul Final (EULA) pentru %s.</string>
+    <string name="oi_distribution_eula_refuse">Anulează</string>
+    <string name="oi_distribution_eula_title">%s EULA</string>
+    <string name="oi_distribution_filemanager">Gestionar de fișiere OI</string>
+    <string name="oi_distribution_filemanager_not_available">Nu este disponibil niciun gestionar de fișiere compatibil.</string>
+    <string name="oi_distribution_info_activity_text">%s poate fi utilizat cu următoarele aplicații:</string>
+    <string name="oi_distribution_info_instructions">Instrucțiuni</string>
+    <string name="oi_distribution_info_launch">Pornește %s</string>
+    <string name="oi_distribution_info_not_available">%1$s necesită %2$s %3$s sau mai mult.</string>
+    <string name="oi_distribution_launch_error">Nu s-a putut porni aplicație</string>
+    <string name="oi_distribution_menu_update">Verifică actualizările</string>
+    <string name="oi_distribution_name_and_version">%1$s %2$s</string>
+    <string name="oi_distribution_newversion_continue">Continuați</string>
+    <string name="oi_distribution_newversion_message">Bine ați venit la această nouă versiune a %s.</string>
+    <string name="oi_distribution_newversion_recent_changes">Modificări recente:</string>
+    <string name="oi_distribution_safe">OI Safe</string>
+    <string name="oi_distribution_safe_not_available">Nu este disponibilă nicio aplicație compatibilă pentru criptare.</string>
+    <string name="oi_distribution_safe_not_available_decrypt">Nu este disponibilă nicio aplicație compatibilă pentru decriptare.\n\nNotă: Trebuie să restaurați cheia principală dintr-un fișier copie de rezervă pentru a accesa datele criptate anterior.</string>
+    <string name="oi_distribution_support">Support</string>
+    <string name="oi_distribution_supportapp">OI Support</string>
+    <string name="oi_distribution_supportapp_get">Get OI Support</string>
+    <string name="oi_distribution_supportapp_not_available">No compatible extension available to display full info (Help/FAQ, Contact Developers, Feature request, Donations).</string>
+    <string name="oi_distribution_update_app">Actualizare OI</string>
+    <string name="oi_distribution_update_box_text">Verificați manual pentru actualizări sau instalați Actualizare OI pentru înștiințări automate.</string>
+    <string name="oi_distribution_update_check_now">Verifică acum</string>
+    <string name="oi_distribution_update_error">Aplicația pentru descărcare nu este disponibilă.</string>
+    <string name="oi_distribution_update_get_updater">Obține Actualizare OI</string>
+    <string name="overwrite_question">Suprascrieți fișier vechi?</string>
+    <string name="pick_button_default">Pick file</string>
+    <string name="pick_title">Selector fișier</string>
+    <string name="preference_advanced_features">Funcții avansate</string>
+    <string msgid="7961817945132860002" name="preference_copied">"„<ns1:g id="SUMMARY">%1$s</ns1:g>” a fost copiat în clipboard."</string>
+    <string name="preference_displayhiddenfiles_summary_off">Ascunde fișierele ascunse</string>
+    <string name="preference_displayhiddenfiles_summary_on">Arată toate fișierele ascunse</string>
+    <string name="preference_displayhiddenfiles_title">Arată toate fișierele ascunse</string>
+    <string name="preference_mediascan_summary_off">Ascunde elementul meniu pentru a exclude dosare din scanarea media.</string>
+    <string name="preference_mediascan_summary_on">Afișează elementul meniu pentru a exclude dosare din scanarea media.</string>
+    <string name="preference_mediascan_title">Exclude din scanare media</string>
+    <string name="preference_search_category">Căutare</string>
+    <string name="preference_search_dialog_message">Eliberați istoricul de căutare?</string>
+    <string name="preference_search_title">Eliberare istoric</string>
+    <string name="preference_showallwarning_summary_off">Suprimă mesajele avertizărilor</string>
+    <string name="preference_showallwarning_summary_on">Afișează toate mesajele avertizărilor</string>
+    <string name="preference_showallwarning_title">Afișează toate avertizările</string>
+    <string name="preference_sort_settings">Configurări sortare</string>
+    <string name="preference_sortby">Sortează după</string>
+    <string name="preference_sortby_ascending">În ordine ascendentă</string>
+    <string name="preference_sortby_ascending_summary_off">Sotează în ordine descendentă</string>
+    <string name="preference_sortby_ascending_summary_on">Sortează în ordine ascendentă</string>
+    <string name="preference_usebestmatch_summary_off">use most recently installed app</string>
+    <string name="preference_usebestmatch_summary_on">use most suitable app</string>
+    <string name="preference_usebestmatch_title">Use best app for icons</string>
+    <string name="preference_usedarktheme_summary_off">Light theme selected</string>
+    <string name="preference_usedarktheme_summary_on">Dark theme selected</string>
+    <string name="preference_usedarktheme_title">Use dark theme (Requires restart of app)</string>
+    <string name="query_error">Eroare de interogare</string>
+    <string name="really_delete">Sigur doriți să ștergeți %s?</string>
+    <string name="really_delete_multiselect">Sigur doriți ștergerea a %d fișiere?</string>
+    <string name="rename_failure">Nu s-a putut redenumi</string>
+    <string name="rename_success">Redenumit cu succes</string>
+    <string name="saveas_error">A apărut o eroare.</string>
+    <string name="saveas_file_saved">Fișierul a fost salvat cu succes!</string>
+    <string name="saveas_no_file_picked">Nu ați ales niciun fișier.</string>
+    <string name="scanning">Scanare...</string>
+    <string name="search_hint">Caută fișiere</string>
+    <string name="search_history_cleared">Istoric de căutare eliberat</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Căutați"</string>
+    <string name="search_settings_descr">Fiișiere și dosare în stocare</string>
+    <string name="selected">selectat</string>
+    <string name="send_chooser_title">Trimite utilizând:</string>
+    <string name="send_not_available">Nu există aplicație pentru trimitere.</string>
+    <string name="settings">Configurări</string>
+    <string name="show_warning_again">Arată avertizarea din nou</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="this_folder_is_empty">Dosarul este gol.</string>
+    <string name="title_warning_some_may_not_work">Avertizare</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"DEZACTIVAT"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ACTIVAT"</string>
+    <string name="warning_some_may_not_work">Una din următoarele opțiuni s-ar putea să nu funcționeze.</string>
+</resources>

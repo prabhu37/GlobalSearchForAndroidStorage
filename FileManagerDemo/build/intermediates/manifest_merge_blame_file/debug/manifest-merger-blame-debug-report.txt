@@ -1,0 +1,87 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.openintents.filemanager.demo"
+4    android:versionCode="47"
+5    android:versionName="2.3.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml
+10    <!--
+11    History:
+12    1.0.2 [3]: 2011-02-13
+13    1.0.1 [2]: 2011-02-05
+14    1.0.0 [1]: 2008-12-11
+15    -->
+16
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:11:5-79
+17-->/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:11:22-77
+18
+19    <uses-feature
+19-->[com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:18:5-20:36
+20        android:name="android.hardware.touchscreen"
+20-->[com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:19:9-52
+21        android:required="false" />
+21-->[com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:20:9-33
+22
+23    <application
+23-->/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:13:5-23:19
+24        android:allowBackup="false"
+24-->/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:14:9-36
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/333a3fa6a67a89f8c0379ab044666050/core-1.1.0/AndroidManifest.xml:24:18-86
+26        android:debuggable="true"
+27        android:icon="@drawable/icon"
+27-->/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:13:18-47
+28        android:label="@string/app_name"
+28-->/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:13:48-80
+29        android:testOnly="true" >
+30        <activity
+30-->/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:16:9-22:20
+31            android:name="org.openintents.filemanager.demo.Demo"
+31-->/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:16:19-39
+32            android:label="@string/app_name" >
+32-->/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:17:19-51
+33            <intent-filter>
+33-->/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:18:13-21:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:19:17-68
+34-->/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:19:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:20:17-76
+36-->/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:20:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->[com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:23:9-26:20
+40            android:name="org.openintents.distribution.EulaActivity"
+40-->[com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:24:13-69
+41            android:label="@string/oi_distribution_eula_title" >
+41-->[com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:25:13-63
+42        </activity>
+43        <activity
+43-->[com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:27:9-37:20
+44            android:name="org.openintents.distribution.about.About"
+44-->[com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:28:13-68
+45            android:label="@string/about" >
+45-->[com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:29:13-42
+46
+47            <!-- android:launchMode="singleTop" android:screenOrientation="sensor" -->
+48            <intent-filter>
+48-->[com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:32:13-36:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:19:17-68
+49-->/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:19:25-66
+50
+51                <category android:name="android.intent.category.MONKEY" />
+51-->[com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:35:17-75
+51-->[com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:35:27-72
+52            </intent-filter>
+53        </activity>
+54    </application>
+55
+56</manifest>

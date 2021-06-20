@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="preference_sortby_names">
+        <item>Name</item>
+        <item>Velicina</item>
+        <item>Posljednja izmjena</item>
+        <item>File extension</item>
+    </string-array>
+    <plurals name="clipboard_info_items_to_copy">
+        <item quantity="one">%1$d item to copy</item>
+        <item quantity="other">%1$d items to copy</item>
+        <item quantity="few">%1$d items to copy</item>
+    </plurals>
+    <plurals name="clipboard_info_items_to_move">
+        <item quantity="one">%1$d item to move</item>
+        <item quantity="other">%1$d items to move</item>
+        <item quantity="few">%1$d items to move</item>
+    </plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Vratite se na početnu stranicu"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Idi gore"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Više opcija"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Gotovo"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Prikaži sve"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Odaberite aplikaciju"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"ISKLJUČENO"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"UKLJUČENO"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"razmak"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Pretražite..."</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Obriši upit"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Pretraži upit"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Pretraži"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Pošalji upit"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Glasovno pretraživanje"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Dijeli sa"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Dijeli putem aplikacije <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Suzi"</string>
+    <string name="about_comments">Upravljanje Fajlovima na SD kartici sa OI File Manager.</string>
+    <string name="about_translators">Launchpad Contributions:
+  Almin Islamović https://launchpad.net/~almin-islamovic</string>
+    <string name="app_name">OI Fajl Meneger</string>
+    <string name="application_not_available">Aplikacije nedostupna.</string>
+    <string name="bookmark_added">Zabilješka dodana</string>
+    <string name="bookmark_already_exists">Fajl je već zabilježen</string>
+    <string name="bookmark_empty">No bookmarks added.</string>
+    <string name="bookmarks">Zabilješke</string>
+    <string name="choose_filename">File name can\'t be empty!</string>
+    <string name="clipboard_dismiss">Dismiss</string>
+    <string name="clipboard_undo">Undo</string>
+    <string name="compressed_file_name">Zip file name</string>
+    <string name="compressing">Compressing…</string>
+    <string name="compressing_error">Neuspješno kompresovanje predmeta</string>
+    <string name="compressing_success">Predmet uspješno kompresovan</string>
+    <string name="copied">Successfully copied</string>
+    <string name="copied_file_name">Kopija od %s</string>
+    <string name="copied_file_name_2">Copy %1$d of %2$s</string>
+    <string msgid="3209159573327985035" name="copy">"Kopiraj"</string>
+    <string name="copy_error">Some or all items couldn\'t be copied!</string>
+    <string name="copying">Copying…</string>
+    <string name="create_dir_failure">Couldn\'t create directory</string>
+    <string name="create_dir_success">Successfully created directory</string>
+    <string name="create_new_folder">Create new folder</string>
+    <string name="delete_failure">Some files not deleted</string>
+    <string name="delete_success">Successfully deleted</string>
+    <string name="deleting">Deleting…</string>
+    <string name="details_hidden">Skriven</string>
+    <string name="details_lastmodified">Zadnja izmjena</string>
+    <string name="details_no">Ne</string>
+    <string name="details_permissions">Permissions</string>
+    <string name="details_size">Velicina</string>
+    <string name="details_type">Vrsta</string>
+    <string name="details_type_file">Fajl</string>
+    <string name="details_type_folder">Folder</string>
+    <string name="details_type_other">Ostalo</string>
+    <string name="details_yes">Da</string>
+    <string name="directory_pick">Select current directory</string>
+    <string name="error_generic">Error se pojavio:</string>
+    <string name="error_media_scan">Ne mogu promijeniti media scan postavke.</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Napredno"</string>
+    <string name="extracting">Extracting…</string>
+    <string name="extracting_error">Ne moguće ekstraktovat predmet</string>
+    <string name="extracting_success">Predmet uspješno ekstraktovan</string>
+    <string name="file_exists">File exists</string>
+    <string name="filename_hint">File name</string>
+    <string name="folder_name">Naziv foldera</string>
+    <string name="item_icon">Item icon</string>
+    <string name="loading">Loading…</string>
+    <string name="media_scan_excluded">Ovaj folder će biti isključen u sljedećem media scanu</string>
+    <string name="media_scan_included">Ovaj folder će biti uključen u sljedećem medija skenu</string>
+    <string name="menu_bookmark">Bookmark</string>
+    <string name="menu_bookmarks">Zabilješke</string>
+    <string name="menu_check_all">Check all</string>
+    <string name="menu_compress">Kompresuj (ZIP)</string>
+    <string name="menu_copy">kopiraj</string>
+    <string name="menu_create_folder">Create folder</string>
+    <string name="menu_create_shortcut">Create shortcut</string>
+    <string name="menu_delete">Brisanje</string>
+    <string name="menu_details">Detalji</string>
+    <string name="menu_donate">Donate</string>
+    <string name="menu_exclude_from_media_scan">Exclude from media scan</string>
+    <string name="menu_extract">Ekstraktuj (ZIP)</string>
+    <string name="menu_include_in_media_scan">Include in media scan</string>
+    <string name="menu_more">Više</string>
+    <string name="menu_move">Cut</string>
+    <string name="menu_multiselect">Multiselect</string>
+    <string name="menu_open">Otvori</string>
+    <string name="menu_paste">Paste</string>
+    <string name="menu_rename">Preimenuj</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_send">Šalji</string>
+    <string name="menu_settings">Postavke</string>
+    <string name="menu_uncheck_all">Uncheck all</string>
+    <string name="move_error">Some or all items couldn\'t be moved!</string>
+    <string name="moved">Successfully moved</string>
+    <string name="moving">Moving…</string>
+    <string name="multiselect_title">Izaberi više fajlova</string>
+    <string name="no_selection">No items checked</string>
+    <string msgid="478774118347071097" name="not_set">"Nije postavljeno"</string>
+    <string name="nothing_to_paste">Nothing to paste. Copy or cut files first.</string>
+    <string name="oi_distribution_about">O programu</string>
+    <string name="oi_distribution_aboutapp">OI About</string>
+    <string name="oi_distribution_aboutapp_get">Preuzmi OI o programu</string>
+    <string name="oi_distribution_aboutapp_not_available">Nema kompatibilne extenzije dostupne za prikaz cijele informacije (kontakti, license, kredit)</string>
+    <string name="oi_distribution_app_name">OI biblioteka distribucije</string>
+    <string name="oi_distribution_barcodescanner">OI plugin za Barkod</string>
+    <string name="oi_distribution_barcodescanner_not_available">Nema kompatibilnog barkod skenera</string>
+    <string name="oi_distribution_download_market">Market preuzimanja</string>
+    <string name="oi_distribution_download_market_message">Molimo skinite %s sa Marketa ili OpenIntents websajta</string>
+    <string name="oi_distribution_download_message">Molimo skinite %s sa OpenIntents websajta</string>
+    <string name="oi_distribution_download_title">Preuzimanje %s</string>
+    <string name="oi_distribution_download_web">Web Preuzimanje</string>
+    <string name="oi_distribution_eula_accept">Prihvati</string>
+    <string name="oi_distribution_eula_message">Molimo pričitajte i prihvatite sljedeće Licencni ugovor s krajnjim korisnikom (EULA) za %s.</string>
+    <string name="oi_distribution_eula_refuse">Odustani</string>
+    <string name="oi_distribution_eula_title">%s EULA</string>
+    <string name="oi_distribution_filemanager">OI Fajl Meneger</string>
+    <string name="oi_distribution_filemanager_not_available">No compatible file manager is available.</string>
+    <string name="oi_distribution_info_activity_text">%s moguće je koristit sa sljedećim aplikacijama:</string>
+    <string name="oi_distribution_info_instructions">Instrukcije</string>
+    <string name="oi_distribution_info_launch">Pokreni %s</string>
+    <string name="oi_distribution_info_not_available">%1$s requires %2$s %3$s or higher.</string>
+    <string name="oi_distribution_launch_error">Aplikaciju je nemoguće pokrenuti</string>
+    <string name="oi_distribution_menu_update">Provjeri Update:</string>
+    <string name="oi_distribution_name_and_version">%1$s %2$s</string>
+    <string name="oi_distribution_newversion_continue">Nastavi</string>
+    <string name="oi_distribution_newversion_message">Dobrodošli na novu verziju %s.</string>
+    <string name="oi_distribution_newversion_recent_changes">Nedavne promjene:</string>
+    <string name="oi_distribution_safe">OI sigurnost</string>
+    <string name="oi_distribution_safe_not_available">Nema kompatibilne aplikacije za enkripcije</string>
+    <string name="oi_distribution_safe_not_available_decrypt">No compatible application for decryption is available.\n\nNote: You have to restore the master key from a backup file in order to access previously encrypted data.</string>
+    <string name="oi_distribution_support">Support</string>
+    <string name="oi_distribution_supportapp">OI Support</string>
+    <string name="oi_distribution_supportapp_get">Get OI Support</string>
+    <string name="oi_distribution_supportapp_not_available">No compatible extension available to display full info (Help/FAQ, Contact Developers, Feature request, Donations).</string>
+    <string name="oi_distribution_update_app">OI Update</string>
+    <string name="oi_distribution_update_box_text">Provjeri manualno za update ili instalirajte OI update zaautomatske obavijesti</string>
+    <string name="oi_distribution_update_check_now">Provjeri sada</string>
+    <string name="oi_distribution_update_error">Download application not available.</string>
+    <string name="oi_distribution_update_get_updater">Preuzmi OI updater</string>
+    <string name="overwrite_question">Overwrite old file?</string>
+    <string name="pick_button_default">Pick file</string>
+    <string name="pick_title">File picker</string>
+    <string name="preference_advanced_features">Advanced features</string>
+    <string msgid="7961817945132860002" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" kopirano u međuspremnik."</string>
+    <string name="preference_displayhiddenfiles_summary_off">Sakvij skrivene fajlove.</string>
+    <string name="preference_displayhiddenfiles_summary_on">Prikaži skrivene fajlove.</string>
+    <string name="preference_displayhiddenfiles_title">Prikaži skrivene fajlove.</string>
+    <string name="preference_mediascan_summary_off">Hide menu item to exclude folders from media scan.</string>
+    <string name="preference_mediascan_summary_on">Show menu item to exclude folders from media scan.</string>
+    <string name="preference_mediascan_title">Exclude from media scan</string>
+    <string name="preference_search_category">Search</string>
+    <string name="preference_search_dialog_message">Clear search history?</string>
+    <string name="preference_search_title">Clear history</string>
+    <string name="preference_showallwarning_summary_off">Prekrij poruke upozorenja.</string>
+    <string name="preference_showallwarning_summary_on">Prikaži sve upozoravajuće poruke</string>
+    <string name="preference_showallwarning_title">Prikaži sva upozorenja.</string>
+    <string name="preference_sort_settings">Sortiraj postavke.</string>
+    <string name="preference_sortby">Poredaj po</string>
+    <string name="preference_sortby_ascending">Poredaj Uzlazno</string>
+    <string name="preference_sortby_ascending_summary_off">Sort in descending order</string>
+    <string name="preference_sortby_ascending_summary_on">Sort in ascending order</string>
+    <string name="preference_usebestmatch_summary_off">use most recently installed app</string>
+    <string name="preference_usebestmatch_summary_on">use most suitable app</string>
+    <string name="preference_usebestmatch_title">Use best app for icons</string>
+    <string name="preference_usedarktheme_summary_off">Light theme selected</string>
+    <string name="preference_usedarktheme_summary_on">Dark theme selected</string>
+    <string name="preference_usedarktheme_title">Use dark theme (Requires restart of app)</string>
+    <string name="query_error">Query error</string>
+    <string name="really_delete">Do you really want to delete %s?</string>
+    <string name="really_delete_multiselect">Da li stvarno želite izbrisati %d fajlove?</string>
+    <string name="rename_failure">Couldn\'t rename</string>
+    <string name="rename_success">Successfully renamed</string>
+    <string name="saveas_error">Došlo je do greške.</string>
+    <string name="saveas_file_saved">Fajl uspješno spašen!</string>
+    <string name="saveas_no_file_picked">Niste nijedan fajl izabrali</string>
+    <string name="scanning">Scanning…</string>
+    <string name="search_hint">Search files</string>
+    <string name="search_history_cleared">Search history cleared</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Pretražite"</string>
+    <string name="search_settings_descr">Files and folders in storage</string>
+    <string name="selected">selected</string>
+    <string name="send_chooser_title">Send using:</string>
+    <string name="send_not_available">Nema aplikacije dostupne za slanje.</string>
+    <string name="settings">Postavke</string>
+    <string name="show_warning_again">Prikaži ponovo upozorenje</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="this_folder_is_empty">Ovaj direktorij je prazan.</string>
+    <string name="title_warning_some_may_not_work">Upozoranje</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"ISKLJUČENO"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"UKLJUČENO"</string>
+    <string name="warning_some_may_not_work">Some of the following options may not work.</string>
+</resources>

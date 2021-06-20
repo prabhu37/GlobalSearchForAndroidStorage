@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="preference_sortby_names">
+        <item>نام</item>
+        <item>اندازه‌</item>
+        <item>تعديل گذشته</item>
+        <item>File extension</item>
+    </string-array>
+    <plurals name="clipboard_info_items_to_copy">
+        <item quantity="one">%1$d item to copy</item>
+        <item quantity="other">%1$d items to copy</item>
+    </plurals>
+    <plurals name="clipboard_info_items_to_move">
+        <item quantity="one">%1$d item to move</item>
+        <item quantity="other">%1$d items to move</item>
+    </plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"پیمایش به صفحه اصلی"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"رفتن به بالا"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"گزینه‌های بیشتر"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"تمام"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"دیدن همه"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"انتخاب برنامه"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"خاموش"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"روشن"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"‎Alt+‎"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"‎Ctrl+‎"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"حذف"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"‎Function+‎"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"‎Meta+‎"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"‎Shift+‎"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"فاصله"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"‎Sym+‎"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"منو+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"جستجو…‏"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"پاک کردن پُرسمان"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"درخواست جستجو"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"جستجو"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"ارسال پُرسمان"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"جستجوی گفتاری"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"هم‌رسانی با"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"هم‌رسانی با <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"کوچک کردن"</string>
+    <string name="about_comments">اداره دفتر ساحوي دارالانشاءقانون SD اساسي براندن بورگ در اين پرونده کارت مدير OI ميخواندند.</string>
+    <string name="about_translators">Launchpad Contributions:
+  Ben Jordan https://launchpad.net/~ben-jordan86
+  OpenIntents devs https://launchpad.net/~openintents-devs</string>
+    <string name="app_name">OI مدير پرونده‌</string>
+    <string name="application_not_available">پشتكار موجود نه</string>
+    <string name="bookmark_added">نشانکها وی افزود</string>
+    <string name="bookmark_already_exists">اين پرونده هم اكنون نشانه</string>
+    <string name="bookmark_empty">No bookmarks added.</string>
+    <string name="bookmarks">نشانکها</string>
+    <string name="choose_filename">File name can\'t be empty!</string>
+    <string name="clipboard_dismiss">Dismiss</string>
+    <string name="clipboard_undo">Undo</string>
+    <string name="compressed_file_name">Zip file name</string>
+    <string name="compressing">Compressing…</string>
+    <string name="compressing_error">نمى توانست به یک کمپرس بگذارم ردیف</string>
+    <string name="compressing_success">تكه‌ فشرده با موفقيت</string>
+    <string name="copied">Successfully copied</string>
+    <string name="copied_file_name">نسخه اي از %s</string>
+    <string name="copied_file_name_2">رونوشت‌ %1$d از %2$s</string>
+    <string msgid="3209159573327985035" name="copy">"کپی"</string>
+    <string name="copy_error">Some or all items couldn\'t be copied!</string>
+    <string name="copying">Copying…</string>
+    <string name="create_dir_failure">Couldn\'t create directory</string>
+    <string name="create_dir_success">Successfully created directory</string>
+    <string name="create_new_folder">جديد ايجاد تاه‌ كن‌</string>
+    <string name="delete_failure">Some files not deleted</string>
+    <string name="delete_success">Successfully deleted</string>
+    <string name="deleting">Deleting…</string>
+    <string name="details_hidden">پنهان</string>
+    <string name="details_lastmodified">تعديل گذشته</string>
+    <string name="details_no">نخیر</string>
+    <string name="details_permissions">براى سفرشان</string>
+    <string name="details_size">اندازه‌</string>
+    <string name="details_type">نوعی</string>
+    <string name="details_type_file">پرونده‌</string>
+    <string name="details_type_folder">تاه‌ كن‌</string>
+    <string name="details_type_other">ديگر</string>
+    <string name="details_yes">بله</string>
+    <string name="directory_pick">Select current directory</string>
+    <string name="error_generic">يك اشتباه رخ داد:</string>
+    <string name="error_media_scan">تغيير نمي توانست رسانه های ما بدنبال یک اسکن بکنیم.</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"پیشرفته"</string>
+    <string name="extracting">Extracting…</string>
+    <string name="extracting_error">نمى توانست استخراج بخش‌</string>
+    <string name="extracting_success">تكه‌ با موفقيت استخراج</string>
+    <string name="file_exists">File exists</string>
+    <string name="filename_hint">File name</string>
+    <string name="folder_name">لفاف‌ نام</string>
+    <string name="item_icon">Item icon</string>
+    <string name="loading">Loading…</string>
+    <string name="media_scan_excluded">لفاف‌ محروم خواهد شد این در رسانه های آينده کت اسکن انجام بدهیم.</string>
+    <string name="media_scan_included">لفاف‌ اين منظور خواهد شد تا رسانه ها با وزن‌ خواندن‌............. .          ..</string>
+    <string name="menu_bookmark">Bookmark</string>
+    <string name="menu_bookmarks">نشانکها</string>
+    <string name="menu_check_all">Check all</string>
+    <string name="menu_compress">بهم‌ فشردن‌ (زور)</string>
+    <string name="menu_copy">رونوشت‌</string>
+    <string name="menu_create_folder">Create folder</string>
+    <string name="menu_create_shortcut">Create shortcut</string>
+    <string name="menu_delete">انداختن‌</string>
+    <string name="menu_details">جزئيات</string>
+    <string name="menu_donate">Donate</string>
+    <string name="menu_exclude_from_media_scan">محروم‌ كردن‌ از رسانه ها با وزن‌ خواندن‌</string>
+    <string name="menu_extract">اقتباس‌ كردن‌ (زور)</string>
+    <string name="menu_include_in_media_scan">در رسانه ها شامل یک اسکن بکنیم</string>
+    <string name="menu_more">بيشتر</string>
+    <string name="menu_move">Cut</string>
+    <string name="menu_multiselect">Multiselect</string>
+    <string name="menu_open">باز</string>
+    <string name="menu_paste">Paste</string>
+    <string name="menu_rename">محدودة رودهاي</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_send">فرستادن</string>
+    <string name="menu_settings">مک کليلن</string>
+    <string name="menu_uncheck_all">Uncheck all</string>
+    <string name="move_error">Some or all items couldn\'t be moved!</string>
+    <string name="moved">Successfully moved</string>
+    <string name="moving">Moving…</string>
+    <string name="multiselect_title">انتخاب چند پرونده</string>
+    <string name="no_selection">No items checked</string>
+    <string msgid="478774118347071097" name="not_set">"تنظیم نشده است"</string>
+    <string name="nothing_to_paste">Nothing to paste. Copy or cut files first.</string>
+    <string name="oi_distribution_about">در مورد</string>
+    <string name="oi_distribution_aboutapp">OI درباره</string>
+    <string name="oi_distribution_aboutapp_get">هر چه زودتر OI در مورد</string>
+    <string name="oi_distribution_aboutapp_not_available">هیچ فرمت سازگار در دسترس برای نمایش کامل اطلاعات (تماس، اعتبار، مجوز).</string>
+    <string name="oi_distribution_app_name">OI کتابخانه توزیع</string>
+    <string name="oi_distribution_barcodescanner">بارکد پلاگین OI</string>
+    <string name="oi_distribution_barcodescanner_not_available">هیچ اسکنر بارکد سازگار در دسترس است.</string>
+    <string name="oi_distribution_download_market">دانلود بازار</string>
+    <string name="oi_distribution_download_market_message">Please download %s from the Market or the OpenIntents website.</string>
+    <string name="oi_distribution_download_message">Please download %s from the OpenIntents website.</string>
+    <string name="oi_distribution_download_title">دانلود s%</string>
+    <string name="oi_distribution_download_web">وب سایت دانلود</string>
+    <string name="oi_distribution_eula_accept">پذیرش</string>
+    <string name="oi_distribution_eula_message">لطفا برای خواندن و پذیرفتن توافقنامه مجوز کاربر نهایی زیر (EULA) برای s% با</string>
+    <string name="oi_distribution_eula_refuse">لغو</string>
+    <string name="oi_distribution_eula_title">%s EULA</string>
+    <string name="oi_distribution_filemanager">OI مدیر فایل</string>
+    <string name="oi_distribution_filemanager_not_available">هیچ مدیر فایل سازگار در دسترس است.</string>
+    <string name="oi_distribution_info_activity_text">%s can be used with the following applications:</string>
+    <string name="oi_distribution_info_instructions">دستورالعمل</string>
+    <string name="oi_distribution_info_launch">پرت‌ كردن‌ s%</string>
+    <string name="oi_distribution_info_not_available">%1$s requires %2$s %3$s or higher.</string>
+    <string name="oi_distribution_launch_error">برنامه می تواند نه راه اندازی شد</string>
+    <string name="oi_distribution_menu_update">بررسیبه روز رسانی</string>
+    <string name="oi_distribution_name_and_version">%1$s %2$s</string>
+    <string name="oi_distribution_newversion_continue">دنباله</string>
+    <string name="oi_distribution_newversion_message">به این ورژن جدید از خوش آمدید s% با</string>
+    <string name="oi_distribution_newversion_recent_changes">تغییرات اخیر :</string>
+    <string name="oi_distribution_safe">OI امن</string>
+    <string name="oi_distribution_safe_not_available">هیچ برنامه برای رمزگذاری سازگار در دسترس است.</string>
+    <string name="oi_distribution_safe_not_available_decrypt">No compatible application for decryption is available.\n\nNote: You have to restore the master key from a backup file in order to access previously encrypted data.</string>
+    <string name="oi_distribution_support">Support</string>
+    <string name="oi_distribution_supportapp">OI Support</string>
+    <string name="oi_distribution_supportapp_get">Get OI Support</string>
+    <string name="oi_distribution_supportapp_not_available">No compatible extension available to display full info (Help/FAQ, Contact Developers, Feature request, Donations).</string>
+    <string name="oi_distribution_update_app">OI بروز رسانی OI بروز رسانی</string>
+    <string name="oi_distribution_update_box_text">چک دستی برای به روز رسانی و یا نصب به روزOI رسانی اطلاعیه های اتوماتیک</string>
+    <string name="oi_distribution_update_check_now">بررسی اکنون</string>
+    <string name="oi_distribution_update_error">دانلود کاربرد نه در دسترس است.</string>
+    <string name="oi_distribution_update_get_updater">دریافت OI به روز رسانی</string>
+    <string name="overwrite_question">Overwrite old file?</string>
+    <string name="pick_button_default">Pick file</string>
+    <string name="pick_title">File picker</string>
+    <string name="preference_advanced_features">سيماي پیشرفته</string>
+    <string msgid="7961817945132860002" name="preference_copied">"«<ns1:g id="SUMMARY">%1$s</ns1:g>» در بریده‌دان کپی شد."</string>
+    <string name="preference_displayhiddenfiles_summary_off">پرونده هاي نهفته پنهان</string>
+    <string name="preference_displayhiddenfiles_summary_on">نمايش‌ پرونده پنهان</string>
+    <string name="preference_displayhiddenfiles_title">نمايش‌ پرونده پنهان</string>
+    <string name="preference_mediascan_summary_off">فهرست‌ انتخاب‌ محروم‌ كردن‌ پوست‌ کلان انقلاب از رسانه ها به یک اسکن بکنیم.</string>
+    <string name="preference_mediascan_summary_on">فهرست‌ انتخاب‌ محروم‌ كردن‌ ردیف نشان مي دهد انقلاب به یک اسکن بکنیم از رسانه ها.</string>
+    <string name="preference_mediascan_title">محروم‌ كردن‌ از رسانه ها با وزن‌ خواندن‌</string>
+    <string name="preference_search_category">Search</string>
+    <string name="preference_search_dialog_message">Clear search history?</string>
+    <string name="preference_search_title">Clear history</string>
+    <string name="preference_showallwarning_summary_off">سركوب پيام تحذير</string>
+    <string name="preference_showallwarning_summary_on">نشان دادن همة پيام تحذير</string>
+    <string name="preference_showallwarning_title">نشان دادن همة هشدارها</string>
+    <string name="preference_sort_settings">جور مک کليلن</string>
+    <string name="preference_sortby">نوعی با</string>
+    <string name="preference_sortby_ascending">در ترتيب‌ صعودى</string>
+    <string name="preference_sortby_ascending_summary_off">نوعی در ترتيب‌ نزولي‌</string>
+    <string name="preference_sortby_ascending_summary_on">در فرازى تحت نوع</string>
+    <string name="preference_usebestmatch_summary_off">use most recently installed app</string>
+    <string name="preference_usebestmatch_summary_on">use most suitable app</string>
+    <string name="preference_usebestmatch_title">Use best app for icons</string>
+    <string name="preference_usedarktheme_summary_off">Light theme selected</string>
+    <string name="preference_usedarktheme_summary_on">Dark theme selected</string>
+    <string name="preference_usedarktheme_title">Use dark theme (Requires restart of app)</string>
+    <string name="query_error">Query error</string>
+    <string name="really_delete">آیا شما واقعا می خواهند انداختن‌ %s?</string>
+    <string name="really_delete_multiselect">آیا شما واقعا می خواهند انداختن‌ %d پرونده?</string>
+    <string name="rename_failure">Couldn\'t rename</string>
+    <string name="rename_success">Successfully renamed</string>
+    <string name="saveas_error">بهدخت رشديه خطا.</string>
+    <string name="saveas_file_saved">پرونده‌ نجات داد با موفقيت!</string>
+    <string name="saveas_no_file_picked">شما هر برداشت پرونده‌....</string>
+    <string name="scanning">Scanning…</string>
+    <string name="search_hint">Search files</string>
+    <string name="search_history_cleared">Search history cleared</string>
+    <string msgid="730395136688082741" name="search_menu_title">"جستجو"</string>
+    <string name="search_settings_descr">Files and folders in storage</string>
+    <string name="selected">selected</string>
+    <string name="send_chooser_title">Send using:</string>
+    <string name="send_not_available">نه درخواست برای فرستادن.</string>
+    <string name="settings">مک کليلن</string>
+    <string name="show_warning_again">بار ديگر هشدار نشان</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>، <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="this_folder_is_empty">اين پوشه خالی شده است.</string>
+    <string name="title_warning_some_may_not_work">اشاره‌</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"خاموش"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"روشن"</string>
+    <string name="warning_some_may_not_work">برخي از اين کار نه ممکن است به دنبال گزینه های دیگر.</string>
+</resources>

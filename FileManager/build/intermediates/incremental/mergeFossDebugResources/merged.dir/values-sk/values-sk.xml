@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="preference_sortby_names">
+        <item>Meno</item>
+        <item>Veľkosť</item>
+        <item>Naposledy zmenené</item>
+        <item>File extension</item>
+    </string-array>
+    <plurals name="clipboard_info_items_to_copy">
+        <item quantity="one">%1$d item to copy</item>
+        <item quantity="other">%1$d items to copy</item>
+    </plurals>
+    <plurals name="clipboard_info_items_to_move">
+        <item quantity="one">%1$d item to move</item>
+        <item quantity="other">%1$d items to move</item>
+    </plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Prejsť na plochu"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Prejsť nahor"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Ďalšie možnosti"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Zobraziť všetky"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Vybrať aplikáciu"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"VYP."</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"ZAP."</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"odstrániť"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"medzerník"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Vyhľadať…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Vymazať dopyt"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Vyhľadávací dopyt"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Hľadať"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Odoslať dopyt"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Hlasové vyhľadávanie"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Zdieľať s"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Zdieľať s aplikáciou <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Zbaliť"</string>
+    <string name="about_comments">Spravujte súbory na SD karte s OI Správca Súborov.</string>
+    <string name="about_translators">Launchpad Contributions:
+  Lacko545 https://launchpad.net/~lackorauch
+  Marek Matejka https://launchpad.net/~marek-matejka
+  OpenIntents devs https://launchpad.net/~openintents-devs
+  Stefan Bocko https://launchpad.net/~st-bocko</string>
+    <string name="app_name">OI Správca Súborov</string>
+    <string name="application_not_available">Aplikácia nie je dostupná.</string>
+    <string name="bookmark_added">Záložka pridaná</string>
+    <string name="bookmark_already_exists">Tento súbor už má záložku</string>
+    <string name="bookmark_empty">Žiadne pridané záložky.</string>
+    <string name="bookmarks">Záložky</string>
+    <string name="choose_filename">File name can\'t be empty!</string>
+    <string name="clipboard_dismiss">Dismiss</string>
+    <string name="clipboard_undo">Undo</string>
+    <string name="compressed_file_name">Názov Zip súboru</string>
+    <string name="compressing">Komprimovanie...</string>
+    <string name="compressing_error">Nebolo možné komprimovať položku</string>
+    <string name="compressing_success">Položky boli úspešne skomprimované</string>
+    <string name="copied">Úspešne skopírované</string>
+    <string name="copied_file_name">Kópia z %s</string>
+    <string name="copied_file_name_2">Kopírovať %1$d z %2$s</string>
+    <string msgid="3209159573327985035" name="copy">"Kopírovať"</string>
+    <string name="copy_error">Niektoré alebo všetky položky sa nedali skopírovať!</string>
+    <string name="copying">Kopírovanie...</string>
+    <string name="create_dir_failure">Nedá sa vytvoriť priečinok</string>
+    <string name="create_dir_success">Priečinok sa úspešne vytvoril</string>
+    <string name="create_new_folder">Vytvoriť nový priečinok</string>
+    <string name="delete_failure">Niektoré súbory sa nevymazali</string>
+    <string name="delete_success">Úspešne odstránený</string>
+    <string name="deleting">Vymazávanie...</string>
+    <string name="details_hidden">Skryté</string>
+    <string name="details_lastmodified">Naposledy zmenené</string>
+    <string name="details_no">Nie</string>
+    <string name="details_permissions">Práva</string>
+    <string name="details_size">Veľkosť</string>
+    <string name="details_type">Typ</string>
+    <string name="details_type_file">Súbor</string>
+    <string name="details_type_folder">Priečinok</string>
+    <string name="details_type_other">Iné</string>
+    <string name="details_yes">Áno</string>
+    <string name="directory_pick">Vybrať aktuálny adresár</string>
+    <string name="error_generic">Nastala chyba.</string>
+    <string name="error_media_scan">Nebolo možné zmeniť nastavenia prehľadávania médií.</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Rozšírené"</string>
+    <string name="extracting">Rozbaľovanie...</string>
+    <string name="extracting_error">Nebolo možné extrahovať položku</string>
+    <string name="extracting_success">Položky boli úspešne extrahované</string>
+    <string name="file_exists">Súbor existuje</string>
+    <string name="filename_hint">File name</string>
+    <string name="folder_name">Názov priečinka</string>
+    <string name="item_icon">Ikona položky</string>
+    <string name="loading">Načítava sa…</string>
+    <string name="media_scan_excluded">Tento priečinok bude vyňatý z nasledujúceho prehľadávania médií.</string>
+    <string name="media_scan_included">Tento priečinok bude zahrnutý v nasledujúcom prehľadávaní médií.</string>
+    <string name="menu_bookmark">Záložka</string>
+    <string name="menu_bookmarks">Záložky</string>
+    <string name="menu_check_all">Označiť všetko</string>
+    <string name="menu_compress">Komprimovat (ZIP)</string>
+    <string name="menu_copy">Kopírovať</string>
+    <string name="menu_create_folder">Vytvoriť priečinok</string>
+    <string name="menu_create_shortcut">Vytvoriť odkaz</string>
+    <string name="menu_delete">Zmazať</string>
+    <string name="menu_details">Detaily</string>
+    <string name="menu_donate">Donate</string>
+    <string name="menu_exclude_from_media_scan">Vyňať z prehľadávania médií</string>
+    <string name="menu_extract">Extrahovať (ZIP)</string>
+    <string name="menu_include_in_media_scan">Zahrnúť v prehľadávaní médií</string>
+    <string name="menu_more">Viac</string>
+    <string name="menu_move">Vystrihnúť</string>
+    <string name="menu_multiselect">Výber viacerých</string>
+    <string name="menu_open">Otvoriť</string>
+    <string name="menu_paste">Vložiť</string>
+    <string name="menu_rename">Premenovať</string>
+    <string name="menu_search">Hľadať</string>
+    <string name="menu_send">Odoslať</string>
+    <string name="menu_settings">Nastavenia</string>
+    <string name="menu_uncheck_all">Odznačiť všetko</string>
+    <string name="move_error">Niektoré alebo všetky položky sa nedali presunúť!</string>
+    <string name="moved">Úspešne presunuté</string>
+    <string name="moving">Presúvanie...</string>
+    <string name="multiselect_title">Označiť viacero súborov</string>
+    <string name="no_selection">Žiadne zvolené položky</string>
+    <string msgid="478774118347071097" name="not_set">"Nenastavené"</string>
+    <string name="nothing_to_paste">Nie je čo vložiť. Najprv skopíruj alebo vystrinhi súbory.</string>
+    <string name="oi_distribution_about">O aplikácii</string>
+    <string name="oi_distribution_aboutapp">O aplikácii OpenIntents</string>
+    <string name="oi_distribution_aboutapp_get">Získať OI About</string>
+    <string name="oi_distribution_aboutapp_not_available">Nie je dostupné žiadne kompatibilné rozšírenie pre zobrazenie všetkých informácii (kontakty, záväzky, licencie).</string>
+    <string name="oi_distribution_app_name">OI Distribučná knižnica</string>
+    <string name="oi_distribution_barcodescanner">Čiarový kód OI doplnok</string>
+    <string name="oi_distribution_barcodescanner_not_available">Žiadny kompatibilný skener čiarových kódov nie je k dispozícii</string>
+    <string name="oi_distribution_download_market">Stiahnuť z obchodu</string>
+    <string name="oi_distribution_download_market_message">Prosím stiahnite si %S z Obchodu alebo webových stránok OpenIntents.</string>
+    <string name="oi_distribution_download_message">Prosím siahnite si %s z webových stránok OpenIntents</string>
+    <string name="oi_distribution_download_title">Sťahujem %s</string>
+    <string name="oi_distribution_download_web">Stiahnuť z webu</string>
+    <string name="oi_distribution_eula_accept">Akceptovať</string>
+    <string name="oi_distribution_eula_message">Prosím prečítajte si nasledujúcu Licenčnú zmluvu koncového používateľa  (EULA) pre %s.</string>
+    <string name="oi_distribution_eula_refuse">Zrušiť</string>
+    <string name="oi_distribution_eula_title">%s EULA</string>
+    <string name="oi_distribution_filemanager">OI Správca Súborov</string>
+    <string name="oi_distribution_filemanager_not_available">Nie je dostupný žiadny kompatibilný správca súborov.</string>
+    <string name="oi_distribution_info_activity_text">%s môže byť použité nasledujúcimi aplikáciami:</string>
+    <string name="oi_distribution_info_instructions">Pokyny</string>
+    <string name="oi_distribution_info_launch">Spustiť %s</string>
+    <string name="oi_distribution_info_not_available">%1$s vyžaduje %2$s %3$s alebo vyššiu.</string>
+    <string name="oi_distribution_launch_error">Aplikácia nemôže byť spustená</string>
+    <string name="oi_distribution_menu_update">Skontrolovať aktualizácie</string>
+    <string name="oi_distribution_name_and_version">%1$s %2$s</string>
+    <string name="oi_distribution_newversion_continue">Pokračovať</string>
+    <string name="oi_distribution_newversion_message">Vitajte v novej verzii %s</string>
+    <string name="oi_distribution_newversion_recent_changes">Nedávne zmeny</string>
+    <string name="oi_distribution_safe">OI Trezor</string>
+    <string name="oi_distribution_safe_not_available">Žiadna kompatibilná šifrovacia aplikácia nie je k dispozícii</string>
+    <string name="oi_distribution_safe_not_available_decrypt">Žiadna kompatibilná aplikácia na dešifrovanie nie je dostupná.\n\nPoznámka: Musíte obnoviť univerzálny kľúč zo zálohovaného súboru pre prístup k skôr zašifrovaných údajom.</string>
+    <string name="oi_distribution_support">Support</string>
+    <string name="oi_distribution_supportapp">OI Support</string>
+    <string name="oi_distribution_supportapp_get">Get OI Support</string>
+    <string name="oi_distribution_supportapp_not_available">No compatible extension available to display full info (Help/FAQ, Contact Developers, Feature request, Donations).</string>
+    <string name="oi_distribution_update_app">OI Aktualizácia</string>
+    <string name="oi_distribution_update_box_text">Skontrolujte aktualizácie ručne alebo nainštalujte OI Aktualizácie pre automatické upozornenia.</string>
+    <string name="oi_distribution_update_check_now">Skontroluj teraz</string>
+    <string name="oi_distribution_update_error">Stiahnutie aplikácie nie je dostupné.</string>
+    <string name="oi_distribution_update_get_updater">Získať OI Aktualizátor</string>
+    <string name="overwrite_question">Prepísať starý súbor?</string>
+    <string name="pick_button_default">Pick file</string>
+    <string name="pick_title">Vybrať súbor</string>
+    <string name="preference_advanced_features">Pokročilé funkcie</string>
+    <string msgid="7961817945132860002" name="preference_copied">"Položka <ns1:g id="SUMMARY">%1$s</ns1:g> bola skopírovaná do schránky."</string>
+    <string name="preference_displayhiddenfiles_summary_off">Skryť skryté súbory</string>
+    <string name="preference_displayhiddenfiles_summary_on">Zobraziť skryté súbory</string>
+    <string name="preference_displayhiddenfiles_title">Zobraziť skryté súbory</string>
+    <string name="preference_mediascan_summary_off">Skryť položku menu pre vyňatie priečinkov z prehľadávania médií.</string>
+    <string name="preference_mediascan_summary_on">Zobraziť položku menu pre vyňatie priečinkov z prehľadávania médií.</string>
+    <string name="preference_mediascan_title">Vyňať z prehľadávania médií</string>
+    <string name="preference_search_category">Hľadať</string>
+    <string name="preference_search_dialog_message">Vyčisti históriu hľadania</string>
+    <string name="preference_search_title">Vyčisti históriu</string>
+    <string name="preference_showallwarning_summary_off">Zakázať správy varovaní</string>
+    <string name="preference_showallwarning_summary_on">Zobraziť všetky správy varovaní</string>
+    <string name="preference_showallwarning_title">Zobraziť všetky varovania</string>
+    <string name="preference_sort_settings">Nastavenia triedenia</string>
+    <string name="preference_sortby">Triediť podľa</string>
+    <string name="preference_sortby_ascending">Vo vzostupnom poradí</string>
+    <string name="preference_sortby_ascending_summary_off">Triediť v zostupnom poradí</string>
+    <string name="preference_sortby_ascending_summary_on">Triediť vo vzostupnom poradí</string>
+    <string name="preference_usebestmatch_summary_off">use most recently installed app</string>
+    <string name="preference_usebestmatch_summary_on">use most suitable app</string>
+    <string name="preference_usebestmatch_title">Use best app for icons</string>
+    <string name="preference_usedarktheme_summary_off">Light theme selected</string>
+    <string name="preference_usedarktheme_summary_on">Dark theme selected</string>
+    <string name="preference_usedarktheme_title">Use dark theme (Requires restart of app)</string>
+    <string name="query_error">Chyba dopytu</string>
+    <string name="really_delete">Naozaj chcete zmazať %s?</string>
+    <string name="really_delete_multiselect">Naozaj chcete zmazať %d súborov?</string>
+    <string name="rename_failure">Nedá sa premenovať</string>
+    <string name="rename_success">Úspešne premenované</string>
+    <string name="saveas_error">Nastala chyba.</string>
+    <string name="saveas_file_saved">Súbor bol úspešne uložený!</string>
+    <string name="saveas_no_file_picked">Nevybrali ste žiadny súbor.</string>
+    <string name="scanning">Prehľadáva sa…</string>
+    <string name="search_hint">Hľadať súbory</string>
+    <string name="search_history_cleared">História hľadania prázdna</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Hľadať"</string>
+    <string name="search_settings_descr">Súbory a priečinky v pamäti</string>
+    <string name="selected">vybraté</string>
+    <string name="send_chooser_title">Odoslať pomocou:</string>
+    <string name="send_not_available">Nie je dostupná žiadna aplikácia pre odosielanie.</string>
+    <string name="settings">Nastavenia</string>
+    <string name="show_warning_again">Znovu zobraziť varovanie.</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="this_folder_is_empty">Tento priečinok je prázdny.</string>
+    <string name="title_warning_some_may_not_work">Varovanie</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"VYP."</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ZAP."</string>
+    <string name="warning_some_may_not_work">Niektoré z nasledujúcich možností nemusia fungovať.</string>
+</resources>

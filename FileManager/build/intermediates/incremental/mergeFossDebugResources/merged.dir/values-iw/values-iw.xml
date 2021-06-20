@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="preference_sortby_names">
+        <item>שם</item>
+        <item>גודל</item>
+        <item>עודכן לאחרונה</item>
+        <item>File extension</item>
+    </string-array>
+    <plurals name="clipboard_info_items_to_copy">
+        <item quantity="one">%1$d item to copy</item>
+        <item quantity="two">%1$d item to copy</item>
+        <item quantity="many">%1$d item to copy</item>
+        <item quantity="other">%1$d items to copy</item>
+    </plurals>
+    <plurals name="clipboard_info_items_to_move">
+        <item quantity="one">%1$d item to move</item>
+        <item quantity="two">%1$d item to move</item>
+        <item quantity="many">%1$d item to move</item>
+        <item quantity="other">%1$d items to move</item>
+    </plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"ניווט לדף הבית"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"ניווט למעלה"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"עוד אפשרויות"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"סיום"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"הצגת הכול"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"בחירת אפליקציה"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"כבוי"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"מופעל"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+‎"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"מחיקה"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"רווח"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"תפריט+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"חיפוש…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"מחיקת השאילתה"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"שאילתת חיפוש"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"חיפוש"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"שליחת שאילתה"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"חיפוש קולי"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"שיתוף עם"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"שיתוף עם <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"כיווץ"</string>
+    <string name="about_comments">ניהול קבצים אשר נמצאים בכרטיס ה-SD בעזרת מנהל הקבצים OI.</string>
+    <string name="about_translators">Launchpad Contributions:
+  Gabriel Shier https://launchpad.net/~gabrielshier
+  Neta Oren https://launchpad.net/~netao212
+  OpenIntents devs https://launchpad.net/~openintents-devs</string>
+    <string name="app_name">מנהל קבצים OI</string>
+    <string name="application_not_available">יישום לא זמין</string>
+    <string name="bookmark_added">הוספה סימניה</string>
+    <string name="bookmark_already_exists">הקובץ כבר מסומן</string>
+    <string name="bookmark_empty">No bookmarks added.</string>
+    <string name="bookmarks">סימניות</string>
+    <string name="choose_filename">File name can\'t be empty!</string>
+    <string name="clipboard_dismiss">Dismiss</string>
+    <string name="clipboard_undo">Undo</string>
+    <string name="compressed_file_name">Zip file name</string>
+    <string name="compressing">Compressing…</string>
+    <string name="compressing_error">Could not compress the item</string>
+    <string name="compressing_success">Item compressed successfully</string>
+    <string name="copied">Successfully copied</string>
+    <string name="copied_file_name">העתק של %s</string>
+    <string name="copied_file_name_2">העתק %1$d של %2$s</string>
+    <string msgid="3209159573327985035" name="copy">"העתקה"</string>
+    <string name="copy_error">Some or all items couldn\'t be copied!</string>
+    <string name="copying">Copying…</string>
+    <string name="create_dir_failure">Couldn\'t create directory</string>
+    <string name="create_dir_success">Successfully created directory</string>
+    <string name="create_new_folder">יצירת תיק חדש</string>
+    <string name="delete_failure">Some files not deleted</string>
+    <string name="delete_success">Successfully deleted</string>
+    <string name="deleting">Deleting…</string>
+    <string name="details_hidden">מוסתר</string>
+    <string name="details_lastmodified">עודכן לאחרונה</string>
+    <string name="details_no">לא</string>
+    <string name="details_permissions">הרשאות</string>
+    <string name="details_size">גודל</string>
+    <string name="details_type">סוג</string>
+    <string name="details_type_file">קובץ</string>
+    <string name="details_type_folder">תיקייה</string>
+    <string name="details_type_other">אחר</string>
+    <string name="details_yes">כן</string>
+    <string name="directory_pick">Select current directory</string>
+    <string name="error_generic">חלה שגיאה:</string>
+    <string name="error_media_scan">לא ניתן לשנות הגדרות סריקת מדיה.</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"מתקדם"</string>
+    <string name="extracting">Extracting…</string>
+    <string name="extracting_error">Could not extract the item</string>
+    <string name="extracting_success">Item extracted successfully</string>
+    <string name="file_exists">File exists</string>
+    <string name="filename_hint">File name</string>
+    <string name="folder_name">שם התיקייה</string>
+    <string name="item_icon">Item icon</string>
+    <string name="loading">Loading…</string>
+    <string name="media_scan_excluded">תיקייה זו לא תיכלל בסריקת המדיה הבאה.</string>
+    <string name="media_scan_included">תיקייה זו תיכלל בסריקת מדיה הבאה.</string>
+    <string name="menu_bookmark">Bookmark</string>
+    <string name="menu_bookmarks">סימניות</string>
+    <string name="menu_check_all">Check all</string>
+    <string name="menu_compress">דחיסה (פורמט ZIP)</string>
+    <string name="menu_copy">העתקה</string>
+    <string name="menu_create_folder">Create folder</string>
+    <string name="menu_create_shortcut">Create shortcut</string>
+    <string name="menu_delete">מחיקה</string>
+    <string name="menu_details">פרטים</string>
+    <string name="menu_donate">Donate</string>
+    <string name="menu_exclude_from_media_scan">אל תכלול בסריקת המדיה</string>
+    <string name="menu_extract">חילוץ (פורמט ZIP)</string>
+    <string name="menu_include_in_media_scan">כלול בסריקת מדיה</string>
+    <string name="menu_more">עוד</string>
+    <string name="menu_move">Cut</string>
+    <string name="menu_multiselect">Multiselect</string>
+    <string name="menu_open">פתיחה</string>
+    <string name="menu_paste">Paste</string>
+    <string name="menu_rename">שינוי שם</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_send">שליחה</string>
+    <string name="menu_settings">הגדרות</string>
+    <string name="menu_uncheck_all">Uncheck all</string>
+    <string name="move_error">Some or all items couldn\'t be moved!</string>
+    <string name="moved">Successfully moved</string>
+    <string name="moving">Moving…</string>
+    <string name="multiselect_title">בחירת קבצים מרובה</string>
+    <string name="no_selection">No items checked</string>
+    <string msgid="478774118347071097" name="not_set">"לא מוגדרת"</string>
+    <string name="nothing_to_paste">Nothing to paste. Copy or cut files first.</string>
+    <string name="oi_distribution_about">אודות</string>
+    <string name="oi_distribution_aboutapp">אודות OI</string>
+    <string name="oi_distribution_aboutapp_get">קבל אודות OI</string>
+    <string name="oi_distribution_aboutapp_not_available">אין הרחבה מותאמת זמינה בשביל להציג  מידע מלא (צור קשר, קרדיט, רישיון).</string>
+    <string name="oi_distribution_app_name">הפצת ספריית OI</string>
+    <string name="oi_distribution_barcodescanner">Barcode OI Plugin</string>
+    <string name="oi_distribution_barcodescanner_not_available">No compatible barcode scanner is available.</string>
+    <string name="oi_distribution_download_market">הורדת שוק</string>
+    <string name="oi_distribution_download_market_message">אנא הורד %s מהמסחר או מאתר OpenIntents.</string>
+    <string name="oi_distribution_download_message">אנא הורד %s מאתר OpenIntents</string>
+    <string name="oi_distribution_download_title">הורד %s</string>
+    <string name="oi_distribution_download_web">הורדת רשת</string>
+    <string name="oi_distribution_eula_accept">אשר</string>
+    <string name="oi_distribution_eula_message">אנא קרא ואשר את את הסכם משתמש קצה הבא בשביל %s</string>
+    <string name="oi_distribution_eula_refuse">ביטול</string>
+    <string name="oi_distribution_eula_title">%s הסכם משתמש קצה</string>
+    <string name="oi_distribution_filemanager">מנהל קבצים OI</string>
+    <string name="oi_distribution_filemanager_not_available">אין מנהל קבצים מותאם זמין.</string>
+    <string name="oi_distribution_info_activity_text">ניתן לשתמש ב %s עם האפליקציות הבאות:</string>
+    <string name="oi_distribution_info_instructions">הוראות</string>
+    <string name="oi_distribution_info_launch">התחל %s</string>
+    <string name="oi_distribution_info_not_available">%1$s דורש %2$s %3$s ומעלה.</string>
+    <string name="oi_distribution_launch_error">לא ניתן להתחיל אפליקציה</string>
+    <string name="oi_distribution_menu_update">בדוק עדכונים</string>
+    <string name="oi_distribution_name_and_version">%1$s %2$s</string>
+    <string name="oi_distribution_newversion_continue">המשך</string>
+    <string name="oi_distribution_newversion_message">ברוך הבא לגרסה חדשה זו של %s.</string>
+    <string name="oi_distribution_newversion_recent_changes">שינוים אחרונים:</string>
+    <string name="oi_distribution_safe">כספת OI</string>
+    <string name="oi_distribution_safe_not_available">אין גרסה מותאמת זמינה בשביל הצפנה.</string>
+    <string name="oi_distribution_safe_not_available_decrypt">אין גרסה מתאימה לפענוח. \n\nשים לב: אתה חייב להחזיר את המפתח הראשי מקובץ גיבוי בכדי לראות את המידע שהוצפן קודם.</string>
+    <string name="oi_distribution_support">Support</string>
+    <string name="oi_distribution_supportapp">OI Support</string>
+    <string name="oi_distribution_supportapp_get">Get OI Support</string>
+    <string name="oi_distribution_supportapp_not_available">No compatible extension available to display full info (Help/FAQ, Contact Developers, Feature request, Donations).</string>
+    <string name="oi_distribution_update_app">עדכון OI</string>
+    <string name="oi_distribution_update_box_text">בדוק ידנית אם יש עדכונים או התקן עדכון OI בשביל התראות אוטומטיות.</string>
+    <string name="oi_distribution_update_check_now">בדוק כעת</string>
+    <string name="oi_distribution_update_error">הורדת אפליקציה לא זמינה</string>
+    <string name="oi_distribution_update_get_updater">קבל מעדכן OI</string>
+    <string name="overwrite_question">Overwrite old file?</string>
+    <string name="pick_button_default">Pick file</string>
+    <string name="pick_title">File picker</string>
+    <string name="preference_advanced_features">תכונות מתקדמות</string>
+    <string msgid="7961817945132860002" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" הועתק ללוח."</string>
+    <string name="preference_displayhiddenfiles_summary_off">החבא קבצים נסתרים</string>
+    <string name="preference_displayhiddenfiles_summary_on">הצג קבצים מוסתרים</string>
+    <string name="preference_displayhiddenfiles_title">הצג קבצים מוסתרים</string>
+    <string name="preference_mediascan_summary_off">החבא פריט תפריט כדי לא לכלול תיקיות בסריקת מדיה.</string>
+    <string name="preference_mediascan_summary_on">הראה פריט תפריט כדי לא לכלול תיקיות מסריקת מדיה.</string>
+    <string name="preference_mediascan_title">אל תכלול בסריקת המדיה</string>
+    <string name="preference_search_category">Search</string>
+    <string name="preference_search_dialog_message">Clear search history?</string>
+    <string name="preference_search_title">Clear history</string>
+    <string name="preference_showallwarning_summary_off">התעלם מהודעת אזהרה</string>
+    <string name="preference_showallwarning_summary_on">הראה את כל הודעות האזהרה</string>
+    <string name="preference_showallwarning_title">הצג את כל האזהרות</string>
+    <string name="preference_sort_settings">סדר הגדרות</string>
+    <string name="preference_sortby">מיון לפי</string>
+    <string name="preference_sortby_ascending">בסדר עולה</string>
+    <string name="preference_sortby_ascending_summary_off">סדר בסדר יורד</string>
+    <string name="preference_sortby_ascending_summary_on">מיין בספדר עולה</string>
+    <string name="preference_usebestmatch_summary_off">use most recently installed app</string>
+    <string name="preference_usebestmatch_summary_on">use most suitable app</string>
+    <string name="preference_usebestmatch_title">Use best app for icons</string>
+    <string name="preference_usedarktheme_summary_off">Light theme selected</string>
+    <string name="preference_usedarktheme_summary_on">Dark theme selected</string>
+    <string name="preference_usedarktheme_title">Use dark theme (Requires restart of app)</string>
+    <string name="query_error">Query error</string>
+    <string name="really_delete">האם ברצונך למחוק את %s?</string>
+    <string name="really_delete_multiselect">האם אתה רוצה למחוק קבצי %d</string>
+    <string name="rename_failure">Couldn\'t rename</string>
+    <string name="rename_success">Successfully renamed</string>
+    <string name="saveas_error">ארעה שגיאה.</string>
+    <string name="saveas_file_saved">קובץ נשמר בהצלחה!</string>
+    <string name="saveas_no_file_picked">לא בחרת אף קובץ.</string>
+    <string name="scanning">Scanning…</string>
+    <string name="search_hint">Search files</string>
+    <string name="search_history_cleared">Search history cleared</string>
+    <string msgid="730395136688082741" name="search_menu_title">"חיפוש"</string>
+    <string name="search_settings_descr">Files and folders in storage</string>
+    <string name="selected">selected</string>
+    <string name="send_chooser_title">Send using:</string>
+    <string name="send_not_available">אין יישום זמין לשליחה.</string>
+    <string name="settings">הגדרות</string>
+    <string name="show_warning_again">הראה אזהרה שוב</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="this_folder_is_empty">תיקייה זו ריקה.</string>
+    <string name="title_warning_some_may_not_work">אזהרה</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"כבוי"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"מופעל"</string>
+    <string name="warning_some_may_not_work">חלק מהאפשרויות הבאות אולי לא יעבדו.</string>
+</resources>

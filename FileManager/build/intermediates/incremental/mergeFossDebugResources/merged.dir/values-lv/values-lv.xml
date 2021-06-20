@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="preference_sortby_names">
+        <item>Nosaukums</item>
+        <item>Izmērs</item>
+        <item>Pēdējo reizi mainīts</item>
+        <item>File extension</item>
+    </string-array>
+    <plurals name="clipboard_info_items_to_copy">
+        <item quantity="zero">%1$d item to copy</item>
+        <item quantity="one">%1$d item to copy</item>
+        <item quantity="other">%1$d items to copy</item>
+    </plurals>
+    <plurals name="clipboard_info_items_to_move">
+        <item quantity="zero">%1$d item to move</item>
+        <item quantity="one">%1$d item to move</item>
+        <item quantity="other">%1$d items to move</item>
+    </plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Pārvietoties uz sākuma ekrānu"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Pārvietoties uz augšu"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Citas opcijas"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Gatavs"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Skatīt visu"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Izvēlieties lietotni"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"IZSLĒGT"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"IESLĒGT"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alternēšanas taustiņš +"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Vadīšanas taustiņš +"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"dzēšanas taustiņš"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"ievadīšanas taustiņš"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Funkcijas taustiņš +"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta taustiņš +"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Pārslēgšanas taustiņš +"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"atstarpes taustiņš"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Simbolu taustiņš +"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Poga Izvēlne +"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Meklējiet…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Notīrīt vaicājumu"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Meklēšanas vaicājums"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Meklēt"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Iesniegt vaicājumu"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Meklēt ar balsi"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Kopīgot ar:"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Kopīgot ar lietojumprogrammu <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Sakļaut"</string>
+    <string name="about_comments">Pārvaldiet failus SD kartē ar OI Failu pārvaldnieku.</string>
+    <string name="about_translators">Launchpad Contributions:
+  OpenIntents devs https://launchpad.net/~openintents-devs
+  Tomass https://launchpad.net/~txt1</string>
+    <string name="app_name">OI Failu pārvaldnieks</string>
+    <string name="application_not_available">Aplikācija nav pieejama</string>
+    <string name="bookmark_added">Grāmatzīme pievienota</string>
+    <string name="bookmark_already_exists">Fails jau ir grāmatzīme</string>
+    <string name="bookmark_empty">No bookmarks added.</string>
+    <string name="bookmarks">Grāmatzīmes</string>
+    <string name="choose_filename">File name can\'t be empty!</string>
+    <string name="clipboard_dismiss">Dismiss</string>
+    <string name="clipboard_undo">Undo</string>
+    <string name="compressed_file_name">Zip file name</string>
+    <string name="compressing">Compressing…</string>
+    <string name="compressing_error">Nevar saspiest vienumu</string>
+    <string name="compressing_success">Vienums saspiests veiksmīgi</string>
+    <string name="copied">Successfully copied</string>
+    <string name="copied_file_name">%s kopija</string>
+    <string name="copied_file_name_2">%2$s kopija %1$d</string>
+    <string msgid="3209159573327985035" name="copy">"Kopēt"</string>
+    <string name="copy_error">Some or all items couldn\'t be copied!</string>
+    <string name="copying">Copying…</string>
+    <string name="create_dir_failure">Couldn\'t create directory</string>
+    <string name="create_dir_success">Successfully created directory</string>
+    <string name="create_new_folder">Izveidot jaunu mapi</string>
+    <string name="delete_failure">Some files not deleted</string>
+    <string name="delete_success">Successfully deleted</string>
+    <string name="deleting">Deleting…</string>
+    <string name="details_hidden">Paslēpts</string>
+    <string name="details_lastmodified">Pedējo reizi mainīts</string>
+    <string name="details_no">Nē</string>
+    <string name="details_permissions">Atļaujas</string>
+    <string name="details_size">Izmērs</string>
+    <string name="details_type">Veids</string>
+    <string name="details_type_file">Fails</string>
+    <string name="details_type_folder">Mape</string>
+    <string name="details_type_other">Cits</string>
+    <string name="details_yes">Jā</string>
+    <string name="directory_pick">Select current directory</string>
+    <string name="error_generic">Notika kļuda:</string>
+    <string name="error_media_scan">Nevar izmainīt datu nesēju pārbaudes uzstādījumus.</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Papildu iestatījumi"</string>
+    <string name="extracting">Extracting…</string>
+    <string name="extracting_error">Could not extract the item</string>
+    <string name="extracting_success">Item extracted successfully</string>
+    <string name="file_exists">File exists</string>
+    <string name="filename_hint">File name</string>
+    <string name="folder_name">Mapes nosaukums</string>
+    <string name="item_icon">Item icon</string>
+    <string name="loading">Loading…</string>
+    <string name="media_scan_excluded">Šī mape tiks izslēgta no nākamās datu nesēju pārbaudes.</string>
+    <string name="media_scan_included">Šī mape tiks iekļauta nākamajā datu nesēju pārbaudē.</string>
+    <string name="menu_bookmark">Bookmark</string>
+    <string name="menu_bookmarks">Grāmatzīmes</string>
+    <string name="menu_check_all">Check all</string>
+    <string name="menu_compress">Saspiest (ZIP)</string>
+    <string name="menu_copy">Kopēt</string>
+    <string name="menu_create_folder">Create folder</string>
+    <string name="menu_create_shortcut">Create shortcut</string>
+    <string name="menu_delete">Dzēst</string>
+    <string name="menu_details">Detaļas</string>
+    <string name="menu_donate">Donate</string>
+    <string name="menu_exclude_from_media_scan">Nepieļaut no datu nesēju pārbaudes</string>
+    <string name="menu_extract">Ekstraktēt (ZIP)</string>
+    <string name="menu_include_in_media_scan">Iekļaut datu nesēju pārbaudi</string>
+    <string name="menu_more">Vairāk</string>
+    <string name="menu_move">Cut</string>
+    <string name="menu_multiselect">Multiselect</string>
+    <string name="menu_open">Atvērt</string>
+    <string name="menu_paste">Paste</string>
+    <string name="menu_rename">Pārdēvēt</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_send">Sūtīt</string>
+    <string name="menu_settings">Iestatījumi</string>
+    <string name="menu_uncheck_all">Uncheck all</string>
+    <string name="move_error">Some or all items couldn\'t be moved!</string>
+    <string name="moved">Successfully moved</string>
+    <string name="moving">Moving…</string>
+    <string name="multiselect_title">Izvēlēties vairākus failus</string>
+    <string name="no_selection">No items checked</string>
+    <string msgid="478774118347071097" name="not_set">"Nav iestatīts"</string>
+    <string name="nothing_to_paste">Nothing to paste. Copy or cut files first.</string>
+    <string name="overwrite_question">Overwrite old file?</string>
+    <string name="pick_button_default">Pick file</string>
+    <string name="pick_title">File picker</string>
+    <string name="preference_advanced_features">Papildus funkcijas</string>
+    <string msgid="7961817945132860002" name="preference_copied">"Preference “<ns1:g id="SUMMARY">%1$s</ns1:g>” ir kopēta starpliktuvē."</string>
+    <string name="preference_displayhiddenfiles_summary_off">Paslēpt slēptos failus</string>
+    <string name="preference_displayhiddenfiles_summary_on">Parādīt slēptos failus</string>
+    <string name="preference_displayhiddenfiles_title">Parādīt slēptos failus</string>
+    <string name="preference_mediascan_summary_off">Paslēpt izvēlnes vienumu, lai izslēgtu mapes no datu nesēju pārbaudes.</string>
+    <string name="preference_mediascan_summary_on">Parādīt izvēlnes vienumu, lai izslēgtu mapes no datu nesēju pārbaudes</string>
+    <string name="preference_mediascan_title">Nepieļaut no datu nesēju pārbaudes</string>
+    <string name="preference_search_category">Search</string>
+    <string name="preference_search_dialog_message">Clear search history?</string>
+    <string name="preference_search_title">Clear history</string>
+    <string name="preference_showallwarning_summary_off">Apspiest brīdinājuma ziņojumus</string>
+    <string name="preference_showallwarning_summary_on">Parādīt visus brīdinājuma ziņojumus</string>
+    <string name="preference_showallwarning_title">Parādīt visus brīdinājumus</string>
+    <string name="preference_sort_settings">Šķirot uzstādījumus</string>
+    <string name="preference_sortby">Šķirot pēc</string>
+    <string name="preference_sortby_ascending">Augošā secībā</string>
+    <string name="preference_sortby_ascending_summary_off">Šķirot dilstošā secībā</string>
+    <string name="preference_sortby_ascending_summary_on">Šķirot augošā secībā</string>
+    <string name="preference_usebestmatch_summary_off">use most recently installed app</string>
+    <string name="preference_usebestmatch_summary_on">use most suitable app</string>
+    <string name="preference_usebestmatch_title">Use best app for icons</string>
+    <string name="preference_usedarktheme_summary_off">Light theme selected</string>
+    <string name="preference_usedarktheme_summary_on">Dark theme selected</string>
+    <string name="preference_usedarktheme_title">Use dark theme (Requires restart of app)</string>
+    <string name="query_error">Query error</string>
+    <string name="really_delete">Vai Jūs tiešām vēlaties izdzēst %s?</string>
+    <string name="really_delete_multiselect">Vai jūs tiešām vēlaties izdzēst %d failus?</string>
+    <string name="rename_failure">Couldn\'t rename</string>
+    <string name="rename_success">Successfully renamed</string>
+    <string name="saveas_error">Notika kļūda</string>
+    <string name="saveas_file_saved">Fails veiksmīgi saglabāts!</string>
+    <string name="saveas_no_file_picked">Jūs neesat izvēlējies nevienu failu.</string>
+    <string name="scanning">Scanning…</string>
+    <string name="search_hint">Search files</string>
+    <string name="search_history_cleared">Search history cleared</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Meklēt"</string>
+    <string name="search_settings_descr">Files and folders in storage</string>
+    <string name="selected">selected</string>
+    <string name="send_chooser_title">Send using:</string>
+    <string name="send_not_available">Nav sūtīšanai paredzētas aplikācijas.</string>
+    <string name="settings">Iestatījumi</string>
+    <string name="show_warning_again">Parādīt brīdinājumu atkal</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="this_folder_is_empty">Šī mape ir tukša.</string>
+    <string name="title_warning_some_may_not_work">Uzmanību</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"IZSLĒGTS"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"IESLĒGTS"</string>
+    <string name="warning_some_may_not_work">Kāda no sekojošajām iespējām var nestrādāt.</string>
+</resources>

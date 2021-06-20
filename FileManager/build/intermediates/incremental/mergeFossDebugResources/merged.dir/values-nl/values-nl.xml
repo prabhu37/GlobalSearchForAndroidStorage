@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="preference_sortby_names">
+        <item>Naam</item>
+        <item>Grootte</item>
+        <item>Laatst gewijzigd</item>
+        <item>File extension</item>
+    </string-array>
+    <plurals name="clipboard_info_items_to_copy">
+        <item quantity="one">%1$d item to copy</item>
+        <item quantity="other">%1$d items to copy</item>
+    </plurals>
+    <plurals name="clipboard_info_items_to_move">
+        <item quantity="one">%1$d item to move</item>
+        <item quantity="other">%1$d items to move</item>
+    </plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Navigeren naar startpositie"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Omhoog navigeren"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Meer opties"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Gereed"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Alles weergeven"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Een app selecteren"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"UIT"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"AAN"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Functie +"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"spatie"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Zoeken…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Zoekopdracht wissen"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Zoekopdracht"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Zoeken"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Zoekopdracht verzenden"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Gesproken zoekopdracht"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Delen met"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Delen met <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Samenvouwen"</string>
+    <string name="about_comments">Beheer uw bestanden op een SD kaart met OI File Manager</string>
+    <string name="about_translators">Launchpad Contributions:
+  Edwin https://launchpad.net/~edwin-v
+  Henk van der Velden https://launchpad.net/~henkvandervelden86
+  Maarten de Vries https://launchpad.net/~maarten-k-de-vries
+  Mark van Kuijk https://launchpad.net/~markvankuyk
+  Menno Vogel https://launchpad.net/~mennovogel90
+  OpenIntents devs https://launchpad.net/~openintents-devs
+  Peli https://launchpad.net/~peli0101
+  Simon de Vlieger https://launchpad.net/~ikanobori
+  Toon van Gerwen https://launchpad.net/~toon-vg
+  Willem-Martijn Brink https://launchpad.net/~willem-brink
+  pjv https://launchpad.net/~pjv</string>
+    <string name="app_name">OI Bestandsbeheer</string>
+    <string name="application_not_available">Applicatie niet beschikbaar</string>
+    <string name="bookmark_added">Bladwijzer toegevoegd</string>
+    <string name="bookmark_already_exists">Dit bestand is al een favoriet</string>
+    <string name="bookmark_empty">Geen bladwijzer toegevoegd</string>
+    <string name="bookmarks">Favorieten</string>
+    <string name="choose_filename">File name can\'t be empty!</string>
+    <string name="clipboard_dismiss">Dismiss</string>
+    <string name="clipboard_undo">Undo</string>
+    <string name="compressed_file_name">Zip bestandsnaam</string>
+    <string name="compressing">Aan het inpakken…</string>
+    <string name="compressing_error">Kon bestand niet comprimeren</string>
+    <string name="compressing_success">Bestand gecomprimeerd</string>
+    <string name="copied">Succesvol gekopieerd</string>
+    <string name="copied_file_name">Kopie van %s</string>
+    <string name="copied_file_name_2">Kopieer %1$d van %2$s</string>
+    <string msgid="3209159573327985035" name="copy">"Kopiëren"</string>
+    <string name="copy_error">Diverse bestanden konden niet worden gekopieerd</string>
+    <string name="copying">Kopie wordt uitgevoerd…</string>
+    <string name="create_dir_failure">Map maken is mislukt</string>
+    <string name="create_dir_success">Succesvol gemaakte map</string>
+    <string name="create_new_folder">Nieuwe map aanmaken</string>
+    <string name="delete_failure">Enkele bestanden zijn niet verwijderd</string>
+    <string name="delete_success">Succesvol verwijderd</string>
+    <string name="deleting">Aan het verwijderen…</string>
+    <string name="details_hidden">Verborgen</string>
+    <string name="details_lastmodified">Laatst gewijzigd</string>
+    <string name="details_no">Nee</string>
+    <string name="details_permissions">Rechten</string>
+    <string name="details_size">Grootte</string>
+    <string name="details_type">Type</string>
+    <string name="details_type_file">Bestand</string>
+    <string name="details_type_folder">Map</string>
+    <string name="details_type_other">Overig</string>
+    <string name="details_yes">Ja</string>
+    <string name="directory_pick">Huidige map geselecteerd</string>
+    <string name="error_generic">Er is een fout opgetreden:</string>
+    <string name="error_media_scan">Kan de media scan instellingen niet wijzigen.</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Geavanceerd"</string>
+    <string name="extracting">Aan het uitpakken…</string>
+    <string name="extracting_error">Kon bestand niet uitpakken</string>
+    <string name="extracting_success">Bestand succesvol uitgepakt</string>
+    <string name="file_exists">Bestand bestaat al</string>
+    <string name="filename_hint">File name</string>
+    <string name="folder_name">Naam van de map</string>
+    <string name="item_icon">item icoon</string>
+    <string name="loading">Bezig met laden…</string>
+    <string name="media_scan_excluded">Deze map zal worden genegeerd bij de volgende media scan.</string>
+    <string name="media_scan_included">Deze map zal worden meegenomen bij de volgende media scan.</string>
+    <string name="menu_bookmark">Bladwijzer</string>
+    <string name="menu_bookmarks">Favorieten</string>
+    <string name="menu_check_all">Selecteer alles</string>
+    <string name="menu_compress">Comprimeren (ZIP)</string>
+    <string name="menu_copy">Kopiëer</string>
+    <string name="menu_create_folder">Map aanmaken</string>
+    <string name="menu_create_shortcut">Snelkoppeling maken</string>
+    <string name="menu_delete">Verwijder</string>
+    <string name="menu_details">Details</string>
+    <string name="menu_donate">Donate</string>
+    <string name="menu_exclude_from_media_scan">Negeren bij media scan</string>
+    <string name="menu_extract">Uitpakken (ZIP)</string>
+    <string name="menu_include_in_media_scan">Meenemen bij media scan</string>
+    <string name="menu_more">Meer</string>
+    <string name="menu_move">Knippen</string>
+    <string name="menu_multiselect">Multiselectie</string>
+    <string name="menu_open">Openen</string>
+    <string name="menu_paste">Plakken</string>
+    <string name="menu_rename">Hernoem</string>
+    <string name="menu_search">Zoeken</string>
+    <string name="menu_send">Verzenden</string>
+    <string name="menu_settings">Instellingen</string>
+    <string name="menu_uncheck_all">Deselecteer alles</string>
+    <string name="move_error">Diverse onderdelen konden niet worden verplaatst</string>
+    <string name="moved">succesvol verplaatst</string>
+    <string name="moving">Aan het verplaatsen...</string>
+    <string name="multiselect_title">Selecteer meerdere bestanden</string>
+    <string name="no_selection">Geen item aangevinkt</string>
+    <string msgid="478774118347071097" name="not_set">"Niet ingesteld"</string>
+    <string name="nothing_to_paste">Er is niks te plakken. Kopieer of knip eerst bestanden.</string>
+    <string name="oi_distribution_about">Over</string>
+    <string name="oi_distribution_aboutapp">Over OI</string>
+    <string name="oi_distribution_aboutapp_get">OI Informatie ophalen</string>
+    <string name="oi_distribution_aboutapp_not_available">Geen werkare extensie beschikbaar voor volledige informatie (contact, credits, licentie)</string>
+    <string name="oi_distribution_app_name">OI Distributiebibliotheek</string>
+    <string name="oi_distribution_barcodescanner">OI-plugin Barcode</string>
+    <string name="oi_distribution_barcodescanner_not_available">Geen compatibele barcodescanner beschikbaar</string>
+    <string name="oi_distribution_download_market">Google Play-download</string>
+    <string name="oi_distribution_download_market_message">Download %s van de Market op de OpenIntents-website.</string>
+    <string name="oi_distribution_download_message">Download %s van de OpenIntents website</string>
+    <string name="oi_distribution_download_title">%s downloaden</string>
+    <string name="oi_distribution_download_web">Internetdownload</string>
+    <string name="oi_distribution_eula_accept">Accepteren</string>
+    <string name="oi_distribution_eula_message">Lees en accepteer de volgende licentieovereenkomst voor eindgebruikers (EULA) voor %s.</string>
+    <string name="oi_distribution_eula_refuse">Annuleren</string>
+    <string name="oi_distribution_eula_title">%s EULA</string>
+    <string name="oi_distribution_filemanager">OI Bestandsbeheer</string>
+    <string name="oi_distribution_filemanager_not_available">Geen compatibele bestandsbeheerder beschikbaar</string>
+    <string name="oi_distribution_info_activity_text">%s kan gebruikt worden met de volgende applicaties</string>
+    <string name="oi_distribution_info_instructions">Instructies</string>
+    <string name="oi_distribution_info_launch">%s starten</string>
+    <string name="oi_distribution_info_not_available">%1$s vereist %2$s %3$s of hoger.</string>
+    <string name="oi_distribution_launch_error">Kan applicatie niet starten</string>
+    <string name="oi_distribution_menu_update">Controleren op updates</string>
+    <string name="oi_distribution_name_and_version">%1$s %2$s</string>
+    <string name="oi_distribution_newversion_continue">voortzetten</string>
+    <string name="oi_distribution_newversion_message">Welkom bij deze nieuwe versie van %s.</string>
+    <string name="oi_distribution_newversion_recent_changes">Recente wijzigingen:</string>
+    <string name="oi_distribution_safe">OI Kluis</string>
+    <string name="oi_distribution_safe_not_available">Geen applicatie voor versleuteling beschikbaar</string>
+    <string name="oi_distribution_safe_not_available_decrypt">Geen compatibele applicatie voor ontsleuteling beschikbaar\n\nLet op: om eerder versleutelde gegevens te openen dient u de hoofdsleutel te herstellen uit een reservekopie</string>
+    <string name="oi_distribution_support">Support</string>
+    <string name="oi_distribution_supportapp">OI Support</string>
+    <string name="oi_distribution_supportapp_get">Get OI Support</string>
+    <string name="oi_distribution_supportapp_not_available">No compatible extension available to display full info (Help/FAQ, Contact Developers, Feature request, Donations).</string>
+    <string name="oi_distribution_update_app">OI Update</string>
+    <string name="oi_distribution_update_box_text">Handmatig controleren op updates of OI Update installeren voor automatische meldingen.</string>
+    <string name="oi_distribution_update_check_now">Nu controleren</string>
+    <string name="oi_distribution_update_error">Het downloaden van de applicatie is niet beschikbaar</string>
+    <string name="oi_distribution_update_get_updater">OI Updater ophalen</string>
+    <string name="overwrite_question">Oude bestanden overschrijven?</string>
+    <string name="pick_button_default">Pick file</string>
+    <string name="pick_title">Bestand selecteerder</string>
+    <string name="preference_advanced_features">Geavanceerde functies</string>
+    <string msgid="7961817945132860002" name="preference_copied">"\'<ns1:g id="SUMMARY">%1$s</ns1:g>\' is gekopieerd naar het klembord."</string>
+    <string name="preference_displayhiddenfiles_summary_off">Verborgen bestanden niet tonen</string>
+    <string name="preference_displayhiddenfiles_summary_on">Verborgen bestanden tonen</string>
+    <string name="preference_displayhiddenfiles_title">Verborgen bestanden tonen</string>
+    <string name="preference_mediascan_summary_off">Verberg menu-item om mappen van de media scan uit te sluiten.</string>
+    <string name="preference_mediascan_summary_on">Toon menu-item om mappen van de media scan uit te sluiten.</string>
+    <string name="preference_mediascan_title">Negeren bij media scan</string>
+    <string name="preference_search_category">Zoeken</string>
+    <string name="preference_search_dialog_message">Zoek geschiedenis wissen</string>
+    <string name="preference_search_title">Geschiedenis wissen</string>
+    <string name="preference_showallwarning_summary_off">Waarschuwingen verbergen</string>
+    <string name="preference_showallwarning_summary_on">Alle waarschuwingen tonen</string>
+    <string name="preference_showallwarning_title">Toon alle waarschuwingen</string>
+    <string name="preference_sort_settings">Sorteeropties</string>
+    <string name="preference_sortby">Sorteren op</string>
+    <string name="preference_sortby_ascending">Oplopend</string>
+    <string name="preference_sortby_ascending_summary_off">Sorteer in aflopende volgorde</string>
+    <string name="preference_sortby_ascending_summary_on">Sorteer in oplopende volgorde</string>
+    <string name="preference_usebestmatch_summary_off">use most recently installed app</string>
+    <string name="preference_usebestmatch_summary_on">use most suitable app</string>
+    <string name="preference_usebestmatch_title">Use best app for icons</string>
+    <string name="preference_usedarktheme_summary_off">Light theme selected</string>
+    <string name="preference_usedarktheme_summary_on">Dark theme selected</string>
+    <string name="preference_usedarktheme_title">Use dark theme (Requires restart of app)</string>
+    <string name="query_error">Query error</string>
+    <string name="really_delete">Wil je echt %s verwijderen?</string>
+    <string name="really_delete_multiselect">Wilt u echt %d bestanden verwijderen?</string>
+    <string name="rename_failure">Hernoemen is niet gelukt</string>
+    <string name="rename_success">Succesvol hernoemd</string>
+    <string name="saveas_error">Er is een fout opgetreden.</string>
+    <string name="saveas_file_saved">Bestand is succesvol opgeslagen.</string>
+    <string name="saveas_no_file_picked">U heeft geen bestand geselecteerd</string>
+    <string name="scanning">Zoeken…</string>
+    <string name="search_hint">Bestanden zoeken</string>
+    <string name="search_history_cleared">Zoek geschiedenis is verwijderd</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Zoeken"</string>
+    <string name="search_settings_descr">Bestanden en folders in opslag</string>
+    <string name="selected">geselecteerd</string>
+    <string name="send_chooser_title">Verzend gebruikte:</string>
+    <string name="send_not_available">Geen applicatie beschikbaar voor het verzenden.</string>
+    <string name="settings">Instellingen</string>
+    <string name="show_warning_again">Waarschuwing opnieuw tonen</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="this_folder_is_empty">Deze map is leeg.</string>
+    <string name="title_warning_some_may_not_work">Waarschuwing</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"UIT"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"AAN"</string>
+    <string name="warning_some_may_not_work">Mogelijk werkt een aantal van deze opties niet</string>
+</resources>

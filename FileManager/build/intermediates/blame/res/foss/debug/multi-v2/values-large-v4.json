@@ -1,0 +1,94 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManager/build/intermediates/incremental/mergeFossDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManager/src/main/res/values-large/list_background_dark.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "98",
+                        "endOffsets": "110"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "658",
+                        "endColumns": "98",
+                        "endOffsets": "752"
+                    }
+                },
+                {
+                    "source": "/Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/d6c414b9be9289f19fabc8a415e5296b/material-1.1.0-beta02/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,177",
+                        "endColumns": "121,133",
+                        "endOffsets": "172,306"
+                    },
+                    "to": {
+                        "startLines": "15,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "1078,1200",
+                        "endColumns": "121,133",
+                        "endOffsets": "1195,1329"
+                    }
+                },
+                {
+                    "source": "/Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/b97f53b4a3fb5da7260b5f00548a81e7/appcompat-1.1.0/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,858,962",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,957,1073"
+                    }
+                },
+                {
+                    "source": "/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManager/src/main/res/values-large/list_background_light.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "100",
+                        "endOffsets": "112"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "757",
+                        "endColumns": "100",
+                        "endOffsets": "853"
+                    }
+                },
+                {
+                    "source": "/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManager/src/main/res/values-large/dimensions.xml",
+                    "from": {
+                        "startLines": "4,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "122,16",
+                        "endColumns": "60,64",
+                        "endOffsets": "178,76"
+                    },
+                    "to": {
+                        "startLines": "9,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "532,593",
+                        "endColumns": "60,64",
+                        "endOffsets": "588,653"
+                    }
+                }
+            ]
+        }
+    ]
+}

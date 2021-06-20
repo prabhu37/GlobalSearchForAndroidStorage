@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="preference_sortby_names">
+        <item>Pangalan</item>
+        <item>Sukat</item>
+        <item>Huling binago</item>
+        <item>File extension</item>
+    </string-array>
+    <plurals name="clipboard_info_items_to_copy">
+        <item quantity="one">%1$d item to copy</item>
+        <item quantity="other">%1$d items to copy</item>
+    </plurals>
+    <plurals name="clipboard_info_items_to_move">
+        <item quantity="one">%1$d item to move</item>
+        <item quantity="other">%1$d items to move</item>
+    </plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Mag-navigate sa home"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Mag-navigate pataas"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Higit pang opsyon"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Tapos na"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Tingnan lahat"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Pumili ng app"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"I-OFF"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"I-ON"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Maghanap…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"I-clear ang query"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Query sa paghahanap"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Maghanap"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Isumite ang query"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Paghahanap gamit ang boses"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Ibahagi sa/kay"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Ibahagi gamit ang <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"I-collapse"</string>
+    <string name="about_comments">Manage files on the SD card with OI File Manager.</string>
+    <string name="about_translators">Launchpad Contributions:
+  OpenIntents devs https://launchpad.net/~openintents-devs
+  abc https://launchpad.net/~abc-g</string>
+    <string name="app_name">OI File Manedyer</string>
+    <string name="application_not_available">Ang aplikasyon ay hindi magagamit</string>
+    <string name="bookmark_added">Nai-dagdag ang pananda</string>
+    <string name="bookmark_already_exists">May palatandaan na ang file na ito</string>
+    <string name="bookmark_empty">No bookmarks added.</string>
+    <string name="bookmarks">Mga Pananda</string>
+    <string name="choose_filename">File name can\'t be empty!</string>
+    <string name="clipboard_dismiss">Dismiss</string>
+    <string name="clipboard_undo">Undo</string>
+    <string name="compressed_file_name">Zip file name</string>
+    <string name="compressing">Compressing…</string>
+    <string name="compressing_error">Could not compress the item</string>
+    <string name="compressing_success">Item compressed successfully</string>
+    <string name="copied">Successfully copied</string>
+    <string name="copied_file_name">Kopya ng %s</string>
+    <string name="copied_file_name_2">%1$d Kopya ng %2$s</string>
+    <string msgid="3209159573327985035" name="copy">"Kopyahin"</string>
+    <string name="copy_error">Some or all items couldn\'t be copied!</string>
+    <string name="copying">Copying…</string>
+    <string name="create_dir_failure">Couldn\'t create directory</string>
+    <string name="create_dir_success">Successfully created directory</string>
+    <string name="create_new_folder">Lumikha ng bagong polder</string>
+    <string name="delete_failure">Some files not deleted</string>
+    <string name="delete_success">Successfully deleted</string>
+    <string name="deleting">Deleting…</string>
+    <string name="details_hidden">Nakatago</string>
+    <string name="details_lastmodified">Huling Binago</string>
+    <string name="details_no">Hindi</string>
+    <string name="details_permissions">Mga Permisyon</string>
+    <string name="details_size">Sukat</string>
+    <string name="details_type">Uri</string>
+    <string name="details_type_file">File</string>
+    <string name="details_type_folder">Polder</string>
+    <string name="details_type_other">Iba Pa</string>
+    <string name="details_yes">Oo</string>
+    <string name="directory_pick">Select current directory</string>
+    <string name="error_generic">Nagkaroon ng mali:</string>
+    <string name="error_media_scan">Hindi ma-palitan ang mga media scan setting.</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Advanced"</string>
+    <string name="extracting">Extracting…</string>
+    <string name="extracting_error">Could not extract the item</string>
+    <string name="extracting_success">Item extracted successfully</string>
+    <string name="file_exists">File exists</string>
+    <string name="filename_hint">File name</string>
+    <string name="folder_name">Pangalan ng Polder</string>
+    <string name="item_icon">Item icon</string>
+    <string name="loading">Loading…</string>
+    <string name="media_scan_excluded">Ang polder na ito ay hindi kasama sa susunod na media scan.</string>
+    <string name="media_scan_included">Ang polder na ito ay kasama sa susunod na media scan.</string>
+    <string name="menu_bookmark">Bookmark</string>
+    <string name="menu_bookmarks">Mga Pananda</string>
+    <string name="menu_check_all">Check all</string>
+    <string name="menu_compress">Compress (ZIP)</string>
+    <string name="menu_copy">Kopyahin</string>
+    <string name="menu_create_folder">Create folder</string>
+    <string name="menu_create_shortcut">Create shortcut</string>
+    <string name="menu_delete">Alisin</string>
+    <string name="menu_details">Mga Detalye</string>
+    <string name="menu_donate">Donate</string>
+    <string name="menu_exclude_from_media_scan">Huwag isama sa media scan</string>
+    <string name="menu_extract">Extract (ZIP)</string>
+    <string name="menu_include_in_media_scan">Isama sa media scan</string>
+    <string name="menu_more">Marami pa</string>
+    <string name="menu_move">Cut</string>
+    <string name="menu_multiselect">Multiselect</string>
+    <string name="menu_open">Buksan</string>
+    <string name="menu_paste">Paste</string>
+    <string name="menu_rename">Palitan ang Pangalan</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_send">Ipadala</string>
+    <string name="menu_settings">Mga Setting</string>
+    <string name="menu_uncheck_all">Uncheck all</string>
+    <string name="move_error">Some or all items couldn\'t be moved!</string>
+    <string name="moved">Successfully moved</string>
+    <string name="moving">Moving…</string>
+    <string name="multiselect_title">Pumili ng mga file</string>
+    <string name="no_selection">No items checked</string>
+    <string msgid="478774118347071097" name="not_set">"Hindi nakatakda"</string>
+    <string name="nothing_to_paste">Nothing to paste. Copy or cut files first.</string>
+    <string name="oi_distribution_about">Tungkol</string>
+    <string name="oi_distribution_aboutapp">OI Tungkol</string>
+    <string name="oi_distribution_aboutapp_get">Kumuha OI Tungkol</string>
+    <string name="oi_distribution_aboutapp_not_available">Walang katugmang ekstensyon na magagamit upang ipakita ang buong impormasyon (kontak, mga kredito, lisensya).</string>
+    <string name="oi_distribution_app_name">OI Distribusyon Library</string>
+    <string name="oi_distribution_barcodescanner">Barcode OI Plugin</string>
+    <string name="oi_distribution_barcodescanner_not_available">Walang katugmang barcode scanner ang magagamit.</string>
+    <string name="oi_distribution_download_market">Download sa Merkado</string>
+    <string name="oi_distribution_download_market_message">Paki-download ang %s mula sa Merkado o sa OpenIntent website.</string>
+    <string name="oi_distribution_download_message">Paki-download ang %s mula sa OpenIntent website.</string>
+    <string name="oi_distribution_download_title">Download %s</string>
+    <string name="oi_distribution_download_web">Web download</string>
+    <string name="oi_distribution_eula_accept">Tanggapin</string>
+    <string name="oi_distribution_eula_message">Paki basahin at tanggapin ang sumusunod na End User License Agreement (EULA) para sa %s.</string>
+    <string name="oi_distribution_eula_refuse">Kanselahin</string>
+    <string name="oi_distribution_eula_title">%s EULA</string>
+    <string name="oi_distribution_filemanager">OI File Manedyer</string>
+    <string name="oi_distribution_filemanager_not_available">Walang katugmang file manedyer ang magagamit.</string>
+    <string name="oi_distribution_info_activity_text">%s ay maaaring magamit sa mga sumusunod na aplikasyon:</string>
+    <string name="oi_distribution_info_instructions">Mga Instruksyon</string>
+    <string name="oi_distribution_info_launch">Ilunsad ang %s</string>
+    <string name="oi_distribution_info_not_available">%1$s ay nangangailangan ng %2$s %3$s o mas madami.</string>
+    <string name="oi_distribution_launch_error">Applikasyon ay hindi maaaring mailunsad</string>
+    <string name="oi_distribution_menu_update">Suriin ang mga update</string>
+    <string name="oi_distribution_name_and_version">%1$s %2$s</string>
+    <string name="oi_distribution_newversion_continue">Magpatuloy</string>
+    <string name="oi_distribution_newversion_message">Maligayang pagdating sa bagong bersyon ng %s.</string>
+    <string name="oi_distribution_newversion_recent_changes">Kamakailang mga pagbabago:</string>
+    <string name="oi_distribution_safe">OI Kaha</string>
+    <string name="oi_distribution_safe_not_available">Walang katugmang applikasyon para  encryption ang magagamit.</string>
+    <string name="oi_distribution_safe_not_available_decrypt">Walang katugmang applikasyon para sa decryption ang magagamit. \n\nTala: kailangan mong ibalik ang master key mula sa isang backup na file upang ma-access ang mga dating naka-encrypt na datos.</string>
+    <string name="oi_distribution_support">Support</string>
+    <string name="oi_distribution_supportapp">OI Support</string>
+    <string name="oi_distribution_supportapp_get">Get OI Support</string>
+    <string name="oi_distribution_supportapp_not_available">No compatible extension available to display full info (Help/FAQ, Contact Developers, Feature request, Donations).</string>
+    <string name="oi_distribution_update_app">OI Magbago</string>
+    <string name="oi_distribution_update_box_text">Suriin ng mano-mano ang mga pagbabago o i-install OI Magbago para sa awtomatikong abiso.</string>
+    <string name="oi_distribution_update_check_now">Suriin ngayon</string>
+    <string name="oi_distribution_update_error">Download applikasyon ay hindi magagamit.</string>
+    <string name="oi_distribution_update_get_updater">Kunin ang OI Nagbabago</string>
+    <string name="overwrite_question">Overwrite old file?</string>
+    <string name="pick_button_default">Pick file</string>
+    <string name="pick_title">File picker</string>
+    <string name="preference_advanced_features">Nakauunang mga tampok</string>
+    <string msgid="7961817945132860002" name="preference_copied">"Nakopya sa clipboard ang \"<ns1:g id="SUMMARY">%1$s</ns1:g>.\""</string>
+    <string name="preference_displayhiddenfiles_summary_off">Itago ang mga nakatagong file</string>
+    <string name="preference_displayhiddenfiles_summary_on">Ipakita ang mga nakatagong file</string>
+    <string name="preference_displayhiddenfiles_title">Ipakita ang mga nakatagong file</string>
+    <string name="preference_mediascan_summary_off">Itago ang bagay ng menu para hindi maisama ang mga polder mula sa media scan.</string>
+    <string name="preference_mediascan_summary_on">Ipakita ang bagay ng menu na nagbubu-bukod ng mga polder mula sa media scan.</string>
+    <string name="preference_mediascan_title">Huwag isama sa media scan</string>
+    <string name="preference_search_category">Search</string>
+    <string name="preference_search_dialog_message">Clear search history?</string>
+    <string name="preference_search_title">Clear history</string>
+    <string name="preference_showallwarning_summary_off">Huwag ipakita ang mga mensahe ng babala</string>
+    <string name="preference_showallwarning_summary_on">Ipakita ang lahat ng mga mensahe ng babala</string>
+    <string name="preference_showallwarning_title">Ipakita ang lahat ng babala</string>
+    <string name="preference_sort_settings">Mga setting ng pagkakasunud-sunud</string>
+    <string name="preference_sortby">Pagkakasunud-sunud sa</string>
+    <string name="preference_sortby_ascending">Pataas na ayos</string>
+    <string name="preference_sortby_ascending_summary_off">Ayos pababa ng pagkakasunud-sunud</string>
+    <string name="preference_sortby_ascending_summary_on">Ayos pataas ng pagkakasunud-sunud</string>
+    <string name="preference_usebestmatch_summary_off">use most recently installed app</string>
+    <string name="preference_usebestmatch_summary_on">use most suitable app</string>
+    <string name="preference_usebestmatch_title">Use best app for icons</string>
+    <string name="preference_usedarktheme_summary_off">Light theme selected</string>
+    <string name="preference_usedarktheme_summary_on">Dark theme selected</string>
+    <string name="preference_usedarktheme_title">Use dark theme (Requires restart of app)</string>
+    <string name="query_error">Query error</string>
+    <string name="really_delete">Gusto mo ba talagang alisin ang %s?</string>
+    <string name="really_delete_multiselect">Gusto mo ba talagang alisin ang mga file %d?</string>
+    <string name="rename_failure">Couldn\'t rename</string>
+    <string name="rename_success">Successfully renamed</string>
+    <string name="saveas_error">Nagkaroon ng mali.</string>
+    <string name="saveas_file_saved">File matagumpay na nai-save!</string>
+    <string name="saveas_no_file_picked">Hindi ka pa pumili ng anumang file.</string>
+    <string name="scanning">Scanning…</string>
+    <string name="search_hint">Search files</string>
+    <string name="search_history_cleared">Search history cleared</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Maghanap"</string>
+    <string name="search_settings_descr">Files and folders in storage</string>
+    <string name="selected">selected</string>
+    <string name="send_chooser_title">Send using:</string>
+    <string name="send_not_available">Walang aplikasyon na magagamit para sa pagpapadala.</string>
+    <string name="settings">Mga Setting</string>
+    <string name="show_warning_again">Ipakita muli ang babala</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="this_folder_is_empty">Ang polder na ito ay walang laman.</string>
+    <string name="title_warning_some_may_not_work">Babala</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"NAKA-OFF"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"NAKA-ON"</string>
+    <string name="warning_some_may_not_work">Ilan sa mga sumusunod na pagpipilian ay maaaring hindi gumana.</string>
+</resources>

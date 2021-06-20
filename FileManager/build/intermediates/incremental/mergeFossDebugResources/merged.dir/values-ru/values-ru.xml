@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="preference_sortby_names">
+        <item>Название</item>
+        <item>Размер</item>
+        <item>Последнее изменение</item>
+        <item>File extension</item>
+    </string-array>
+    <plurals name="clipboard_info_items_to_copy">
+        <item quantity="one">%1$d item to copy</item>
+        <item quantity="other">%1$d items to copy</item>
+    </plurals>
+    <plurals name="clipboard_info_items_to_move">
+        <item quantity="one">%1$d item to move</item>
+        <item quantity="other">%1$d items to move</item>
+    </plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Ещё"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Выберите приложение"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"ВЫКЛ"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"ВКЛ"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"Ввод"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"Пробел"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Меню +"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Введите запрос"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Поделиться с помощью"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Поделиться с помощью <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="about_comments">Управляйте файлами на SD карте с помощью OI File Manager.</string>
+    <string name="about_translators">Launchpad Contributions:
+  Alexander \'FONTER\' Zinin https://launchpad.net/~spore-09
+  Alexander Sapronov https://launchpad.net/~warmonger
+  Andrey Zaytsev https://launchpad.net/~a.einsam
+  Denis Timakov https://launchpad.net/~timakden88
+  Nkolay Parukhin https://launchpad.net/~parukhin
+  OpenIntents devs https://launchpad.net/~openintents-devs
+  Peli https://launchpad.net/~peli0101
+  Vasily Bogantsev https://launchpad.net/~bas-eurogym</string>
+    <string name="app_name">OI File Manager</string>
+    <string name="application_not_available">Приложение недоступно.</string>
+    <string name="bookmark_added">Закладка добавлена</string>
+    <string name="bookmark_already_exists">Этот файл уже в закладках</string>
+    <string name="bookmark_empty">Нет добавленных закладок.</string>
+    <string name="bookmarks">Закладки</string>
+    <string name="choose_filename">File name can\'t be empty!</string>
+    <string name="clipboard_dismiss">Dismiss</string>
+    <string name="clipboard_undo">Undo</string>
+    <string name="compressed_file_name">Имя файла ZIP</string>
+    <string name="compressing">Сжатие...</string>
+    <string name="compressing_error">Не удалось сжать элемент</string>
+    <string name="compressing_success">Элемент успешно сжат</string>
+    <string name="copied">Успешно скопировано</string>
+    <string name="copied_file_name">Копия %s</string>
+    <string name="copied_file_name_2">Копия %1$d %2$s</string>
+    <string msgid="3209159573327985035" name="copy">"Копировать"</string>
+    <string name="copy_error">Некоторые или все элементы не могут быть скопированы!</string>
+    <string name="copying">Копирование...</string>
+    <string name="create_dir_failure">Не удалось создать директорию</string>
+    <string name="create_dir_success">Директория успешно создана</string>
+    <string name="create_new_folder">Создать новую папку</string>
+    <string name="delete_failure">Некоторые файлы не удалены</string>
+    <string name="delete_success">Успешно удалено</string>
+    <string name="deleting">Удаление...</string>
+    <string name="details_hidden">Скрытый</string>
+    <string name="details_lastmodified">Последнее изменение</string>
+    <string name="details_no">Нет</string>
+    <string name="details_permissions">Разрешения</string>
+    <string name="details_size">Размер</string>
+    <string name="details_type">Тип</string>
+    <string name="details_type_file">Файл</string>
+    <string name="details_type_folder">Папка</string>
+    <string name="details_type_other">Другое</string>
+    <string name="details_yes">Да</string>
+    <string name="directory_pick">Выберите текущую директорию</string>
+    <string name="error_generic">Произошла ошибка:</string>
+    <string name="error_media_scan">Невозможно изменить настройки сканирования.</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Дополнительно"</string>
+    <string name="extracting">Распаковка...</string>
+    <string name="extracting_error">Не удалось распаковать элемент</string>
+    <string name="extracting_success">Элемент успешно распакован</string>
+    <string name="file_exists">Файл существует</string>
+    <string name="filename_hint">File name</string>
+    <string name="folder_name">Имя папки</string>
+    <string name="item_icon">Иконка элемента</string>
+    <string name="loading">Загрузка…</string>
+    <string name="media_scan_excluded">Эта папка будет исключена из следующего сканирования.</string>
+    <string name="media_scan_included">Эта папка будет включена в следующее сканирование.</string>
+    <string name="menu_bookmark">Создать закладку</string>
+    <string name="menu_bookmarks">Закладки</string>
+    <string name="menu_check_all">Отметить всё</string>
+    <string name="menu_compress">Сжать (ZIP)</string>
+    <string name="menu_copy">Копировать</string>
+    <string name="menu_create_folder">Создать папку</string>
+    <string name="menu_create_shortcut">Создать ярлык</string>
+    <string name="menu_delete">Удалить</string>
+    <string name="menu_details">Подробная информация</string>
+    <string name="menu_donate">Donate</string>
+    <string name="menu_exclude_from_media_scan">Исключить из сканирования</string>
+    <string name="menu_extract">Извлечь (ZIP)</string>
+    <string name="menu_include_in_media_scan">Включить в сканирование</string>
+    <string name="menu_more">Ещё</string>
+    <string name="menu_move">Вырезать</string>
+    <string name="menu_multiselect">Множественный выбор</string>
+    <string name="menu_open">Открыть</string>
+    <string name="menu_paste">Вставить</string>
+    <string name="menu_rename">Переименовать</string>
+    <string name="menu_search">Поиск</string>
+    <string name="menu_send">Отправить</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_uncheck_all">Снять все отметки</string>
+    <string name="move_error">Некоторые или все элементы не могут быть перемещены!</string>
+    <string name="moved">Успешно перемещено</string>
+    <string name="moving">Перемещение...</string>
+    <string name="multiselect_title">Выберите несколько файлов</string>
+    <string name="no_selection">Нет отмеченных элементов</string>
+    <string msgid="478774118347071097" name="not_set">"Не указано"</string>
+    <string name="nothing_to_paste">Нечего вставлять. Сначала скопируйте или вырежьте файлы.</string>
+    <string name="oi_distribution_about">О программе</string>
+    <string name="oi_distribution_aboutapp">OI About</string>
+    <string name="oi_distribution_aboutapp_get">Получить OI About</string>
+    <string name="oi_distribution_aboutapp_not_available">Нет совместимого расширения для отображения полной информации (контакты, лицензии).</string>
+    <string name="oi_distribution_app_name">OI Distribution Library</string>
+    <string name="oi_distribution_barcodescanner">Barcode OI Plugin</string>
+    <string name="oi_distribution_barcodescanner_not_available">No compatible barcode scanner is available.</string>
+    <string name="oi_distribution_download_market">Загрузить из Android Маркета</string>
+    <string name="oi_distribution_download_market_message">Пожалуйста скачайте %s с Маркета или сайта OpenIntents</string>
+    <string name="oi_distribution_download_message">Пожалуйста скачайте %s с сайта OpenIntents</string>
+    <string name="oi_distribution_download_title">Загрузка %s</string>
+    <string name="oi_distribution_download_web">Онлайн загрузка</string>
+    <string name="oi_distribution_eula_accept">Подтвердить</string>
+    <string name="oi_distribution_eula_message">Пожалуйста, прочтите и примите следующее лицензионное соглашение конечного пользователя (EULA) для %s</string>
+    <string name="oi_distribution_eula_refuse">Отменить</string>
+    <string name="oi_distribution_eula_title">%s Лицензионное Cоглашение</string>
+    <string name="oi_distribution_filemanager">OI File Manager</string>
+    <string name="oi_distribution_filemanager_not_available">Совместимый файловый менеджер не доступен</string>
+    <string name="oi_distribution_info_activity_text">%s могут быть использованы для следующих приложений:</string>
+    <string name="oi_distribution_info_instructions">Инструкции</string>
+    <string name="oi_distribution_info_launch">Запуск %s</string>
+    <string name="oi_distribution_info_not_available">%1$s требует %2$s %3$s или выше.</string>
+    <string name="oi_distribution_launch_error">Приложение не может быть запущено</string>
+    <string name="oi_distribution_menu_update">Проверка обновлений</string>
+    <string name="oi_distribution_name_and_version">%1$s %2$s</string>
+    <string name="oi_distribution_newversion_continue">Далее</string>
+    <string name="oi_distribution_newversion_message">Добро пожаловать в новую версию %s.</string>
+    <string name="oi_distribution_newversion_recent_changes">Последние изменения:</string>
+    <string name="oi_distribution_safe">OI Safe</string>
+    <string name="oi_distribution_safe_not_available">Совместимые приложения для шифрования не доступны</string>
+    <string name="oi_distribution_safe_not_available_decrypt">Нет совместимого приложения для расшифровки.\n\nПримечание: Необходимо восстановить главный ключ из файла резервной копии, чтобы получить доступ к ранее зашифрованным данным.</string>
+    <string name="oi_distribution_support">Support</string>
+    <string name="oi_distribution_supportapp">OI Support</string>
+    <string name="oi_distribution_supportapp_get">Get OI Support</string>
+    <string name="oi_distribution_supportapp_not_available">No compatible extension available to display full info (Help/FAQ, Contact Developers, Feature request, Donations).</string>
+    <string name="oi_distribution_update_app">OI Update</string>
+    <string name="oi_distribution_update_box_text">Проверьте обновления вручную или установите OI Update для автоматической проверки.</string>
+    <string name="oi_distribution_update_check_now">Проверить сейчас</string>
+    <string name="oi_distribution_update_error">Загрузка приложения не доступна.</string>
+    <string name="oi_distribution_update_get_updater">Получить OI Updater</string>
+    <string name="overwrite_question">Переписать старый файл?</string>
+    <string name="pick_button_default">Pick file</string>
+    <string name="pick_title">Выбор файла</string>
+    <string name="preference_advanced_features">Дополнительные функции</string>
+    <string msgid="7961817945132860002" name="preference_copied">"Текст \"<ns1:g id="SUMMARY">%1$s</ns1:g>\" скопирован в буфер обмена"</string>
+    <string name="preference_displayhiddenfiles_summary_off">Не отображать скрытые файлы</string>
+    <string name="preference_displayhiddenfiles_summary_on">Отображать скрытые файлы</string>
+    <string name="preference_displayhiddenfiles_title">Отображать скрытые файлы</string>
+    <string name="preference_mediascan_summary_off">Скрывать пункт меню для исключения папок из сканирования.</string>
+    <string name="preference_mediascan_summary_on">Показывать пункт меню для исключения папок из сканирования.</string>
+    <string name="preference_mediascan_title">Исключить из сканирования</string>
+    <string name="preference_search_category">Поиск</string>
+    <string name="preference_search_dialog_message">Очистить историю поиска?</string>
+    <string name="preference_search_title">Очистить историю</string>
+    <string name="preference_showallwarning_summary_off">Скрывать предупреждения</string>
+    <string name="preference_showallwarning_summary_on">Показывать все предупреждения</string>
+    <string name="preference_showallwarning_title">Показать все предупреждения</string>
+    <string name="preference_sort_settings">Настройки сортировки</string>
+    <string name="preference_sortby">Сортировать по</string>
+    <string name="preference_sortby_ascending">В порядке возрастания</string>
+    <string name="preference_sortby_ascending_summary_off">Сортировать по убыванию</string>
+    <string name="preference_sortby_ascending_summary_on">Сортировать по возрастанию</string>
+    <string name="preference_usebestmatch_summary_off">use most recently installed app</string>
+    <string name="preference_usebestmatch_summary_on">use most suitable app</string>
+    <string name="preference_usebestmatch_title">Use best app for icons</string>
+    <string name="preference_usedarktheme_summary_off">Light theme selected</string>
+    <string name="preference_usedarktheme_summary_on">Dark theme selected</string>
+    <string name="preference_usedarktheme_title">Use dark theme (Requires restart of app)</string>
+    <string name="query_error">Ошибка запроса</string>
+    <string name="really_delete">Вы действительно хотите удалить %s?</string>
+    <string name="really_delete_multiselect">Вы действительно хотите удалить %d файла(-ов)?</string>
+    <string name="rename_failure">Не удалось переименовать</string>
+    <string name="rename_success">Успешно переименовано</string>
+    <string name="saveas_error">Произошла ошибка.</string>
+    <string name="saveas_file_saved">Файл успешно сохранён!</string>
+    <string name="saveas_no_file_picked">Вы не выбрали файл.</string>
+    <string name="scanning">Сканирование…</string>
+    <string name="search_hint">Поиск файлов</string>
+    <string name="search_history_cleared">История поиска очищена</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Поиск"</string>
+    <string name="search_settings_descr">Файлы и папки в памяти</string>
+    <string name="selected">выбрано</string>
+    <string name="send_chooser_title">Отправить через:</string>
+    <string name="send_not_available">Нет приложения для отправки.</string>
+    <string name="settings">Настройки</string>
+    <string name="show_warning_again">Показать предупреждение снова</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">">999"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="this_folder_is_empty">Эта папка пуста.</string>
+    <string name="title_warning_some_may_not_work">Внимание</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"ВЫКЛ."</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ВКЛ."</string>
+    <string name="warning_some_may_not_work">Некоторые из следующих настроек могут не работать.</string>
+</resources>

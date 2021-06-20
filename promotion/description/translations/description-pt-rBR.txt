@@ -1,0 +1,7 @@
+# Application:
+OI File Manager
+
+# Promo text:
+Gerencie seus arquivos do catão SD com o OI File Manager.
+
+# Description:

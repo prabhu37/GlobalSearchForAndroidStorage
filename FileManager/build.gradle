@@ -1,0 +1,77 @@
+apply plugin: 'com.android.application'
+
+dependencies {
+    implementation 'com.github.openintents:distribution:3.2.0'
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation "androidx.preference:preference:1.1.0"
+    implementation 'androidx.localbroadcastmanager:localbroadcastmanager:1.0.0'
+    implementation "androidx.constraintlayout:constraintlayout:2.0.0-beta3"
+
+    androidTestImplementation 'androidx.test.ext:junit:1.1.1'
+    androidTestImplementation 'androidx.test:runner:1.2.0'
+    androidTestImplementation 'androidx.test:rules:1.2.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-intents:3.2.0'
+    androidTestImplementation 'androidx.test.uiautomator:uiautomator:2.2.0'
+    androidTestImplementation 'androidx.annotation:annotation:1.1.0'
+    implementation 'androidx.test.espresso:espresso-idling-resource:3.2.0'
+}
+
+android {
+    compileSdkVersion compile_sdk_version
+
+    defaultConfig {
+        applicationId "org.openintents.filemanager"
+        versionCode version_code
+        versionName version_name
+        minSdkVersion min_sdk_version
+        targetSdkVersion target_sdk_version
+        setProperty("archivesBaseName", "$applicationId-$versionName")
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+
+    flavorDimensions "market"
+
+    productFlavors {
+        play {
+
+        }
+
+
+        foss {
+
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    def propertyFile = new File(projectDir, "build-private.properties")
+    if (propertyFile && propertyFile.exists()) {
+        signingConfigs {
+            release {
+                Properties props = new Properties()
+                props.load(new FileInputStream(propertyFile))
+
+                storeFile file(props.getProperty("key.store"))
+                storePassword props.getProperty("key.store.password")
+                keyAlias props.getProperty("key.alias")
+                keyPassword props.getProperty("key.alias.password")
+            }
+        }
+        buildTypes.release.signingConfig signingConfigs.release
+        println "Release apks will be signed!"
+    } else {
+        println "For signed release apks you need to create a build-private.properties file"
+    }
+
+}

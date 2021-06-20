@@ -1,0 +1,7 @@
+# Application:
+OI Fájlkezelő
+
+# Promo text:
+Fájlok kezelése az SD kártyán az OI Fájlkezelővel.
+
+# Description:

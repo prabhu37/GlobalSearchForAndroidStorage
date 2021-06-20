@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManager/build/intermediates/incremental/mergeFossDebugResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManager/src/main/res/values-sw600dp-land/dimensions.xml",
+                    "from": {
+                        "startLines": "4,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "122,16",
+                        "endColumns": "61,64",
+                        "endOffsets": "179,76"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,117",
+                        "endColumns": "61,64",
+                        "endOffsets": "112,177"
+                    }
+                }
+            ]
+        }
+    ]
+}

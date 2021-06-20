@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":47,"versionName":"2.3.1","enabled":true,"outputFile":"org.openintents.filemanager.demo-2.3.1-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"org.openintents.filemanager.demo","split":"","minSdkVersion":"14"}}]

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"होम पेज पर जाएं"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"वापस जाएं"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"ज़्यादा विकल्प"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"हो गया"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"सभी देखें"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"कोई ऐप्लिकेशन चुनें"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"बंद"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"चालू"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"खोजें…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"क्‍वेरी हटाएं"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"सर्च क्वेरी"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"खोजें"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"क्वेरी सबमिट करें"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"बोलकर खोजें"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"इससे शेयर करें:"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> से शेयर करें"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"छोटा करें"</string>
+    <string name="about_translators">Launchpad Contributions:
+  Atharva Lath https://launchpad.net/~atharvalath96
+  OpenIntents devs https://launchpad.net/~openintents-devs
+  happynawani https://launchpad.net/~happynawani
+  vishal panjwani https://launchpad.net/~vishal-panjwani15</string>
+    <string name="oi_distribution_about">के बारे में</string>
+    <string name="oi_distribution_aboutapp">OI के बारें में</string>
+    <string name="oi_distribution_aboutapp_get">OI \'के बारें में\' प्राप्त करें</string>
+    <string name="oi_distribution_aboutapp_not_available">पूरी जानकारी (संपर्क, श्रेय, लाइसेंस) प्रदर्शित करने के लिए कोई संगत पुर्ण एक्सटेंशन उपलब्ध नहीं है|</string>
+    <string name="oi_distribution_app_name">OI वितरण लाइब्रेरी</string>
+    <string name="oi_distribution_barcodescanner">बारकोड प्लगइन</string>
+    <string name="oi_distribution_barcodescanner_not_available">कोई संगत बारकोड स्केन्नर उपलब्ध नहीं है</string>
+    <string name="oi_distribution_download_market">बाजार से डाउनलोड करें</string>
+    <string name="oi_distribution_download_market_message">बाजार या OpenIntents वेबसाइट से %s डाउनलोड करें|</string>
+    <string name="oi_distribution_download_message">OpenIntents वेबसाइट से%s डाउनलोड करें|</string>
+    <string name="oi_distribution_download_title">%s  डाउनलोड करें</string>
+    <string name="oi_distribution_download_web">वेब से डाउनलोड करें</string>
+    <string name="oi_distribution_eula_accept">स्वीकारें</string>
+    <string name="oi_distribution_eula_message">%s के लिए निम्नलिखित एंड यूज़र लायसेंस एग्रीमेंट (EULA) पढ़ें और स्वीकार करें|</string>
+    <string name="oi_distribution_eula_refuse">रद्द करें</string>
+    <string name="oi_distribution_eula_title">%s EULA</string>
+    <string name="oi_distribution_filemanager">OI फ़ाइल प्रबंधक</string>
+    <string name="oi_distribution_filemanager_not_available">कोई संगत पुर्ण  फ़ाइल प्रबंधक उपलब्ध है|</string>
+    <string name="oi_distribution_info_activity_text">%s निम्नलिखित अनुप्रयोगों के साथ इस्तेमाल किया जा सकता है:</string>
+    <string name="oi_distribution_info_instructions">निर्देश</string>
+    <string name="oi_distribution_info_launch">%s लॉन्च करें</string>
+    <string name="oi_distribution_info_not_available">%1$s को आवश्यकता है  %2$s %3$s या अधिक की|</string>
+    <string name="oi_distribution_launch_error">अनुप्रयोग शुरू नहीं किया जा सका</string>
+    <string name="oi_distribution_menu_update">अद्यतनों की जाँच करें</string>
+    <string name="oi_distribution_name_and_version">%1$s %2$s</string>
+    <string name="oi_distribution_newversion_continue">जारी रखें</string>
+    <string name="oi_distribution_newversion_message">%s के इस नए संस्करण में आपका स्वागत है|</string>
+    <string name="oi_distribution_newversion_recent_changes">हाल में किये गए बदलाव:</string>
+    <string name="oi_distribution_safe">OI सुरक्षित</string>
+    <string name="oi_distribution_safe_not_available">एन्क्रिप्शन के लिए कोई संगत पुर्ण अनुप्रयोग उपलब्ध नहीं  है|</string>
+    <string name="oi_distribution_safe_not_available_decrypt">डिक्रिप्शन के लिए कोई संगत पुर्ण अनुप्रयोग उपलब्ध नहीं है|\n\nनोट:पहले वाले एन्क्रिप्टेड डेटा का उपयोग करने के लिए आपको बैकअप फ़ाइल से मास्टर कुंजी पुनर्स्थापित करनी होगी|</string>
+    <string name="oi_distribution_support">Support</string>
+    <string name="oi_distribution_supportapp">OI Support</string>
+    <string name="oi_distribution_supportapp_get">Get OI Support</string>
+    <string name="oi_distribution_supportapp_not_available">No compatible extension available to display full info (Help/FAQ, Contact Developers, Feature request, Donations).</string>
+    <string name="oi_distribution_update_app">OI अद्यतन</string>
+    <string name="oi_distribution_update_box_text">अद्यतनों के लिए मैन्युअल जाँच करें या स्वत: सूचना के लिए OI अद्यतन स्थापित करें|</string>
+    <string name="oi_distribution_update_check_now">अब जाँच करें</string>
+    <string name="oi_distribution_update_error">डाउनलोड अनुप्रयोग उपलब्ध नहीं है|</string>
+    <string name="oi_distribution_update_get_updater">OI अद्यतनकर्ता प्राप्त करें</string>
+    <string msgid="730395136688082741" name="search_menu_title">"खोजें"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

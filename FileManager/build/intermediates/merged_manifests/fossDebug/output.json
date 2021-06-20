@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":47,"versionName":"2.3.1","enabled":true,"outputFile":"org.openintents.filemanager-2.3.1-foss-debug.apk","fullName":"fossDebug","baseName":"foss-debug"},"path":"AndroidManifest.xml","properties":{"packageId":"org.openintents.filemanager","split":"","minSdkVersion":"14"}}]

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Selecionar um app"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"DESATIVADO"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"ATIVADO"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"espaço"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Pesquisar…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Compartilhar com <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="about_translators">Launchpad Contributions:
+  Janeth Vargas https://launchpad.net/~janeth-vz-1
+  OpenIntents devs https://launchpad.net/~openintents-devs</string>
+    <string name="oi_distribution_about">Sobre</string>
+    <string name="oi_distribution_aboutapp">OI Sobre</string>
+    <string name="oi_distribution_aboutapp_get">Conseguir OI Sobre</string>
+    <string name="oi_distribution_aboutapp_not_available">Sem extensão compatível disponível para exibir informação completa (contato, créditos, de licença).</string>
+    <string name="oi_distribution_app_name">OI Livraria de Distribuição</string>
+    <string name="oi_distribution_barcodescanner">OI Plugin de Código de Barras</string>
+    <string name="oi_distribution_barcodescanner_not_available">Não há um scanner de código de barras compatível disponível.</string>
+    <string name="oi_distribution_download_market">Download  do Mercado</string>
+    <string name="oi_distribution_download_market_message">Por favor faça o download %s do Mercado no site OpenIntents.</string>
+    <string name="oi_distribution_download_message">Por favor faça o download %s do site da OpenIntents.</string>
+    <string name="oi_distribution_download_title">Download %s</string>
+    <string name="oi_distribution_download_web">Download da Internete</string>
+    <string name="oi_distribution_eula_accept">Aceitar</string>
+    <string name="oi_distribution_eula_message">Por favor, leia e aceite este Contrato de Licença de Usuário Final (CLUF) para %s.</string>
+    <string name="oi_distribution_eula_refuse">Cancelar</string>
+    <string name="oi_distribution_eula_title">%s CLUF</string>
+    <string name="oi_distribution_filemanager">OI Gerenciador de Arquivos</string>
+    <string name="oi_distribution_filemanager_not_available">Sem  gerenciador de arquivos compatíveis disponível.</string>
+    <string name="oi_distribution_info_activity_text">%s pode ser usado com as seguintes aplicações:</string>
+    <string name="oi_distribution_info_instructions">Instruções</string>
+    <string name="oi_distribution_info_launch">Iniciar %s</string>
+    <string name="oi_distribution_info_not_available">%1$s requere %2$s %3$s ou superior.</string>
+    <string name="oi_distribution_launch_error">Aplicação não pôde ser iniciada</string>
+    <string name="oi_distribution_menu_update">Checar atualizações</string>
+    <string name="oi_distribution_name_and_version">%1$s %2$s</string>
+    <string name="oi_distribution_newversion_continue">Continuar</string>
+    <string name="oi_distribution_newversion_message">Bem-vindo a esta nova versão do %s.</string>
+    <string name="oi_distribution_newversion_recent_changes">Modificações Recentes:</string>
+    <string name="oi_distribution_safe">OI Seguro</string>
+    <string name="oi_distribution_safe_not_available">Nenhuma aplicação compatível para a criptografia disponível.</string>
+    <string name="oi_distribution_safe_not_available_decrypt">Nenhuma aplicação compatível para a descodificação está disponível.\n\nNota: Você tem que restaurar a chave master de um arquivo de backup, a fim de acessar dados criptografados anteriormente.</string>
+    <string name="oi_distribution_support">Support</string>
+    <string name="oi_distribution_supportapp">OI Support</string>
+    <string name="oi_distribution_supportapp_get">Get OI Support</string>
+    <string name="oi_distribution_supportapp_not_available">No compatible extension available to display full info (Help/FAQ, Contact Developers, Feature request, Donations).</string>
+    <string name="oi_distribution_update_app">OI Atualizar</string>
+    <string name="oi_distribution_update_box_text">Verificar manualmente por atualizações ou instalar OI Atualização para notificações automáticas.</string>
+    <string name="oi_distribution_update_check_now">Confira agora</string>
+    <string name="oi_distribution_update_error">Download aplicativo não está disponível.</string>
+    <string name="oi_distribution_update_get_updater">Conseguir OI Atualização</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Pesquisar"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

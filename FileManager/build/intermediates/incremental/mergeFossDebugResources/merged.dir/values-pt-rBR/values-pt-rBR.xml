@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="preference_sortby_names">
+        <item>Nome</item>
+        <item>Tamanho:</item>
+        <item>Última modificação</item>
+        <item>File extension</item>
+    </string-array>
+    <plurals name="clipboard_info_items_to_copy">
+        <item quantity="one">%1$d item to copy</item>
+        <item quantity="other">%1$d items to copy</item>
+    </plurals>
+    <plurals name="clipboard_info_items_to_move">
+        <item quantity="one">%1$d item to move</item>
+        <item quantity="other">%1$d items to move</item>
+    </plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Selecionar um app"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"DESATIVADO"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"ATIVADO"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"espaço"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Pesquisar…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Compartilhar com <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="about_comments">Gerencie seus arquivos do catão SD com o OI File Manager.</string>
+    <string name="about_translators">Launchpad Contributions:
+  André Gondim https://launchpad.net/~andregondim
+  DanielElias https://launchpad.net/~danielelias
+  Gabriel Souza Ribeiro https://launchpad.net/~gsr.gabriel
+  Luiz Lopes https://launchpad.net/~luizlopes</string>
+    <string name="app_name">OI File Manager</string>
+    <string name="application_not_available">Aplicativo indisponível.</string>
+    <string name="bookmark_added">Bookmark added</string>
+    <string name="bookmark_already_exists">Este arquivo já foi adicionado aos favoritos</string>
+    <string name="bookmark_empty">Não foram adicionados favoritos.</string>
+    <string name="bookmarks">Marcadores</string>
+    <string name="choose_filename">File name can\'t be empty!</string>
+    <string name="clipboard_dismiss">Dismiss</string>
+    <string name="clipboard_undo">Undo</string>
+    <string name="compressed_file_name">Nome do arquivo Zip</string>
+    <string name="compressing">Comprimindo...</string>
+    <string name="compressing_error">Não foi possível comprimir o item</string>
+    <string name="compressing_success">Item compactado com sucesso</string>
+    <string name="copied">Copiado com sucesso</string>
+    <string name="copied_file_name">Cópia de %s</string>
+    <string name="copied_file_name_2">Copia %1$d de %2$s</string>
+    <string msgid="3209159573327985035" name="copy">"Copiar"</string>
+    <string name="copy_error">Alguns ou todos os itens não podem ser copiados!</string>
+    <string name="copying">Copiando...</string>
+    <string name="create_dir_failure">Não foi possível criar diretório</string>
+    <string name="create_dir_success">Successfully created directory</string>
+    <string name="create_new_folder">Criar nova pasta</string>
+    <string name="delete_failure">Some files not deleted</string>
+    <string name="delete_success">Successfully deleted</string>
+    <string name="deleting">Excluindo…</string>
+    <string name="details_hidden">Hidden</string>
+    <string name="details_lastmodified">Última Modificação</string>
+    <string name="details_no">Não</string>
+    <string name="details_permissions">Permissões</string>
+    <string name="details_size">Tamanho:</string>
+    <string name="details_type">Tipo</string>
+    <string name="details_type_file">Arquivo</string>
+    <string name="details_type_folder">Pasta</string>
+    <string name="details_type_other">Outros</string>
+    <string name="details_yes">Sìm</string>
+    <string name="directory_pick">Selecione o diretório atual</string>
+    <string name="error_generic">Um erro ocorreu:</string>
+    <string name="error_media_scan">Não é possível mudar configurações do scanner de mídia.</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Avançado"</string>
+    <string name="extracting">Extraindo...</string>
+    <string name="extracting_error">Could not extract the item</string>
+    <string name="extracting_success">Item extraído com sucesso</string>
+    <string name="file_exists">O arquivo já existe</string>
+    <string name="filename_hint">File name</string>
+    <string name="folder_name">Nome da Pasta</string>
+    <string name="item_icon">Ícone do item</string>
+    <string name="loading">Carregando…</string>
+    <string name="media_scan_excluded">Esta pasta será excluída durante o próximo escaneamento de mídia.</string>
+    <string name="media_scan_included">Esta pasta será incluída no próximo escaneamento de mídia</string>
+    <string name="menu_bookmark">Marcador</string>
+    <string name="menu_bookmarks">Marcadores</string>
+    <string name="menu_check_all">Selecionar todos</string>
+    <string name="menu_compress">Comprimir(ZIP)</string>
+    <string name="menu_copy">Copiar</string>
+    <string name="menu_create_folder">Cria uma pasta</string>
+    <string name="menu_create_shortcut">Criar atalho</string>
+    <string name="menu_delete">Apagar</string>
+    <string name="menu_details">Detalhes</string>
+    <string name="menu_donate">Donate</string>
+    <string name="menu_exclude_from_media_scan">Remover do scanner de mídia.</string>
+    <string name="menu_extract">Extrair(ZIP)</string>
+    <string name="menu_include_in_media_scan">Incluir no scanner de mídia.</string>
+    <string name="menu_more">Mais</string>
+    <string name="menu_move">Cortar</string>
+    <string name="menu_multiselect">Multiselect</string>
+    <string name="menu_open">Abrir</string>
+    <string name="menu_paste">Colar</string>
+    <string name="menu_rename">Renomear</string>
+    <string name="menu_search">Pesquisar</string>
+    <string name="menu_send">Enviar</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="menu_uncheck_all">Desmarcar todos</string>
+    <string name="move_error">Alguns ou todos os itens não podem ser movidos!</string>
+    <string name="moved">Movido com sucesso</string>
+    <string name="moving">Movendo...</string>
+    <string name="multiselect_title">Selecione vários arquivos</string>
+    <string name="no_selection">Nenhum item marcado</string>
+    <string msgid="478774118347071097" name="not_set">"Não definido"</string>
+    <string name="nothing_to_paste">Nothing to paste. Copy or cut files first.</string>
+    <string name="oi_distribution_about">Sobre</string>
+    <string name="oi_distribution_aboutapp">OI Sobre</string>
+    <string name="oi_distribution_aboutapp_get">Conseguir OI Sobre</string>
+    <string name="oi_distribution_aboutapp_not_available">Sem extensão compatível disponível para exibir informação completa (contato, créditos, de licença).</string>
+    <string name="oi_distribution_app_name">OI Livraria de Distribuição</string>
+    <string name="oi_distribution_barcodescanner">OI Plugin de Código de Barras</string>
+    <string name="oi_distribution_barcodescanner_not_available">Não há um scanner de código de barras compatível disponível.</string>
+    <string name="oi_distribution_download_market">Download  do Mercado</string>
+    <string name="oi_distribution_download_market_message">Por favor faça o download %s do Mercado no site OpenIntents.</string>
+    <string name="oi_distribution_download_message">Por favor faça o download %s do site da OpenIntents.</string>
+    <string name="oi_distribution_download_title">Download %s</string>
+    <string name="oi_distribution_download_web">Download da Internete</string>
+    <string name="oi_distribution_eula_accept">Aceitar</string>
+    <string name="oi_distribution_eula_message">Por favor, leia e aceite este Contrato de Licença de Usuário Final (CLUF) para %s.</string>
+    <string name="oi_distribution_eula_refuse">Cancelar</string>
+    <string name="oi_distribution_eula_title">%s CLUF</string>
+    <string name="oi_distribution_filemanager">OI Gerenciador de Arquivos</string>
+    <string name="oi_distribution_filemanager_not_available">Sem  gerenciador de arquivos compatíveis disponível.</string>
+    <string name="oi_distribution_info_activity_text">%s pode ser usado com as seguintes aplicações:</string>
+    <string name="oi_distribution_info_instructions">Instruções</string>
+    <string name="oi_distribution_info_launch">Iniciar %s</string>
+    <string name="oi_distribution_info_not_available">%1$s requere %2$s %3$s ou superior.</string>
+    <string name="oi_distribution_launch_error">Aplicação não pôde ser iniciada</string>
+    <string name="oi_distribution_menu_update">Checar atualizações</string>
+    <string name="oi_distribution_name_and_version">%1$s %2$s</string>
+    <string name="oi_distribution_newversion_continue">Continuar</string>
+    <string name="oi_distribution_newversion_message">Bem-vindo a esta nova versão do %s.</string>
+    <string name="oi_distribution_newversion_recent_changes">Modificações Recentes:</string>
+    <string name="oi_distribution_safe">OI Seguro</string>
+    <string name="oi_distribution_safe_not_available">Nenhuma aplicação compatível para a criptografia disponível.</string>
+    <string name="oi_distribution_safe_not_available_decrypt">Nenhuma aplicação compatível para a descodificação está disponível.\n\nNota: Você tem que restaurar a chave master de um arquivo de backup, a fim de acessar dados criptografados anteriormente.</string>
+    <string name="oi_distribution_support">Support</string>
+    <string name="oi_distribution_supportapp">OI Support</string>
+    <string name="oi_distribution_supportapp_get">Get OI Support</string>
+    <string name="oi_distribution_supportapp_not_available">No compatible extension available to display full info (Help/FAQ, Contact Developers, Feature request, Donations).</string>
+    <string name="oi_distribution_update_app">OI Atualizar</string>
+    <string name="oi_distribution_update_box_text">Verificar manualmente por atualizações ou instalar OI Atualização para notificações automáticas.</string>
+    <string name="oi_distribution_update_check_now">Confira agora</string>
+    <string name="oi_distribution_update_error">Download aplicativo não está disponível.</string>
+    <string name="oi_distribution_update_get_updater">Conseguir OI Atualização</string>
+    <string name="overwrite_question">Sobrescrever o arquivo antigo?</string>
+    <string name="pick_button_default">Pick file</string>
+    <string name="pick_title">Seletor de arquivos</string>
+    <string name="preference_advanced_features">Funcionalidades avançadas</string>
+    <string msgid="7961817945132860002" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" copiado para a área de transferência."</string>
+    <string name="preference_displayhiddenfiles_summary_off">Esconder arquivos ocultos</string>
+    <string name="preference_displayhiddenfiles_summary_on">Mostrar arquivos ocultos</string>
+    <string name="preference_displayhiddenfiles_title">Mostrar arquivos ocultos</string>
+    <string name="preference_mediascan_summary_off">Ocultar item de menu para excluir arquivos da pesquisa de mídia.</string>
+    <string name="preference_mediascan_summary_on">Mostrar item de menu para excluir arquivos da pesquisa de mídia.</string>
+    <string name="preference_mediascan_title">Remover do scanner de mídia.</string>
+    <string name="preference_search_category">Pesquisar</string>
+    <string name="preference_search_dialog_message">Limpar histórico de pesquisa?</string>
+    <string name="preference_search_title">Limpar histórico</string>
+    <string name="preference_showallwarning_summary_off">Suprimir mensagens de advertência</string>
+    <string name="preference_showallwarning_summary_on">Mostrar todas as mensagens de aviso</string>
+    <string name="preference_showallwarning_title">Mostrar todos os avisos</string>
+    <string name="preference_sort_settings">Sort settings</string>
+    <string name="preference_sortby">Ordenar por</string>
+    <string name="preference_sortby_ascending">Em ordem crescente</string>
+    <string name="preference_sortby_ascending_summary_off">Ordenar em ordem decrescente</string>
+    <string name="preference_sortby_ascending_summary_on">Ordenar em ordem crescente</string>
+    <string name="preference_usebestmatch_summary_off">use most recently installed app</string>
+    <string name="preference_usebestmatch_summary_on">use most suitable app</string>
+    <string name="preference_usebestmatch_title">Use best app for icons</string>
+    <string name="preference_usedarktheme_summary_off">Light theme selected</string>
+    <string name="preference_usedarktheme_summary_on">Dark theme selected</string>
+    <string name="preference_usedarktheme_title">Use dark theme (Requires restart of app)</string>
+    <string name="query_error">Erro de consulta</string>
+    <string name="really_delete">Você realmente deseja deletar %s ?</string>
+    <string name="really_delete_multiselect">Tem certeza de que deseja deletar %d arquivos?</string>
+    <string name="rename_failure">Não foi possível renomear</string>
+    <string name="rename_success">Renomeado com sucesso</string>
+    <string name="saveas_error">Ocorreu um erro.</string>
+    <string name="saveas_file_saved">arquivo salvo com sucesso!</string>
+    <string name="saveas_no_file_picked">Você não escolheu nenhum arquivo.</string>
+    <string name="scanning">Verificando...</string>
+    <string name="search_hint">Pesquisar arquivos</string>
+    <string name="search_history_cleared">Histórico de pesquisa limpo</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Pesquisar"</string>
+    <string name="search_settings_descr">Arquivos e pastas no armazenamento</string>
+    <string name="selected">selecionado</string>
+    <string name="send_chooser_title">Enviar usando:</string>
+    <string name="send_not_available">Nenhum aplicativo disponível para envio.</string>
+    <string name="settings">Configurações</string>
+    <string name="show_warning_again">Mostrar aviso novamente</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="this_folder_is_empty">Esta pasta está vazia.</string>
+    <string name="title_warning_some_may_not_work">Atenção</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"DESATIVADO"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ATIVADO"</string>
+    <string name="warning_some_may_not_work">Algumas das seguintes opções podem não funcionar.</string>
+</resources>

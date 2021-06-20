@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Перейти на головну"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Перейти вгору"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Більше опцій"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Показати всі"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Вибрати програму"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"ЗНИЖКА"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"УВІМК."</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"пробіл"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Введіть пошуковий запит…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Очистити запит"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Пошуковий запит"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Пошук"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Наіслати запит"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Голосовий пошук"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Поділитися:"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Поділитися через додаток <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Згорнути"</string>
+    <string name="about_translators">Launchpad Contributions:
+  Андрій Бандура https://launchpad.net/~andriykopanytsia</string>
+    <string name="oi_distribution_about">Про програму</string>
+    <string name="oi_distribution_aboutapp">Про OI</string>
+    <string name="oi_distribution_aboutapp_get">Отримати про OI</string>
+    <string name="oi_distribution_aboutapp_not_available">Нема доступного сумісного розширення для відображення повної інформації (контакти, подяки, ліцензії).</string>
+    <string name="oi_distribution_app_name">Бібліотека OI Distribution</string>
+    <string name="oi_distribution_barcodescanner">Модуль штрих-коду OI</string>
+    <string name="oi_distribution_barcodescanner_not_available">Нема доступного сумісного сканера штрих-коду</string>
+    <string name="oi_distribution_download_market">Завантажте з Маркету</string>
+    <string name="oi_distribution_download_market_message">Будь ласка,  завантажте %s з Маркету або OpenIntents сайту.</string>
+    <string name="oi_distribution_download_message">Будь ласка,  завантажте %s з OpenIntents сайту.</string>
+    <string name="oi_distribution_download_title">Завантажити %s</string>
+    <string name="oi_distribution_download_web">Завантаження з інтернету</string>
+    <string name="oi_distribution_eula_accept">Прийняти</string>
+    <string name="oi_distribution_eula_message">Будь ласка, прочитайте і прийміть таку ліцензійну угоду кінцевого користувача (EULA) для %s.</string>
+    <string name="oi_distribution_eula_refuse">Відміна</string>
+    <string name="oi_distribution_eula_title">%s EULA</string>
+    <string name="oi_distribution_filemanager">Менеджер файлів OI</string>
+    <string name="oi_distribution_filemanager_not_available">Нема доступного сумісного менеджера файлів.</string>
+    <string name="oi_distribution_info_activity_text">%s можна використовувати з наступними програмами:</string>
+    <string name="oi_distribution_info_instructions">Вказівки</string>
+    <string name="oi_distribution_info_launch">Запустити %s</string>
+    <string name="oi_distribution_info_not_available">%1$s потребує %2$s %3$s або вище.</string>
+    <string name="oi_distribution_launch_error">Програма не може запуститися</string>
+    <string name="oi_distribution_menu_update">Перевірити оновлення</string>
+    <string name="oi_distribution_name_and_version">%1$s %2$s</string>
+    <string name="oi_distribution_newversion_continue">Продовжити</string>
+    <string name="oi_distribution_newversion_message">Ласкаво просимо до цієї нової версії %s.</string>
+    <string name="oi_distribution_newversion_recent_changes">Поточні зміни:</string>
+    <string name="oi_distribution_safe">Безпека OI</string>
+    <string name="oi_distribution_safe_not_available">Нема доступної сумісної програми шифрування</string>
+    <string name="oi_distribution_safe_not_available_decrypt">Нема доступної сумісної програми шифрування. \n\nПримітка: Ви повинні відновити головний ключ з файлу резервної копії для того, щоб отримати доступ до раніше зашифрованих даних.</string>
+    <string name="oi_distribution_support">Support</string>
+    <string name="oi_distribution_supportapp">OI Support</string>
+    <string name="oi_distribution_supportapp_get">Get OI Support</string>
+    <string name="oi_distribution_supportapp_not_available">No compatible extension available to display full info (Help/FAQ, Contact Developers, Feature request, Donations).</string>
+    <string name="oi_distribution_update_app">Оновлення OI</string>
+    <string name="oi_distribution_update_box_text">Перевірити вручну оновлення або встановити OI Update для автоматичних сповіщень.</string>
+    <string name="oi_distribution_update_check_now">Перевірити зараз</string>
+    <string name="oi_distribution_update_error">Завантаження програми не доступне.</string>
+    <string name="oi_distribution_update_get_updater">Отримати OI Updater</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Пошук"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"پیمایش به صفحه اصلی"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"رفتن به بالا"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"گزینه‌های بیشتر"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"تمام"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"دیدن همه"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"انتخاب برنامه"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"خاموش"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"روشن"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"‎Alt+‎"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"‎Ctrl+‎"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"حذف"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"‎Function+‎"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"‎Meta+‎"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"‎Shift+‎"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"فاصله"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"‎Sym+‎"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"منو+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"جستجو…‏"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"پاک کردن پُرسمان"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"درخواست جستجو"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"جستجو"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"ارسال پُرسمان"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"جستجوی گفتاری"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"هم‌رسانی با"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"هم‌رسانی با <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"کوچک کردن"</string>
+    <string name="about_translators">Launchpad Contributions:
+  Ben Jordan https://launchpad.net/~ben-jordan86
+  OpenIntents devs https://launchpad.net/~openintents-devs
+  mojtaba piri https://launchpad.net/~mojtabapiri82
+  oren https://launchpad.net/~ahujaaditya92</string>
+    <string name="oi_distribution_about">در مورد</string>
+    <string name="oi_distribution_aboutapp">OI درباره</string>
+    <string name="oi_distribution_aboutapp_get">هر چه زودتر OI در مورد</string>
+    <string name="oi_distribution_aboutapp_not_available">هیچ فرمت سازگار در دسترس برای نمایش کامل اطلاعات (تماس، اعتبار، مجوز).</string>
+    <string name="oi_distribution_app_name">OI کتابخانه توزیع</string>
+    <string name="oi_distribution_barcodescanner">بارکد پلاگین OI</string>
+    <string name="oi_distribution_barcodescanner_not_available">هیچ اسکنر بارکد سازگار در دسترس است.</string>
+    <string name="oi_distribution_download_market">دانلود بازار</string>
+    <string name="oi_distribution_download_market_message">Please download %s from the Market or the OpenIntents website.</string>
+    <string name="oi_distribution_download_message">Please download %s from the OpenIntents website.</string>
+    <string name="oi_distribution_download_title">دانلود s%</string>
+    <string name="oi_distribution_download_web">وب سایت دانلود</string>
+    <string name="oi_distribution_eula_accept">پذیرش</string>
+    <string name="oi_distribution_eula_message">لطفا برای خواندن و پذیرفتن توافقنامه مجوز کاربر نهایی زیر (EULA) برای s% با</string>
+    <string name="oi_distribution_eula_refuse">لغو</string>
+    <string name="oi_distribution_eula_title">%s EULA</string>
+    <string name="oi_distribution_filemanager">OI مدیر فایل</string>
+    <string name="oi_distribution_filemanager_not_available">هیچ مدیر فایل سازگار در دسترس است.</string>
+    <string name="oi_distribution_info_activity_text">%s can be used with the following applications:</string>
+    <string name="oi_distribution_info_instructions">دستورالعمل</string>
+    <string name="oi_distribution_info_launch">پرت‌ كردن‌ s%</string>
+    <string name="oi_distribution_info_not_available">%1$s requires %2$s %3$s or higher.</string>
+    <string name="oi_distribution_launch_error">برنامه می تواند نه راه اندازی شد</string>
+    <string name="oi_distribution_menu_update">بررسیبه روز رسانی</string>
+    <string name="oi_distribution_name_and_version">%1$s %2$s</string>
+    <string name="oi_distribution_newversion_continue">دنباله</string>
+    <string name="oi_distribution_newversion_message">به این ورژن جدید از خوش آمدید s% با</string>
+    <string name="oi_distribution_newversion_recent_changes">تغییرات اخیر :</string>
+    <string name="oi_distribution_safe">OI امن</string>
+    <string name="oi_distribution_safe_not_available">هیچ برنامه برای رمزگذاری سازگار در دسترس است.</string>
+    <string name="oi_distribution_safe_not_available_decrypt">No compatible application for decryption is available.\n\nNote: You have to restore the master key from a backup file in order to access previously encrypted data.</string>
+    <string name="oi_distribution_support">Support</string>
+    <string name="oi_distribution_supportapp">OI Support</string>
+    <string name="oi_distribution_supportapp_get">Get OI Support</string>
+    <string name="oi_distribution_supportapp_not_available">No compatible extension available to display full info (Help/FAQ, Contact Developers, Feature request, Donations).</string>
+    <string name="oi_distribution_update_app">OI بروز رسانی OI بروز رسانی</string>
+    <string name="oi_distribution_update_box_text">چک دستی برای به روز رسانی و یا نصب به روزOI رسانی اطلاعیه های اتوماتیک</string>
+    <string name="oi_distribution_update_check_now">بررسی اکنون</string>
+    <string name="oi_distribution_update_error">دانلود کاربرد نه در دسترس است.</string>
+    <string name="oi_distribution_update_get_updater">دریافت OI به روز رسانی</string>
+    <string msgid="730395136688082741" name="search_menu_title">"جستجو"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

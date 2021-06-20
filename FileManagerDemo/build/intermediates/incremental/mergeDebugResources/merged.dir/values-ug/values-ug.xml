@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_translators">Launchpad Contributions:
+  OpenIntents devs https://launchpad.net/~openintents-devs
+  Sahran https://launchpad.net/~sahran</string>
+    <string name="oi_distribution_about">ھەققىدە</string>
+    <string name="oi_distribution_aboutapp">OI ھەققىدە</string>
+    <string name="oi_distribution_aboutapp_get">OI ھەققىدىكى ئۇچۇر</string>
+    <string name="oi_distribution_aboutapp_not_available">تولۇق ئۇچۇرنى كۆرسىتىدىغان ماسلىشىشچان كېڭەيتىلمە يوق (ئالاقەداش، تۆھپىكارلار، ئىجازەت).</string>
+    <string name="oi_distribution_app_name">OI  چۈشەندۈرۈش ئامبىرى</string>
+    <string name="oi_distribution_barcodescanner">OI تاياقچە كود قىستۇرمىسى</string>
+    <string name="oi_distribution_barcodescanner_not_available">ماسلىشىدىغان تاياقچە كود تاراغۇچ يوق.</string>
+    <string name="oi_distribution_download_market">بازاردىن چۈشۈر</string>
+    <string name="oi_distribution_download_market_message">%s  نى بازاردىن ياكى OpenIntents تورتۇرادىن چۈشۈرۈڭ.</string>
+    <string name="oi_distribution_download_message">%s نى OpenIntents  تورتۇرادىن چۈشۈرۈڭ.</string>
+    <string name="oi_distribution_download_title">%s نى چۈشۈر</string>
+    <string name="oi_distribution_download_web">تورتۇرادىن چۈشۈر</string>
+    <string name="oi_distribution_eula_accept">قوشۇل</string>
+    <string name="oi_distribution_eula_message">%s نىڭ ئاخىرقى ئىشلەتكۈچى ئىجازەت كېلىشىمىنى ئوقۇپ، ئۇنىڭغا قوشۇلۇڭ.</string>
+    <string name="oi_distribution_eula_refuse">ۋاز كەچ</string>
+    <string name="oi_distribution_eula_title">%s ئاخىرقى ئىشلەتكۈچى ئىجازەت كېلىشىمى</string>
+    <string name="oi_distribution_filemanager">OI ھۆججەت باشقۇرغۇچ</string>
+    <string name="oi_distribution_filemanager_not_available">ماسلىشىشچان ھۆججەت باشقۇرغۇچ يوق.</string>
+    <string name="oi_distribution_info_activity_text">%s نى تۆۋەندىكى ئەپلەردە ئىشلەتكىلى بولىدۇ:</string>
+    <string name="oi_distribution_info_instructions">تونۇشتۇرۇش</string>
+    <string name="oi_distribution_info_launch">%s نى ئىجرا قىل</string>
+    <string name="oi_distribution_info_not_available">%1$s  غا %2$s %3$s ياكى يۇقىرى نەشرى زۆرۈر.</string>
+    <string name="oi_distribution_launch_error">ئەپنى قوزغىتالمىدى</string>
+    <string name="oi_distribution_menu_update">يېڭىلاشنى تەكشۈر</string>
+    <string name="oi_distribution_name_and_version">%1$s %2$s</string>
+    <string name="oi_distribution_newversion_continue">داۋاملاشتۇر</string>
+    <string name="oi_distribution_newversion_message">يېڭى نەشرى %s گە مەرھابا</string>
+    <string name="oi_distribution_newversion_recent_changes">يېقىنقى ئۆزگەرتىشلەر:</string>
+    <string name="oi_distribution_safe">OI بىخەتەرلىك</string>
+    <string name="oi_distribution_safe_not_available">ماسلىشىشچان شىفىرلايدىغان ئەپ يوق.</string>
+    <string name="oi_distribution_safe_not_available_decrypt">ماسلىشىشچان شىفىر يېشىدىغان ئەپ يوق.\n\nدىققەت: ئاساسىي ئاچقۇچنى زاپاس ھۆججەتتىن ئەسلىگە كەلتۈرگەندىلا ئاندىن ئىلگىرى شىفىرلانغان ئۇچۇرلارنى زىيارەت قىلغىلى بولىدۇ.</string>
+    <string name="oi_distribution_support">Support</string>
+    <string name="oi_distribution_supportapp">OI Support</string>
+    <string name="oi_distribution_supportapp_get">Get OI Support</string>
+    <string name="oi_distribution_supportapp_not_available">No compatible extension available to display full info (Help/FAQ, Contact Developers, Feature request, Donations).</string>
+    <string name="oi_distribution_update_app">OI يېڭىلا</string>
+    <string name="oi_distribution_update_box_text">يېڭىلاشنى قولدا تەكشۈرىدۇ ياكى ئۆزلۈكىدىن ئۇقتۇرۇش قىلىپ OI يېڭىلاشنى ئورنىتىدۇ.</string>
+    <string name="oi_distribution_update_check_now">ھازىر تەكشۈر</string>
+    <string name="oi_distribution_update_error">چۈشۈرىدىغان ئەپ يوق.</string>
+    <string name="oi_distribution_update_get_updater">OI يېڭىلىغۇچقا ئېرىش</string>
+</resources>

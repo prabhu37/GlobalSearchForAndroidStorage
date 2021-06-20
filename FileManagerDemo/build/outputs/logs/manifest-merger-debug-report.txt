@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:2:1-24:12
+MERGED from [com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:2:1-40:12
+MERGED from [com.google.android.material:material:1.1.0-beta02] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/d6c414b9be9289f19fabc8a415e5296b/material-1.1.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/b97f53b4a3fb5da7260b5f00548a81e7/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/f05f09d09e8623b919f82085b1e1ec95/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-rc01] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/100750f683fb97d4b4615c6168929ba3/coordinatorlayout-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/2511317b607cebc712f2c5089165f591/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/e44747ab39f83b4b0f0f42e4a203a2b0/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/9c07f0d809cdcfb22f6addedb1c3c98f/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/4e2907d0315cdc86e087bc526a062b92/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-rc01] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/73436a02af62864ddeac4d0a11a3ce59/viewpager2-1.0.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/3b05066f2142d81cef537902527a6c34/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/f56bdfbaac90fd393b77e4840855e2a8/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/dcbf1b4193854f2a41e375186f9aea14/recyclerview-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/68f68e52fcb318339d9ca4dc6be2afed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/66749f45ed651ed6278dc6c37c400588/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/590a771056d916782975199735b1f6d6/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/6f8bf406d3ecd5d1d03a0c1afbf35f13/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/333a3fa6a67a89f8c0379ab044666050/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/2384288538bff9927c7c685d72e211cc/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/fa31f20e79f9f397c8f290e62efae9f2/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/7625b3ba51055f9ce7558f09b7baf778/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/cd295103a964a0ca563c88bfa252ed24/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/22ba89dbec25b04047ad1e63ef8e17c3/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/41f9e78072c642ebc424a4e2eecebffb/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/913d0ef7d4807496be9f2393e8007e3f/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/da4874fc6107ba1f8ed36c39d709c713/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/379b21f26f06358ba8552b37e9a55591/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:4:5-47
+		INJECTED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml
+		INJECTED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml
+		ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml
+		ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:11:22-77
+application
+ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:13:5-23:19
+MERGED from [com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.material:material:1.1.0-beta02] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/d6c414b9be9289f19fabc8a415e5296b/material-1.1.0-beta02/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-beta02] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/d6c414b9be9289f19fabc8a415e5296b/material-1.1.0-beta02/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/333a3fa6a67a89f8c0379ab044666050/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/333a3fa6a67a89f8c0379ab044666050/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/fa31f20e79f9f397c8f290e62efae9f2/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/fa31f20e79f9f397c8f290e62efae9f2/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/333a3fa6a67a89f8c0379ab044666050/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:13:48-80
+	tools:ignore
+		ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:15:9-48
+	android:icon
+		ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:13:18-47
+	android:allowBackup
+		ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:14:9-36
+activity#org.openintents.filemanager.demo.Demo
+ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:16:9-22:20
+	android:label
+		ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:17:19-51
+	android:name
+		ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:16:19-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:19:17-68
+	android:name
+		ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml
+INJECTED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml
+MERGED from [com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:14:5-16:41
+MERGED from [com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:14:5-16:41
+MERGED from [com.google.android.material:material:1.1.0-beta02] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/d6c414b9be9289f19fabc8a415e5296b/material-1.1.0-beta02/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-beta02] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/d6c414b9be9289f19fabc8a415e5296b/material-1.1.0-beta02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/b97f53b4a3fb5da7260b5f00548a81e7/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/b97f53b4a3fb5da7260b5f00548a81e7/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/f05f09d09e8623b919f82085b1e1ec95/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/f05f09d09e8623b919f82085b1e1ec95/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-rc01] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/100750f683fb97d4b4615c6168929ba3/coordinatorlayout-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-rc01] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/100750f683fb97d4b4615c6168929ba3/coordinatorlayout-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/2511317b607cebc712f2c5089165f591/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/2511317b607cebc712f2c5089165f591/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/e44747ab39f83b4b0f0f42e4a203a2b0/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/e44747ab39f83b4b0f0f42e4a203a2b0/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/9c07f0d809cdcfb22f6addedb1c3c98f/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/9c07f0d809cdcfb22f6addedb1c3c98f/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/4e2907d0315cdc86e087bc526a062b92/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/4e2907d0315cdc86e087bc526a062b92/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-rc01] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/73436a02af62864ddeac4d0a11a3ce59/viewpager2-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-rc01] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/73436a02af62864ddeac4d0a11a3ce59/viewpager2-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/3b05066f2142d81cef537902527a6c34/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/3b05066f2142d81cef537902527a6c34/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/f56bdfbaac90fd393b77e4840855e2a8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/f56bdfbaac90fd393b77e4840855e2a8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/dcbf1b4193854f2a41e375186f9aea14/recyclerview-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/dcbf1b4193854f2a41e375186f9aea14/recyclerview-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/68f68e52fcb318339d9ca4dc6be2afed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/68f68e52fcb318339d9ca4dc6be2afed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/66749f45ed651ed6278dc6c37c400588/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/66749f45ed651ed6278dc6c37c400588/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/590a771056d916782975199735b1f6d6/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/590a771056d916782975199735b1f6d6/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/6f8bf406d3ecd5d1d03a0c1afbf35f13/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/6f8bf406d3ecd5d1d03a0c1afbf35f13/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/333a3fa6a67a89f8c0379ab044666050/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/333a3fa6a67a89f8c0379ab044666050/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/2384288538bff9927c7c685d72e211cc/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/2384288538bff9927c7c685d72e211cc/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/fa31f20e79f9f397c8f290e62efae9f2/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/fa31f20e79f9f397c8f290e62efae9f2/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/7625b3ba51055f9ce7558f09b7baf778/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/7625b3ba51055f9ce7558f09b7baf778/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/cd295103a964a0ca563c88bfa252ed24/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/cd295103a964a0ca563c88bfa252ed24/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/22ba89dbec25b04047ad1e63ef8e17c3/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/22ba89dbec25b04047ad1e63ef8e17c3/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/41f9e78072c642ebc424a4e2eecebffb/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/41f9e78072c642ebc424a4e2eecebffb/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/913d0ef7d4807496be9f2393e8007e3f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/913d0ef7d4807496be9f2393e8007e3f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/da4874fc6107ba1f8ed36c39d709c713/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/da4874fc6107ba1f8ed36c39d709c713/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/379b21f26f06358ba8552b37e9a55591/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/379b21f26f06358ba8552b37e9a55591/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml
+INJECTED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml
+		ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml
+		INJECTED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml
+		ADDED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml
+		INJECTED from /Users/prabhakaranpanjalingam/Documents/My R&D Work/GlobalSearchForAndroidStorage/filemanager-master/FileManagerDemo/AndroidManifest.xml
+uses-feature#android.hardware.touchscreen
+ADDED from [com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from [com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:19:9-52
+activity#org.openintents.distribution.EulaActivity
+ADDED from [com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:23:9-26:20
+	android:label
+		ADDED from [com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:25:13-63
+	android:name
+		ADDED from [com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:24:13-69
+activity#org.openintents.distribution.about.About
+ADDED from [com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:27:9-37:20
+	android:label
+		ADDED from [com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:29:13-42
+	android:name
+		ADDED from [com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:28:13-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.MONKEY
+ADDED from [com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:32:13-36:29
+category#android.intent.category.MONKEY
+ADDED from [com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:35:17-75
+	android:name
+		ADDED from [com.github.openintents:distribution:3.2.0] /Users/prabhakaranpanjalingam/Documents/caches/transforms-2/files-2.1/de6a661306f5ed340c7d66c099237ae8/distribution-3.2.0/AndroidManifest.xml:35:27-72
